@@ -1,5 +1,4 @@
 baseURL = 'http://ntro.ca/'
-languageCode = 'fr-ca'
 title = 'Ntro'
 theme = 'hugo-book'
 
@@ -15,6 +14,21 @@ enableGitInfo = true
 [markup.tableOfContents]
     startLevel = 1
 
+[languages]
+
+[languages.fr]
+    languageName = "Français"
+    languageCode = 'fr-ca'
+    contentDir = "fr.content"
+    weight = 1
+
+[languages.en]
+    languageName = "English"
+    languageCode = 'en-ca'
+    contentDir = "en.content"
+    weight = 2
+
+
 
 [menu]
 # [[menu.before]]
@@ -26,7 +40,7 @@ enableGitInfo = true
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'dark'
+  BookTheme = 'auto'
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
@@ -90,4 +104,4 @@ enableGitInfo = true
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
-  BookTranslatedOnly = false
+  BookTranslatedOnly = true
