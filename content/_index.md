@@ -6,7 +6,7 @@
 
 
 <center>
-<img width="50%" src="/LinkedList.png"/>
+<img width="50%" src="LinkedList.png"/>
 </center>
 
 
@@ -14,25 +14,25 @@
 
 
 <center>
-<img width="50%" src="/efficacite.png"/>
+<img width="50%" src="efficacite.png"/>
 </center>
 
 ## Visualiser le modèle d'une application graphique
 
 
 <center>
-<img width="50%" src="/VueFileAttente.png"/>
+<img width="50%" src="VueFileAttente.png"/>
 </center>
 
 
 <center>
-<img width="50%" src="/ModeleFileAttente.png"/>
+<img width="50%" src="ModeleFileAttente.png"/>
 </center>
 
 ## Visualiser les tâches d'une application graphique
 
 <center>
-<img width="50%" src="/frontend.png"/>
+<img width="50%" src="frontend.png"/>
 </center>
 
 
