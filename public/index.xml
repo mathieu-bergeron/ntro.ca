@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ntro.ca</title>
+    <title>Ntro</title>
     <link>http://ntro.ca/</link>
-    <description>Recent content on ntro.ca</description>
+    <description>Recent content on Ntro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language><atom:link href="http://ntro.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structures</title>
+      <link>http://ntro.ca/docs/manuels/structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntro.ca/docs/manuels/structures/</guid>
+      <description>Structures de données #  </description>
+    </item>
+    
   </channel>
 </rss>

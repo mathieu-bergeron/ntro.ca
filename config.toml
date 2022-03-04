@@ -2,6 +2,8 @@ baseURL = 'http://ntro.ca/'
 title = 'Ntro'
 theme = 'hugo-book'
 
+defaultContentLanguage = "fr"
+
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
@@ -9,7 +11,7 @@ enableGitInfo = true
 # Needed for mermaid/katex shortcodes
 [markup]
 [markup.goldmark.renderer]
-  unsafe = true
+    unsafe = true
 
 [markup.tableOfContents]
     startLevel = 1
@@ -19,7 +21,7 @@ enableGitInfo = true
 [languages.fr]
     languageName = "Français"
     languageCode = 'fr-ca'
-    contentDir = "fr.content"
+    contentDir = "content"
     weight = 1
 
 [languages.en]
@@ -79,7 +81,7 @@ enableGitInfo = true
   # Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  BookDateFormat = 'January 2, 2006'
+  BookDateFormat = '2006-01-02'
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
@@ -104,4 +106,4 @@ enableGitInfo = true
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
-  BookTranslatedOnly = true
+  BookTranslatedOnly = false

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ntro.ca</title>
+    <title>Categories on Ntro</title>
     <link>http://ntro.ca/categories/</link>
-    <description>Recent content in Categories on ntro.ca</description>
+    <description>Recent content in Categories on Ntro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language><atom:link href="http://ntro.ca/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
