@@ -1,6 +1,6 @@
 ---
-title: "Manuels"
-weight: 1
+title: "420-4F5-MO"
+weight: 2
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -8,3 +8,6 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
+
+# Environnement graphique client/serveur
+

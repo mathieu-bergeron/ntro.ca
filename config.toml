@@ -1,5 +1,5 @@
 baseURL = 'http://ntro.ca/'
-title = 'Ntro'
+title = 'ntro.ca'
 theme = 'hugo-book'
 
 defaultContentLanguage = "fr"
@@ -60,7 +60,7 @@ enableGitInfo = true
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  BookSection = 'docs'
+  BookSection = '/'
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.

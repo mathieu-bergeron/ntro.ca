@@ -1,6 +1,6 @@
 ---
 title: "Cours"
-weight: 1
+weight: 2
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -8,6 +8,3 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
-
-
-# Les cours

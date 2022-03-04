@@ -1,6 +1,6 @@
 ---
-title: "Cadriciel Ntro"
-weight: 10
+title: "Les structures de données Java expliquées avec des jeux de cartes"
+weight: 1
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -9,5 +9,6 @@ weight: 10
 # bookSearchExclude: false
 ---
 
+# Structure de données Java
 
-# La librarie Ntro
+

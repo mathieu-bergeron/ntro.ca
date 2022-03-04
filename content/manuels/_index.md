@@ -1,6 +1,6 @@
 ---
-title: "Structures De Donnees"
-weight: 1
+title: "Manuels"
+weight: 3
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -8,7 +8,3 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
-
-# Structure de données Java
-
-
