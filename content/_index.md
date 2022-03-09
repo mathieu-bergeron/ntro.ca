@@ -1,5 +1,12 @@
 # Outils pour les cours d'intro en programmation
 
+## Auto-valider un atelier de façon interactive
+
+
+<center>
+<img width="75%" src="erreur.png"/>
+<img width="75%" src="plantage.png"/>
+</center>
 
 
 ## Visualiser les structures de données
