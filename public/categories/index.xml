@@ -5,6 +5,10 @@
     <link>http://ntro.ca/categories/</link>
     <description>Recent content in Categories on Projet Ntro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-ca</language><atom:link href="http://ntro.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-ca</language>
+    
+	<atom:link href="http://ntro.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

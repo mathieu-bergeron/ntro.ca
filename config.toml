@@ -1,5 +1,5 @@
 baseURL = 'http://ntro.ca/'
-title = 'Projet Ntro'
+title = 'Cadriciel Ntro'
 theme = 'hugo-book'
 
 defaultContentLanguage = "fr"

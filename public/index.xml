@@ -5,6 +5,10 @@
     <link>http://ntro.ca/</link>
     <description>Recent content on Projet Ntro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-ca</language><atom:link href="http://ntro.ca/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-ca</language>
+    
+	<atom:link href="http://ntro.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
