@@ -9,7 +9,7 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# Une librairie Java s'adressant aux novices
+# Une librairie Java pour l'enseignement
 
 Prononcé «intro», Ntro est conçu pour les novives sachant déjà programmer, mais éprouvant certaines difficultés à:
 
