@@ -1,4 +1,4 @@
-# Outils pour les cours d'intro en programmation
+# Outils pour enseigner la programmation
 
 ## Auto-valider un atelier de façon interactive
 

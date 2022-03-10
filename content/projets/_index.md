@@ -1,6 +1,6 @@
 ---
-title: "Qu'est-ce que Ntro"
-weight: 1
+title: "Projets utilisant Ntro"
+weight: 5
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
