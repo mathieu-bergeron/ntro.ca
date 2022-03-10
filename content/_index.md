@@ -9,7 +9,7 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# Ntro s'adresse aux novices
+# Une librairie Java s'adressant aux novices
 
 Prononcé «intro», Ntro est conçu pour les novives sachant déjà programmer, mais éprouvant certaines difficultés à:
 
@@ -30,10 +30,9 @@ Prononcé «intro», Ntro est conçu pour les novives sachant déjà programmer,
 
 [Plus de détails]({{< ref ntro >}})
 
-## Ntro est un cadriciel et une méthodologie
+## Ntro est une méthodologie de développement
 
-Pour le développement d'applications graphiques. 
-L'étudiant.e doit déclarer explicitement chaque élément important de son application.
+On doit déclarer explicitement chaque élément important de son application.
 Cette discipline favorise l'apprentissage de l'organisation du programme.
 
 
