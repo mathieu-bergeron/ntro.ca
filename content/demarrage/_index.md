@@ -1,5 +1,5 @@
 ---
-title: "Démarrer avec Ntro"
+title: "Télécharger Ntro"
 weight: 20
 # bookFlatSection: false
 # bookToc: true
