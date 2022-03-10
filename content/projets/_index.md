@@ -1,5 +1,5 @@
 ---
-title: "Projets utilisant Ntro"
+title: "Projets développés en Ntro"
 weight: 70
 # bookFlatSection: false
 # bookToc: true
