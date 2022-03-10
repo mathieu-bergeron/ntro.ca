@@ -1,6 +1,6 @@
 ---
 title: "Manuels"
-weight: 4
+weight: 50
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

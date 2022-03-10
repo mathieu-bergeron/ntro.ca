@@ -1,6 +1,6 @@
 ---
-title: "Qu'est-ce que Ntro"
-weight: 1
+title: "Qu'est-ce que Ntro?"
+weight: 10
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

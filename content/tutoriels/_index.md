@@ -1,6 +1,6 @@
 ---
 title: "Tutoriels"
-weight: 2
+weight: 40
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

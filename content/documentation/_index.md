@@ -1,6 +1,6 @@
 ---
-title: "Projets utilisant Ntro"
-weight: 60
+title: "Documentation"
+weight: 30
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -8,3 +8,4 @@ weight: 60
 # bookComments: false
 # bookSearchExclude: false
 ---
+

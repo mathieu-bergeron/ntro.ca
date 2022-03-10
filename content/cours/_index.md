@@ -1,6 +1,6 @@
 ---
 title: "Notes de cours"
-weight: 3
+weight: 50
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
