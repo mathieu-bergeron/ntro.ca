@@ -1,5 +1,5 @@
 ---
-title: "420-4F5-MO"
+title: "420-3C6-MO"
 weight: 2
 # bookFlatSection: false
 # bookToc: true
@@ -9,5 +9,8 @@ weight: 2
 # bookSearchExclude: false
 ---
 
-# Environnement graphique client/serveur
+# 4f5: environnement graphique client/serveur
 
+Ces notes de cours sont au <a target="_blank" href="https://ciboulot.ca/cegep/420-4F5-MO/">ciboulot.ca/cegep/420-4F5-MO/</a>&nbsp;🔗
+
+(j'espère les migrer ici bientôt).
