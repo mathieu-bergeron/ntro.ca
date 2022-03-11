@@ -11,7 +11,7 @@ weight: 1
 
 # Une librairie Java pour l'enseignement
 
-Prononcé «intro», Ntro est conçu pour les novives sachant déjà programmer, mais éprouvant certaines difficultés à:
+Prononcé «intro», Ntro est conçu pour les novices sachant déjà programmer, mais éprouvant certaines difficultés à:
 
 * imaginer comment les données sont organisées en mémoire
 * imaginer les différentes tâches effectuées par le programme et leurs interdépendances
