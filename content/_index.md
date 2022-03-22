@@ -21,7 +21,7 @@ Prononcé «intro», Ntro est conçu pour les novices sachant déjà programmer,
 
 <br>
 
-Page GitHub: https://github.com/mathieu-bergeron/ntro
+Page GitHub: https://github.com/mathieu-bergeron/ntro.ca/
 
 
 ## Ntro contient des outils pour

@@ -11,7 +11,7 @@ weight: 10
 
 # Outils pour enseigner la programmation
 
-Page GitHub: https://github.com/mathieu-bergeron/ntro
+Page GitHub: https://github.com/mathieu-bergeron/ntro.ca/
 
 <br>
 
