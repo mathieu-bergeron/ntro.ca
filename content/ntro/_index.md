@@ -11,7 +11,7 @@ weight: 10
 
 # Outils pour enseigner la programmation
 
-Page GitHub: https://github.com/mathieu-bergeron/ntro.ca/
+Code source: [github.com/mathieu-bergeron/ntro/](https://github.com/mathieu-bergeron/ntro/)
 
 <br>
 
@@ -30,6 +30,10 @@ Prononcé «intro», Ntro est conçu pour les novices sachant déjà programmer,
 <img width="75%" src="/ntro/erreur.png"/>
 <img width="75%" src="/ntro/plantage.png"/>
 </center>
+
+<br>
+
+Code source: [github.com/mathieu-bergeron/validation_de_tutoriels](https://github.com/mathieu-bergeron/validation_de_tutoriels)
 
 
 ## Visualiser les structures de données
