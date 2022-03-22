@@ -19,6 +19,10 @@ Prononcé «intro», Ntro est conçu pour les novices sachant déjà programmer,
 * réfléchir à l'efficacité du programme
 * modéliser les données d'une application (créer des modèles)
 
+<br>
+
+Page GitHub: https://github.com/mathieu-bergeron/ntro
+
 
 ## Ntro contient des outils pour
 

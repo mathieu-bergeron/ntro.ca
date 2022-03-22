@@ -11,6 +11,18 @@ weight: 10
 
 # Outils pour enseigner la programmation
 
+Page GitHub: https://github.com/mathieu-bergeron/ntro
+
+<br>
+
+Prononcé «intro», Ntro est conçu pour les novices sachant déjà programmer, mais éprouvant certaines difficultés à:
+
+* imaginer comment les données sont organisées en mémoire
+* imaginer les différentes tâches effectuées par le programme et leurs interdépendances
+* décortiquer les messages d'erreurs de Java
+* réfléchir à l'efficacité du programme
+* modéliser les données d'une application (créer des modèles)
+
 ## Auto-valider un atelier de façon interactive
 
 
