@@ -9,6 +9,12 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# Structure de données Java
+# Structure de données Java expliquées avec des jeux de cartes
+
+## Exemple d'un arbre de recherche
+
+<center>
+<video width="50%" src="exemple.mp4" type="video/mp4" controls>
+</center>
 
 
