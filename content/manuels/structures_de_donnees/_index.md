@@ -49,3 +49,21 @@ weight: 1
 <center>
 <video width="50%" src="tri_fusion.mp4" type="video/mp4" controls>
 </center>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# NOTES
+
+## Installation temporaire
+
+* J'ai dû tourner avec ma Webcam, d'où la piètre qualité d'image (et l'effet branlant)
+* Le Collège Montmorency possède une «caméra document» que je pourrai utiliser pour d'éventuelles vidéos finales
+
+<center>
+<img width="320px" src="studio_temporaire.jpg"/>
+</center>
