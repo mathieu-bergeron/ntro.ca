@@ -44,11 +44,37 @@ weight: 1
 <video width="50%" src="tri_naif_efficacite.mp4" type="video/mp4" controls>
 </center>
 
+<br>
+<br>
+<br>
+<br>
+
+#### Efficace Vs inefficace en théorie
+
+<center>
+<img src="lineaire_vs_quadratique.png"/>
+</center>
+
+#### Efficace Vs inefficace mesuré
+
+<center>
+<img src="quadratique_mesure.png"/>
+</center>
+
 ## Un tri efficace
 
 <center>
 <video width="50%" src="tri_fusion.mp4" type="video/mp4" controls>
 </center>
+
+* L'efficacité du tri fusion est `O(log(n)·n)` 
+
+* Les algorithmes `O(log(n)·n)` sont presques aussi efficaces que `O(n)`:
+
+<center>
+    <img src="loglineaire.png"/>
+</center>
+
 
 
 <br>
