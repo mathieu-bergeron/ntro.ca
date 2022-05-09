@@ -11,6 +11,9 @@ weight: 1
 
 # Structure de données Java expliquées avec des jeux de cartes
 
+* 6 vidéos
+* temps total: 20 minutes
+
 ## Intro
 
 <center>
