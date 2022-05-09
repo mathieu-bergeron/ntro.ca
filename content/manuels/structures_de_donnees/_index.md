@@ -9,7 +9,7 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# Les structure de expliquées avec des cartes
+# Les structures de données expliquées avec des cartes
 
 * 6 vidéos
 * temps total: 20 minutes
