@@ -1,5 +1,5 @@
 ---
-title: "Les structures de données Java expliquées avec des jeux de cartes"
+title: "Les structures de données expliquées avec des cartes"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -9,7 +9,7 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# Structure de données Java expliquées avec des jeux de cartes
+# Les structure de expliquées avec des cartes
 
 * 6 vidéos
 * temps total: 20 minutes
