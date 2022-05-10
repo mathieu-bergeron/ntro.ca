@@ -40,6 +40,11 @@ weight: 1
 
 <video width="80%" src="tri_humain_en_json.mp4" type="video/mp4" loop nocontrols autoplay></video>
 
+#### tri «humain» avec des données en Java
+
+<video width="50%" src="tri_humain_donnees_java.mp4" type="video/mp4" loop nocontrols autoplay></video>
+
+
 
 ## Le tri en programmation
 
