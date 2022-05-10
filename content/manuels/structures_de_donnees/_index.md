@@ -32,6 +32,15 @@ weight: 1
 <video width="50%" src="tri_humain.mp4" type="video/mp4" controls>
 </center>
 
+#### tri «humain» à l'écran
+
+<video width="80%" src="tri_humain_a_l_ecran.mp4" type="video/mp4" loop nocontrols autoplay></video>
+
+#### tri «humain» en JSON
+
+<video width="80%" src="tri_humain_en_json.mp4" type="video/mp4" loop nocontrols autoplay></video>
+
+
 ## Le tri en programmation
 
 <center>
