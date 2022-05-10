@@ -36,7 +36,7 @@ weight: 1
 
 <video width="80%" src="tri_humain_a_l_ecran.mp4" type="video/mp4" loop nocontrols autoplay></video>
 
-#### tri «humain» en JSON
+#### tri «humain» en code JSON
 
 <video width="80%" src="tri_humain_en_json.mp4" type="video/mp4" loop nocontrols autoplay></video>
 
