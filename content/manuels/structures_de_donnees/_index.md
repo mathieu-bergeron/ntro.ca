@@ -65,11 +65,16 @@ weight: 1
 
 #### Efficace Vs inefficace en théorie
 
-<center>
-<img src="lineaire_vs_quadratique.png"/>
-</center>
+* nombre d'opérations simples selon le nombre d'éléments en entrée
+
+    <center>
+    <img src="lineaire_vs_quadratique.png"/>
+    </center>
+
 
 #### Efficace Vs inefficace mesuré
+
+* temps d'exécution selon le nombre d'éléments en entrée
 
 <center>
 <img src="quadratique_mesure.png"/>
