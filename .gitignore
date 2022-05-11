@@ -1,4 +1,8 @@
 .hugo_build.lock 
-public
+/public
 
 *.mkv
+
+/resources
+
+/themes/hugo-book
