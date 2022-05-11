@@ -16,21 +16,37 @@ weight: 1
 
 ## Intro
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lknxfG4wELc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<!--
 <center>
 <video width="50%" src="intro.mp4" type="video/mp4" controls>
 </center>
+-->
 
 ## Le tri
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fcHvrHlFvPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--
 <center>
 <video width="50%" src="intro_tri.mp4" type="video/mp4" controls>
 </center>
+-->
 
 ## Le tri «humain»
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Kd2yO4Ee1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<!--
 <center>
 <video width="50%" src="tri_humain.mp4" type="video/mp4" controls>
 </center>
+-->
 
 #### tri «humain» à l'écran
 
@@ -48,15 +64,25 @@ weight: 1
 
 ## Le tri en programmation
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jL0kfK_gkXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--
 <center>
 <video width="50%" src="tri_naif.mp4" type="video/mp4" controls>
 </center>
+-->
 
 ## Efficacité
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZVBhstBmM7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--
 <center>
 <video width="50%" src="tri_naif_efficacite.mp4" type="video/mp4" controls>
 </center>
+-->
 
 <br>
 <br>
@@ -77,9 +103,15 @@ weight: 1
 
 ## Un tri efficace
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WJc0zC5fur0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<!--
 <center>
 <video width="50%" src="tri_fusion.mp4" type="video/mp4" controls>
 </center>
+-->
 
 * L'efficacité du tri fusion est `O(log(n)·n)` 
 
