@@ -1,0 +1,58 @@
+<!-- ajouter -->
+<?import javafx.scene.control.Label?>
+
+<VBox xmlns:fx="http://javafx.com/fxml"
+    fx:controller="pong.frontal.vues.VuePartie" 
+    fx:id="vboxPartie"
+    styleClass="conteneur"
+    id="vue-partie">
+
+    <!-- ... -->
+
+    <!-- ajouter des élements pour afficher les noms et les pointages -->
+    <HBox styleClass="conteneur">
+
+        <Pane HBox.hgrow="ALWAYS" styleClass="grand-espace-horizontal"/>
+
+        <Label
+            fx:id="labelNomPremierJoueur"
+            styleClass="label-nom-joueur">
+        </Label>
+
+        <Pane  HBox.hgrow="ALWAYS" styleClass="grand-espace-horizontal"/>
+
+        <Label
+            fx:id="labelScorePremierJoueur"
+            styleClass="label-nom-joueur">
+        </Label>
+
+        <Pane  HBox.hgrow="ALWAYS" styleClass="grand-espace-horizontal"/>
+
+        <Button 
+            fx:id="boutonQuitterPartie" 
+            text="%quitterPartie"
+            styleClass="gros-bouton"
+            id="bouton-quitter-partie">
+        </Button>
+
+        <Pane  HBox.hgrow="ALWAYS" styleClass="grand-espace-horizontal"/>
+
+        <Label
+            fx:id="labelScoreDeuxiemeJoueur"
+            styleClass="label-nom-joueur">
+        </Label>
+
+        <Pane  HBox.hgrow="ALWAYS" styleClass="grand-espace-horizontal"/>
+
+        <Label
+            fx:id="labelNomDeuxiemeJoueur"
+            styleClass="label-nom-joueur">
+        </Label>
+
+        <Pane  HBox.hgrow="ALWAYS" styleClass="grand-espace-horizontal"/>
+
+    </HBox>
+
+    <Pane styleClass="petit-espace-vertical"/>
+
+</VBox>

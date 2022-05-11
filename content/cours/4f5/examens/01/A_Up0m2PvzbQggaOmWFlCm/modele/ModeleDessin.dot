@@ -1,0 +1,8 @@
+digraph "ModeleDessin" {
+graph ["rankdir"="LR","compound"="true","ranksep"="1.0","nodesep"="1.0"]
+"/" ["label"="<_C>ModeleDessin|{formes|{{0|<formes__V_0_0>}|{1|<formes__V_1_1>}}}","style"="filled","fillcolor"="white","shape"="record"]
+"/formes/0" ["label"="<_C>Cercle|{centreX|100}|{centreY|50}|{rayon|10}|{rempli|true}","style"="filled","fillcolor"="white","shape"="record"]
+"/formes/1" ["label"="<_C>Rectangle|{centreX|30}|{centreY|10}|{largeur|15}|{hauteur|5}","style"="filled","fillcolor"="white","shape"="record"]
+"/":"formes__V_1_1":c -> "/formes/1":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+"/":"formes__V_0_0":c -> "/formes/0":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+}

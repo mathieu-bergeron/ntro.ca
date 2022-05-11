@@ -1,0 +1,8 @@
+<HBox xmlns:fx="http://javafx.com/fxml">
+    <HBox>
+        <CheckBox text="1"/>
+    </HBox>
+    <HBox>
+        <CheckBox text="2"/>
+    </HBox>
+</HBox>

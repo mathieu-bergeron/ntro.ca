@@ -1,0 +1,153 @@
+.conteneur {
+    -fx-alignment: center;
+    -fx-background-color:gray;
+    -fx-border-width:10;
+    -fx-border-color:black;
+}
+
+
+.petit-espace-horizontal {
+    -fx-min-width:10;
+    -fx-max-width:50;
+    -fx-background-color:pink;
+    -fx-opacity:0.2;
+}
+
+.petit-espace-vertical {
+    -fx-min-height:10;
+    -fx-background-color:pink;
+    -fx-opacity:0.2;
+}
+
+.grand-espace-vertical {
+    -fx-min-height:30;
+    -fx-max-height:200;
+    -fx-background-color:pink;
+    -fx-opacity:0.2;
+}
+
+.ressort-horizontal {
+    -fx-min-width:10;
+    -fx-pref-width:300;
+    -fx-max-width:500;
+    -fx-background-color:pink;
+    -fx-opacity:0.2;
+}
+
+/* http://fxexperience.com/2011/12/styling-fx-buttons-with-css/ */
+.gros-bouton {
+    -fx-padding: 8 15 15 15;
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color: 
+        linear-gradient(from 0% 93% to 0% 100%, #a34313 0%, #903b12 100%),
+        #9d4024,
+        #d86e3a,
+        radial-gradient(center 50% 50%, radius 100%, #d86e3a, #c54e2c);
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+    -fx-font-weight: bold;
+    -fx-font-size: 1.1em;
+}
+
+.gros-bouton:pressed {
+    -fx-scale-x:0.9;
+    -fx-scale-y:0.9;
+}
+
+.gros-bouton:hover {
+    -fx-cursor: hand;
+}
+
+.scroll-bar {
+   -fx-background-color: transparent;
+   -fx-border-color: transparent;
+}
+
+.scroll-bar .track {
+   -fx-background-color: derive(black, 75%);
+   -fx-border-color: transparent;
+   -fx-background-radius: 8;
+}
+
+.scroll-bar .thumb {
+    -fx-padding: 8 15 15 15;
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color: 
+        linear-gradient(from 0% 93% to 0% 100%, #a34313 0%, #903b12 100%),
+        #9d4024,
+        #d86e3a,
+        radial-gradient(center 50% 50%, radius 100%, #d86e3a, #c54e2c);
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+}
+
+.scroll-bar .increment-button,
+.scroll-bar .decrement-button,
+.scroll-bar .increment-arrow,
+.scroll-bar .decrement-arrow,
+.scroll-bar .corner {
+    -fx-shape : " ";    
+    -fx-background-color: transparent;
+    -fx-visibility: hidden;
+}
+
+
+
+
+#vue-racine {
+    -fx-border-color:darkred;
+}
+
+#vue-file-attente {
+    -fx-alignment:top-center;
+    -fx-border-color:darkblue;
+}
+
+#vue-partie {
+    -fx-border-color:darkgreen;
+}
+
+#logo-et-ouvrir {
+    -fx-border-color:darkgreen;
+}
+
+.defilement {
+    -fx-background-color:transparent;
+    -fx-border-width:0;
+    -fx-border-color:transparent;
+    -fx-hbar-policy:never;
+}
+
+.rendez-vous {
+   -fx-hgap:20;
+   -fx-vgap:20;
+   -fx-padding: 8 15 15 15;
+   -fx-background-color: derive(black, 75%);
+   -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+   -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+   -fx-background-radius: 8;
+}
+
+.gauche{
+    -fx-alignment:left;
+}
+
+.droite{
+    -fx-alignment:right;
+}
+
+#conteneur-rendez-vous{
+    -fx-background-color:gray;
+    -fx-alignment:top-center;
+}
+
+#canvas-partie{
+    -fx-border-width:1;
+    -fx-border-style:dotted;
+    -fx-border-color:black;
+}
+
+
+
+
+

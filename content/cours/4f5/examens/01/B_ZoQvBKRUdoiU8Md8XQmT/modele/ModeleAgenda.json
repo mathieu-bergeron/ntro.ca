@@ -1,0 +1,19 @@
+{
+  "_C": "ModeleAgenda",
+  "rencontres": [
+      {
+          "_C":"Fete",
+          "horodatageDebut": 1646269527,
+          "horodatageFin": 1646291127,
+          "nombreInvites": 10,
+          "nourritureFournie" : false
+      },
+      {
+          "_C":"Scolaire",
+          "horodatageDebut": 1646579127,
+          "horodatageFin": 1646586327,
+          "nomDuCours": "Env. graphique",
+          "nomDuDevoir": "Projet final"
+      }
+  ]
+}

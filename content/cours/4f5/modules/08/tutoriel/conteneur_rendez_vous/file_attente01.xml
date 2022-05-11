@@ -1,0 +1,31 @@
+<!-- ajouter -->
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.HBox?>
+
+<VBox xmlns:fx="http://javafx.com/fxml"
+    fx:controller="pong.frontal.vues.VueFileAttente" 
+    styleClass="conteneur"
+    id="vue-file-attente">
+
+    <!-- ajouter -->
+    <Pane styleClass="petit-espace-vertical"/>
+
+    <Button 
+        fx:id="boutonAjouterRendezVous" 
+        text="%ajouterRendezVous"
+        styleClass="gros-bouton"
+        id="boutonAjouterRendezVous">
+    </Button>
+
+    <!-- ajouter -->
+    <Pane styleClass="grand-espace-vertical"/>
+
+    <!-- ajouter -->
+    <HBox styleClass="conteneur,conteneur-parent">
+
+    </HBox>
+
+    <!-- ajouter -->
+    <Pane styleClass="grand-espace-vertical"/>
+
+</VBox>

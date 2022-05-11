@@ -1,0 +1,8 @@
+<HBox xmlns:fx="http://javafx.com/fxml">
+    <HBox HBox.hgrow="ALWAYS">
+        <CheckBox text="1"/>
+    </HBox>
+    <HBox HBox.hgrow="ALWAYS">
+        <CheckBox text="2"/>
+    </HBox>
+</HBox>

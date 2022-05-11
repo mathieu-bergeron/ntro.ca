@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="35cm" height="14cm" viewBox="90 101 696 277" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="92" y="102" width="333.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="92" y="102" width="333.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="258.7" y="121">ModeleFileAttente</text>
+    <rect style="fill: #ffffff" x="92" y="130" width="333.4" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="92" y="130" width="333.4" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="95" y="144">-idFileAttente: String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="95" y="160">-rendezVousDansOrdre: List&lt;RendezVous&gt;</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="95" y="176">-rendezVousParId: Map&lt;String, Rendez-Vous&gt;</text>
+    <rect style="fill: #ffffff" x="92" y="182" width="333.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="92" y="182" width="333.4" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="602" y="120.3" width="179.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="602" y="120.3" width="179.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="691.7" y="139.3">RendezVous</text>
+    <rect style="fill: #ffffff" x="602" y="148.3" width="179.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="602" y="148.3" width="179.4" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605" y="162.3">-idRendezVous: String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605" y="178.3">-premierJoueur: String</text>
+    <rect style="fill: #ffffff" x="602" y="184.3" width="179.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="602" y="184.3" width="179.4" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="598" y="304.3" width="187.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="598" y="304.3" width="187.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="691.55" y="323.3">PartieEnCours</text>
+    <rect style="fill: #ffffff" x="598" y="332.3" width="187.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="598" y="332.3" width="187.1" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="601" y="346.3">-deuxiemeJoueur: String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="601" y="362.3">-idPartie: String</text>
+    <rect style="fill: #ffffff" x="598" y="368.3" width="187.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="598" y="368.3" width="187.1" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="691.7,211.545 691.7,256.3 691.55,256.3 691.55,303.291 "/>
+    <polygon style="fill: #ffffff" points="699.7,211.545 691.7,195.545 683.7,211.545 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="699.7,211.545 691.7,195.545 683.7,211.545 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="450.572,156 520.197,156 520.197,156.3 600.994,156.3 "/>
+    <polygon style="fill: #ffffff" points="425.4,156 439.4,151.2 453.4,156 439.4,160.8 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="425.4,156 439.4,151.2 453.4,156 439.4,160.8 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="457.4" y="152">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="596.994" y="152.3">n</text>
+  </g>
+</svg>

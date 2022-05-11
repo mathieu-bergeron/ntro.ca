@@ -1,0 +1,13 @@
+racine.xml
+
+file_attente.xml
+collaboration.xml
+collaborateur.xml
+
+dessin.xml
+
+dev.css
+prod.css
+
+chaines_fr.properties
+chaines_en.properties

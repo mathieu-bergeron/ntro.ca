@@ -1,0 +1,22 @@
+<!-- à retirer -->
+<ImageView id="logo">    
+    <image>
+        <Image url="@logo.png" />
+    </image>
+</ImageView>
+
+<!-- à retirer -->
+<Button 
+    fx:id="boutonOuvrirPartie" 
+    text="%ouvrirPartie"
+    styleClass="gros-bouton"
+    id="bouton-ouvrir-partie">
+</Button>
+
+<!-- à retirer -->
+<Label 
+    fx:id="labelMessage"
+    text="[labelMessage]"
+    styleClass="texte"
+    id="label-message">
+</Label>

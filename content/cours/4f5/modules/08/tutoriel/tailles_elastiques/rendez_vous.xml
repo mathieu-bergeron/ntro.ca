@@ -1,0 +1,28 @@
+<HBox xmlns:fx="http://javafx.com/fxml"
+    fx:controller="pong.frontal.vues.fragments.FragmentRendezVous" 
+    styleClass="conteneur,vue-rendez-vous">
+
+    <Pane styleClass="grand-espace-horizontal"/>
+
+    <!-- ajouter HBox.hgrow -->
+    <HBox HBox.hgrow="ALWAYS" styleClass="conteneur,rendez-vous">
+
+        <Label
+            fx:id="labelNomPremierJoueur"
+            styleClass="label-nom-joueur">
+        </Label>
+
+        <!-- ajouter HBox.hgrow -->
+        <Pane HBox.hgrow="ALWAYS" minHeight="20"/>
+
+        <Button 
+            fx:id="boutonOuvrirPartie" 
+            text="%ouvrirPartie"
+            styleClass="gros-bouton">
+        </Button>
+
+    </HBox>
+
+    <Pane styleClass="grand-espace-horizontal"/>
+
+</HBox>

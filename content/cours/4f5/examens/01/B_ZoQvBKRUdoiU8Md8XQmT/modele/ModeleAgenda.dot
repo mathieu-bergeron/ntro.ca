@@ -1,0 +1,8 @@
+digraph "ModeleAgenda" {
+graph ["rankdir"="LR","compound"="true","ranksep"="1.0","nodesep"="1.0"]
+"/" ["label"="<_C>ModeleAgenda|{rencontres|{{0|<rencontres__V_0_0>}|{1|<rencontres__V_1_1>}}}","style"="filled","fillcolor"="white","shape"="record"]
+"/rencontres/0" ["label"="<_C>Fete|{horodatageDebut|1646269527}|{horodatageFin|1646291127}|{nombreInvites|10}|{nourritureFournie|false}","style"="filled","fillcolor"="white","shape"="record"]
+"/rencontres/1" ["label"="<_C>Scolaire|{horodatageDebut|1646269527}|{horodatageFin|1646291127}|{nomDuCours|\"Env. graphique\"}|{nomDuDevoir|\"Projet final\"}","style"="filled","fillcolor"="white","shape"="record"]
+"/":"rencontres__V_1_1":c -> "/rencontres/1":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+"/":"rencontres__V_0_0":c -> "/rencontres/0":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+}

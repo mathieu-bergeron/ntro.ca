@@ -1,0 +1,26 @@
+<!-- ajouter-->
+<?import pong.frontal.vues.controles.FlexBoxRendezVous?>
+
+<!-- ... -->
+
+    <!-- remplacer HBox par FlexBoxRendezVous -->
+    <FlexBoxRendezVous HBox.hgrow="ALWAYS" styleClass="conteneur,rendez-vous">
+
+        <Label
+            fx:id="labelNomPremierJoueur"
+            styleClass="label-nom-joueur">
+        </Label>
+
+        <Pane HBox.hgrow="ALWAYS" minHeight="20"/>
+
+        <Button 
+            fx:id="boutonOuvrirPartie" 
+            text="%ouvrirPartie"
+            styleClass="gros-bouton">
+        </Button>
+
+
+    <!-- remplacer HBox par FlexBoxRendezVous -->
+    </FlexBoxRendezVous>
+
+<!-- ... -->

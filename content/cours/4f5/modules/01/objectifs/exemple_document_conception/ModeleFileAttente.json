@@ -1,0 +1,43 @@
+{
+    "idFileAttente" : "file01",
+    "rendezVousDansOrdre": [
+        {
+            "idRendezVous": "rendezVous01",
+            "premierJoueur": "Aa",
+            "deuxiemeJoueur": "Bb",
+            "idPartie": "partie01"
+        },
+        {
+            "idRendezVous": "rendezVous02",
+            "premierJoueur": "Cc",
+            "deuxiemeJoueur": "Dd",
+            "idPartie": "partie02"
+        },
+        {
+            "idRendezVous": "rendezVous03",
+            "premierJoueur": "Ee"
+        }
+    ],
+
+    "rendezVousParId": {
+        "rendezVous01":
+            {
+                "idRendezVous": "rendezVous01",
+                "premierJoueur": "Aa",
+                "deuxiemeJoueur": "Bb",
+                "idPartie": "partie01"
+            },
+        "rendezVous02":
+            {
+                "idRendezVous": "rendezVous02",
+                "premierJoueur": "Cc",
+                "deuxiemeJoueur": "Dd",
+                "idPartie": "partie02"
+            },
+        "rendezVous03":
+            {
+                "idRendezVous": "rendezVous03",
+                "premierJoueur": "Ee"
+            }
+    }
+}

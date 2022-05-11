@@ -1,0 +1,13 @@
+<{1:MCS:=VBox~HBox} fx:controller="dessin.frontal.vues.{1:MCS:=VueFileAttente~VueDessin~fragments.FragmentCollaboration~fragments.FragmentCollaborateur}">
+
+    <Button 
+        fx:id="{1:MCS:=boutonCreerCollaboration~conteneurCollaborations~labelTitreDessin~boutonAjouterCollaborateur~boutonOuvrirDessin~conteneurCollaborateurs~labelNomCollaborateur~canvasForme}" 
+        text="%creerCollaboration">
+    </Button>
+
+    <{1:MCS:VBox~=HBox} 
+        {1:MCS:=VBox.vgrow="ALWAYS"~HBox.hgrow="ALWAYS"~∅}
+        fx:id="{1:MCS:boutonCreerCollaboration~=conteneurCollaborations~labelTitreDessin~boutonAjouterCollaborateur~boutonOuvrirDessin~conteneurCollaborateurs~labelNomCollaborateur~canvasForme}">
+    </{1:MCS:VBox~=HBox}>
+
+</{1:MCS:=VBox~HBox}>

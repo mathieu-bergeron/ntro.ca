@@ -1,0 +1,28 @@
+.petit-espace-vertical {
+    -fx-min-height:10;
+    -fx-background-color:pink;
+    -fx-opacity:0.2;
+}
+
+.grand-espace-vertical {
+    -fx-min-height:30;
+    -fx-background-color:pink;
+    -fx-opacity:0.2;
+}
+
+.grand-espace-horizontal {
+    -fx-min-width:30;
+    -fx-background-color:pink;
+    -fx-opacity:0.2;
+}
+
+
+.conteneur-parent{
+    -fx-border-color:black;
+}
+
+#conteneur-rendez-vous{
+    -fx-min-height:100; 
+    -fx-min-width:100;
+    -fx-alignment:top-center;
+}

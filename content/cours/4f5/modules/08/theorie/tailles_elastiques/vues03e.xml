@@ -1,0 +1,4 @@
+<HBox>
+    <Button text="1"/>
+    <Button text="2" maxWidth="Infinity" HBox.hgrow="ALWAYS"/>
+</HBox>

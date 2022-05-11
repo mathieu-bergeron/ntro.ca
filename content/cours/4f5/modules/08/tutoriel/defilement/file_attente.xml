@@ -1,0 +1,14 @@
+<!-- ajouter -->
+<?import javafx.scene.control.ScrollPane?>
+
+
+        <!-- entourer le VBox d'un ScrollPane -->
+        <ScrollPane HBox.hgrow="ALWAYS" fitToWidth="true">
+            <content>
+
+                <VBox styleClass="conteneur" fx:id="conteneurRendezVous" id="conteneur-rendez-vous">
+                </VBox>
+
+        <!-- fermer le ScrollPane -->
+            </content>
+        </ScrollPane>

@@ -1,0 +1,69 @@
+{
+  "_C": "ModeleFileAttente",
+  "collaborations": [
+    {
+      "_C": "Collaboration",
+      "idCollaboration": "0",
+      "collaborateurs": [
+        {
+          "_C": "Collaborateur",
+          "forme": {
+            "_C": "Cercle",
+            "anchorY": 0.0,
+            "couleur": "#296EB4",
+            "anchorX": 0.0,
+            "world": null,
+            "topLeftX": 0.0,
+            "topLeftY": 0.0,
+            "speedX": 0.0,
+            "speedY": 0.0,
+            "width": 0.0,
+            "height": 0.0
+          },
+          "nom": "Charlie"
+        }
+      ]
+    },
+    {
+      "_C": "Collaboration",
+      "idCollaboration": "1",
+      "collaborateurs": [
+        {
+          "_C": "Collaborateur",
+          "forme": {
+            "_C": "Rectangle",
+            "anchorY": 0.0,
+            "couleur": "#FDB833",
+            "anchorX": 0.0,
+            "world": null,
+            "topLeftX": 0.0,
+            "topLeftY": 0.0,
+            "speedX": 0.0,
+            "speedY": 0.0,
+            "width": 0.0,
+            "height": 0.0
+          },
+          "nom": "Bob"
+        },
+        {
+          "_C": "Collaborateur",
+          "forme": {
+            "_C": "Triangle",
+            "anchorY": 0.0,
+            "couleur": "#B1740F",
+            "anchorX": 0.0,
+            "world": null,
+            "topLeftX": 0.0,
+            "topLeftY": 0.0,
+            "speedX": 0.0,
+            "speedY": 0.0,
+            "width": 0.0,
+            "height": 0.0
+          },
+          "nom": "Amina"
+        }
+      ]
+    }
+  ],
+  "prochainIdCollaboration": 2
+}

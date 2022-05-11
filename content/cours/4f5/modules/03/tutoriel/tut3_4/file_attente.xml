@@ -1,0 +1,5 @@
+    <Button 
+        text="%ouvrirPartie"
+        styleClass="gros-bouton"
+        id="bouton-ouvrir-partie">
+    </Button>

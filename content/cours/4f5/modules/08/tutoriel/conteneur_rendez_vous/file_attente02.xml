@@ -1,0 +1,10 @@
+    <HBox styleClass="conteneur,conteneur-parent">
+
+        <Pane styleClass="grand-espace-horizontal"/>
+
+        <VBox styleClass="conteneur" fx:id="conteneurRendezVous" id="conteneur-rendez-vous">
+        </VBox>
+
+        <Pane styleClass="grand-espace-horizontal"/>
+
+    </HBox>

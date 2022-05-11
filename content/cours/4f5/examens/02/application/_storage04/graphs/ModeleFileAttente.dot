@@ -1,0 +1,10 @@
+digraph "ModeleFileAttente" {
+graph ["rankdir"="LR","compound"="true","ranksep"="1.0","nodesep"="1.0"]
+"/" ["label"="<_C>ModeleFileAttente|{collaborations|{{0|<collaborations__V_0_0>}}}|{prochainIdCollaboration|1}","style"="filled","fillcolor"="white","shape"="record"]
+"/collaborations/0" ["label"="<_C>Collaboration|{idCollaboration|\"0\"}|{collaborateurs|{{0|<collaborateurs__V_0_0>}}}","style"="filled","fillcolor"="white","shape"="record"]
+"/collaborations/0/collaborateurs/0" ["label"="<_C>Collaborateur|{forme|<forme_forme>}|{nom|\"Zinedine\"}","style"="filled","fillcolor"="white","shape"="record"]
+"/collaborations/0/collaborateurs/0/forme" ["label"="<_C>Rectangle|{couleur|\"#b3a99a\"}|{anchorX|0.0}|{anchorY|0.0}|{world|null}|{topLeftX|0.0}|{topLeftY|0.0}|{width|0.0}|{height|0.0}|{speedX|0.0}|{speedY|0.0}","style"="filled","fillcolor"="white","shape"="record"]
+"/":"collaborations__V_0_0":c -> "/collaborations/0":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+"/collaborations/0":"collaborateurs__V_0_0":c -> "/collaborations/0/collaborateurs/0":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+"/collaborations/0/collaborateurs/0":"forme_forme":c -> "/collaborations/0/collaborateurs/0/forme":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+}

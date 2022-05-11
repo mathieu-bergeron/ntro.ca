@@ -1,0 +1,19 @@
+{
+  "_C": "ModeleDessin",
+  "formes": [
+      {
+          "_C":"Cercle",
+          "centreX" : 100,
+          "centreY" : 50,
+          "rayon" : 10,
+          "rempli" : true
+      },
+      {
+          "_C":"Rectangle",
+          "centreX" : 30,
+          "centreY" : 10,
+          "hauteur" : 5,
+          "largeur" : 15
+      }
+  ]
+}

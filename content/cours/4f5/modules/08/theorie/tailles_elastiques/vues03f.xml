@@ -1,0 +1,4 @@
+<VBox xmlns:fx="http://javafx.com/fxml">
+    <Button text="1"/>
+    <Button text="2" maxHeight="Infinity" VBox.vgrow="ALWAYS"/>
+</VBox>

@@ -1,0 +1,6 @@
+<Button 
+    fx:id="boutonQuitterPartie" 
+    text="%quitterPartie"
+    styleClass="gros-bouton"
+    id="boutonQuitterPartie">
+</Button>
