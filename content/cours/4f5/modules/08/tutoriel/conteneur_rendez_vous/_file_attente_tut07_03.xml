@@ -1,0 +1,7 @@
+<!-- à retirer -->
+<Label 
+    fx:id="labelMessage"
+    text="[labelMessage]"
+    styleClass="texte"
+    id="label-message">
+</Label>

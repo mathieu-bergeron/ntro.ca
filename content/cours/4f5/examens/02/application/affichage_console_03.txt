@@ -1,0 +1,6 @@
+Dessin 0
+        Charlie, Cercle (couleur #296EB4)
+
+Dessin 1
+        Bob, Rectangle (couleur #FDB833)
+        Amina, Triangle (couleur #B1740F)

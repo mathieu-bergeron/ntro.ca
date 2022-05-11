@@ -1,0 +1,7 @@
+<?import pong.frontal.vues.controles.CanvasPartie?>
+
+
+<!-- utiliser HBox.hgrow ou VBox.vgrow selon le contexte! -->
+<CanvasPartie HBox.hgrow="ALWAYS" epsilon="1" id="canvas-partie">
+</CanvasPartie>
+

@@ -1,0 +1,19 @@
+<!-- ajouter dans la liste des imports -->
+<?import javafx.scene.control.Label?>
+
+
+<!-- déjà présent -->
+<Button 
+    fx:id="boutonAjouterRendezVous" 
+    text="%ajouterRendezVous"
+    styleClass="gros-bouton"
+    id="boutonAjouterRendezVous">
+</Button>
+
+<!-- ajouter -->
+<Label 
+    fx:id="labelMessage"
+    styleClass="texte"
+    id="label-message"
+    text="[labelMessage]">
+</Label>

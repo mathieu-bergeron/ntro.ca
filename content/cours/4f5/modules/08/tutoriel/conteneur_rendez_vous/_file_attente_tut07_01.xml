@@ -1,0 +1,6 @@
+<!-- à retirer -->
+<ImageView id="logo">    
+    <image>
+        <Image url="@logo.png" />
+    </image>
+</ImageView>

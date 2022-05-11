@@ -1,0 +1,13 @@
+.rendez-vous {
+   -fx-padding: 8 15 15 15;
+   -fx-background-color: derive(black, 75%);
+   -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+   -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+   -fx-background-radius: 8;
+}
+
+.label-nom-joueur{
+   -fx-text-fill: derive(black, 25%);
+   -fx-font-size:3em;
+}
+

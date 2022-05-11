@@ -1,0 +1,1 @@
+modele.afficherSur(vue);

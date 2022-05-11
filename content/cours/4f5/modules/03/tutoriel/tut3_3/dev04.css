@@ -1,0 +1,11 @@
+.gros-bouton {
+    -fx-font-size: 1.2em;
+}
+
+.gros-bouton:pressed {
+    -fx-font-size: 1em;
+}
+
+.gros-bouton:hover {
+    -fx-cursor: hand;
+}

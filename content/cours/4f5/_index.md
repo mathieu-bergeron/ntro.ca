@@ -1,16 +1,43 @@
 ---
-title: "420-3C6-MO"
+title: "420-4F5-MO"
 weight: 2
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
+bookCollapseSection: true
 ---
 
-# 4f5: environnement graphique client/serveur
+# 4F5: Environnement graphique client/serveur
 
-Ces notes de cours sont au <a target="_blank" href="https://ciboulot.ca/cegep/420-4F5-MO/">ciboulot.ca/cegep/420-4F5-MO/</a>&nbsp;🔗
+{{% video "bonjour.mp4" "90%"  %}}
 
-(j'espère les migrer ici bientôt).
+<!--
+$[embed ./presentation/premiere_semaine]()
+-->
+
+## Rencontres d'équipe du vendredi
+
+Groupe 02
+
+1. &nbsp;9:50 LightCycles
+1. 10:05 Blackjack
+1. 10:20 Échecs
+1. 10:35 Roche-papier-ciseaux
+1. 10:50 Dames
+1. 11:05 Bomberman
+
+<br>
+
+Groupe 01
+
+1. 11:40 Tic-tac-toe
+1. 11:55 Connect4
+1. 12:10 Serpents-échelles
+1. 12:25 Battleship
+
+{{% include "./presentation/survol.md" %}}
+
+{{% include "./presentation/structure.md" %}}
+
+{{% include "./presentation/calendrier.md" %}}
+
+{{% include "./presentation/evaluations.md" %}}
+
+

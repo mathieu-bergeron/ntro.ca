@@ -1,0 +1,13 @@
+<?import mon_paquet.MonComposant?>
+
+    <VBox>
+        <Button styleClass="bouton"/>
+        <MonComposant styleClass="monComposant"/>
+    </VBox>
+
+    <VBox>
+        <Button styleClass="bouton"/>
+        <MonComposant styleClass="monComposant" 
+                       monAttr1="foo" 
+                       monAttr2="10"/>
+    </VBox>

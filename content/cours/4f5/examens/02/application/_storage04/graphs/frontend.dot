@@ -1,0 +1,83 @@
+digraph "frontend" {
+edge ["dir"="forward"]
+graph ["rankdir"="LR","compound"="true","overlap"="false"]
+"DonneesVueDessin" ["label"="DonneesVueDessin","style"="filled","fillcolor"="white"]
+subgraph "cluster_Initialisation__container" {
+edge ["dir"="none"]
+graph ["margin"="40","style"="invis"]
+subgraph "cluster_Initialisation" {
+edge ["dir"="forward"]
+graph ["rankdir"="LR","label"="Initialisation","style"="filled","fillcolor"="gray","penwidth"="3.0","fontsize"="18.0"]
+"Initialisation_viewLoader[VueDessin]" ["label"="viewLoader[VueDessin]","style"="filled","fillcolor"="white"]
+"Initialisation_viewLoader[VueFileAttente]" ["label"="viewLoader[VueFileAttente]","style"="filled","fillcolor"="white"]
+"Initialisation_installerVueFileAttente" ["label"="installerVueFileAttente","style"="filled","fillcolor"="white"]
+"Initialisation_installerVueRacine" ["label"="installerVueRacine","style"="filled","fillcolor"="white"]
+"Initialisation_VueDessin" ["label"="VueDessin","style"="filled","fillcolor"="white"]
+"Initialisation_VueFileAttente" ["label"="VueFileAttente","style"="filled","fillcolor"="white"]
+"Initialisation_window" ["label"="window","style"="filled","fillcolor"="white"]
+"Initialisation_afficherFenetre" ["label"="afficherFenetre","style"="filled","fillcolor"="white"]
+"Initialisation_viewLoader[VueRacine]" ["label"="viewLoader[VueRacine]","style"="filled","fillcolor"="white"]
+"Initialisation_VueRacine" ["label"="VueRacine","style"="filled","fillcolor"="white"]
+}
+}
+subgraph "cluster_AfficherDessin__container" {
+edge ["dir"="none"]
+graph ["margin"="40","style"="invis"]
+subgraph "cluster_AfficherDessin" {
+edge ["dir"="forward"]
+graph ["rankdir"="LR","label"="AfficherDessin","style"="filled","fillcolor"="gray","penwidth"="3.0","fontsize"="18.0"]
+"AfficherDessin_clock[nextTick]" ["label"="clock[nextTick]","style"="filled","fillcolor"="white"]
+"AfficherDessin_observerDessin" ["label"="observerDessin","style"="filled","fillcolor"="white"]
+"AfficherDessin_prochaineImageDessin" ["label"="prochaineImageDessin","style"="filled","fillcolor"="white"]
+"AfficherDessin_reagirEvtSouris" ["label"="reagirEvtSouris","style"="filled","fillcolor"="white"]
+"AfficherDessin_modified[ModeleDessin]" ["label"="modified[ModeleDessin]","style"="filled","fillcolor"="white"]
+"AfficherDessin_event[EvtSouris]" ["label"="event[EvtSouris]","style"="filled","fillcolor"="white"]
+}
+}
+subgraph "cluster_Navigation__container" {
+edge ["dir"="none"]
+graph ["margin"="40","style"="invis"]
+subgraph "cluster_Navigation" {
+edge ["dir"="forward"]
+graph ["rankdir"="LR","label"="Navigation","style"="filled","fillcolor"="gray","penwidth"="3.0","fontsize"="18.0"]
+"Navigation_event[EvtAfficherVueDessin]" ["label"="event[EvtAfficherVueDessin]","style"="filled","fillcolor"="white"]
+"Navigation_afficherVueFileAttente" ["label"="afficherVueFileAttente","style"="filled","fillcolor"="white"]
+"Navigation_event[EvtAfficherFileAttente]" ["label"="event[EvtAfficherFileAttente]","style"="filled","fillcolor"="white"]
+"Navigation_afficherVueDessin" ["label"="afficherVueDessin","style"="filled","fillcolor"="white"]
+}
+}
+subgraph "cluster_AfficherFileAttente__container" {
+edge ["dir"="none"]
+graph ["margin"="40","style"="invis"]
+subgraph "cluster_AfficherFileAttente" {
+edge ["dir"="forward"]
+graph ["rankdir"="LR","label"="AfficherFileAttente","style"="filled","fillcolor"="gray","penwidth"="3.0","fontsize"="18.0"]
+"AfficherFileAttente_viewLoader[FragmentCollaborateur]" ["label"="viewLoader[FragmentCollaborateur]","style"="filled","fillcolor"="white"]
+"AfficherFileAttente_afficherFileAttenteSurConsole" ["label"="afficherFileAttenteSurConsole","style"="filled","fillcolor"="white"]
+"AfficherFileAttente_modified[ModeleFileAttente]" ["label"="modified[ModeleFileAttente]","style"="filled","fillcolor"="white"]
+"AfficherFileAttente_afficherFileAttente" ["label"="afficherFileAttente","style"="filled","fillcolor"="white"]
+"AfficherFileAttente_viewLoader[FragmentCollaboration]" ["label"="viewLoader[FragmentCollaboration]","style"="filled","fillcolor"="white"]
+}
+}
+"DonneesVueDessin" -> "AfficherDessin_clock[nextTick]" ["label"="","lhead"="cluster_AfficherDessin"]
+"Initialisation_viewLoader[VueDessin]" -> "Initialisation_VueDessin" ["label"=""]
+"Initialisation_viewLoader[VueDessin]" -> "AfficherFileAttente_viewLoader[FragmentCollaborateur]" ["label"="","ltail"="cluster_Initialisation","lhead"="cluster_AfficherFileAttente","penwidth"="3"]
+"Initialisation_viewLoader[VueDessin]" -> "Navigation_event[EvtAfficherVueDessin]" ["label"="","ltail"="cluster_Initialisation","lhead"="cluster_Navigation","penwidth"="3"]
+"Initialisation_viewLoader[VueDessin]" -> "DonneesVueDessin" ["label"="","ltail"="cluster_Initialisation"]
+"Navigation_event[EvtAfficherVueDessin]" -> "Navigation_afficherVueDessin" ["label"=""]
+"AfficherFileAttente_viewLoader[FragmentCollaborateur]" -> "AfficherFileAttente_afficherFileAttente" ["label"=""]
+"AfficherDessin_clock[nextTick]" -> "AfficherDessin_prochaineImageDessin" ["label"=""]
+"AfficherDessin_modified[ModeleDessin]" -> "AfficherDessin_observerDessin" ["label"=""]
+"AfficherDessin_event[EvtSouris]" -> "AfficherDessin_reagirEvtSouris" ["label"=""]
+"Navigation_event[EvtAfficherFileAttente]" -> "Navigation_afficherVueFileAttente" ["label"=""]
+"AfficherFileAttente_modified[ModeleFileAttente]" -> "AfficherFileAttente_afficherFileAttente" ["label"=""]
+"AfficherFileAttente_modified[ModeleFileAttente]" -> "AfficherFileAttente_afficherFileAttenteSurConsole" ["label"=""]
+"AfficherFileAttente_viewLoader[FragmentCollaboration]" -> "AfficherFileAttente_afficherFileAttente" ["label"=""]
+"Initialisation_viewLoader[VueFileAttente]" -> "Initialisation_VueFileAttente" ["label"=""]
+"Initialisation_VueFileAttente" -> "Initialisation_installerVueFileAttente" ["label"=""]
+"Initialisation_window" -> "Initialisation_afficherFenetre" ["label"=""]
+"Initialisation_window" -> "Initialisation_installerVueRacine" ["label"=""]
+"Initialisation_viewLoader[VueRacine]" -> "Initialisation_VueRacine" ["label"=""]
+"Initialisation_VueRacine" -> "Initialisation_installerVueRacine" ["label"=""]
+"Initialisation_VueRacine" -> "Initialisation_installerVueFileAttente" ["label"=""]
+}

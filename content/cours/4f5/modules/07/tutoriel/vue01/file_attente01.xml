@@ -1,0 +1,15 @@
+<!-- déjà présent -->
+<Button 
+    fx:id="boutonOuvrirPartie" 
+    text="%ouvrirPartie"
+    styleClass="gros-bouton"
+    id="bouton-ouvrir-partie">
+</Button>
+
+<!-- ajouter -->
+<Button 
+    fx:id="boutonAjouterRendezVous" 
+    text="%ajouterRendezVous"
+    styleClass="gros-bouton"
+    id="boutonAjouterRendezVous">
+</Button>

@@ -1,0 +1,9 @@
+<?import pong.frontal.vues.controles.FlexBoxRendezVous?>
+
+<FlexBoxRendezVous HBox.hgrow="ALWAYS">
+
+
+    <!-- ajouter des éléments comme dans n'importe quel conteneur -->
+
+
+</FlexBoxRendezVous>

@@ -1,0 +1,11 @@
+# Gestion des événements et navigation
+
+* Considérer l'application d'agenda partagé.
+
+* Voici l'arborescence d'une partie du code:
+
+    <center>
+        <img src="arborescence.png" />
+    <center>
+
+* Compléter le code ci-bas afin d'implanter la navigation

@@ -1,0 +1,1 @@
+vue.afficher(modele);

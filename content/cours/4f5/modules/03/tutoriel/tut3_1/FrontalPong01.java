@@ -1,0 +1,13 @@
+public class FrontalPong implements FrontendFx {
+
+    // [...]
+	
+	@Override
+	public void registerViews(ViewRegistrarFx registrar) {
+
+		registrar.registerView(VueRacine.class, "/racine.xml");
+
+	}
+
+    // [...]
+}

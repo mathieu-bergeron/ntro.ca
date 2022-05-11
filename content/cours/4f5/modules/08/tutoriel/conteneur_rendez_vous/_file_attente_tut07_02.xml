@@ -1,0 +1,7 @@
+<!-- à retirer -->
+<Button 
+    fx:id="boutonOuvrirPartie" 
+    text="%ouvrirPartie"
+    styleClass="gros-bouton"
+    id="bouton-ouvrir-partie">
+</Button>

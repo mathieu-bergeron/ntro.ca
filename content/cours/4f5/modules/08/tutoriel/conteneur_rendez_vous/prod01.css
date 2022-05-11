@@ -1,0 +1,19 @@
+.petit-espace-vertical {
+    -fx-min-height:10;
+}
+
+.grand-espace-vertical {
+    -fx-min-height:30;
+}
+
+.grand-espace-horizontal {
+    -fx-min-width:30;
+}
+
+.conteneur-parent{
+    -fx-border-color:black;
+}
+
+#conteneur-rendez-vous{
+    -fx-alignment:top-center;
+}

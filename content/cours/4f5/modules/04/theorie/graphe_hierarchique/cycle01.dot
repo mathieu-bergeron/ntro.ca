@@ -1,0 +1,5 @@
+digraph "frontend" {
+graph ["rankdir"="RL","compound"="true"]
+"VueRacine" ["label"="VueRacine","style"="filled","fillcolor"="white"]
+"VueRacine" -> "VueRacine" ["label"=""]
+}

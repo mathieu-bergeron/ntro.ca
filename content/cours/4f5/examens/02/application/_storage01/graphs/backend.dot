@@ -1,0 +1,33 @@
+digraph "backend" {
+edge ["dir"="forward"]
+graph ["rankdir"="LR","compound"="true","overlap"="false"]
+"model[ModeleDessin]" ["label"="model[ModeleDessin]","style"="filled","fillcolor"="white"]
+"model[ModeleFileAttente]" ["label"="model[ModeleFileAttente]","style"="filled","fillcolor"="white"]
+subgraph "cluster_ModifierDessin__container" {
+edge ["dir"="none"]
+graph ["margin"="40","style"="invis"]
+subgraph "cluster_ModifierDessin" {
+edge ["dir"="forward"]
+graph ["rankdir"="LR","label"="ModifierDessin","style"="filled","fillcolor"="gray","penwidth"="3.0","fontsize"="18.0"]
+"ModifierDessin_message[MsgAjouterForme]" ["label"="message[MsgAjouterForme]","style"="filled","fillcolor"="white"]
+"ModifierDessin_ajouterForme" ["label"="ajouterForme","style"="filled","fillcolor"="white"]
+}
+}
+subgraph "cluster_ModifierFileAttente__container" {
+edge ["dir"="none"]
+graph ["margin"="40","style"="invis"]
+subgraph "cluster_ModifierFileAttente" {
+edge ["dir"="forward"]
+graph ["rankdir"="LR","label"="ModifierFileAttente","style"="filled","fillcolor"="gray","penwidth"="3.0","fontsize"="18.0"]
+"ModifierFileAttente_message[MsgCreerCollaboration]" ["label"="message[MsgCreerCollaboration]","style"="filled","fillcolor"="white"]
+"ModifierFileAttente_ajouterCollaborateur" ["label"="ajouterCollaborateur","style"="filled","fillcolor"="white"]
+"ModifierFileAttente_message[MsgAjouterCollaborateur]" ["label"="message[MsgAjouterCollaborateur]","style"="filled","fillcolor"="white"]
+"ModifierFileAttente_creerCollaboration" ["label"="creerCollaboration","style"="filled","fillcolor"="white"]
+}
+}
+"model[ModeleDessin]" -> "ModifierDessin_message[MsgAjouterForme]" ["label"="","lhead"="cluster_ModifierDessin"]
+"model[ModeleFileAttente]" -> "ModifierFileAttente_message[MsgCreerCollaboration]" ["label"="","lhead"="cluster_ModifierFileAttente"]
+"ModifierDessin_message[MsgAjouterForme]" -> "ModifierDessin_ajouterForme" ["label"=""]
+"ModifierFileAttente_message[MsgCreerCollaboration]" -> "ModifierFileAttente_creerCollaboration" ["label"=""]
+"ModifierFileAttente_message[MsgAjouterCollaborateur]" -> "ModifierFileAttente_ajouterCollaborateur" ["label"=""]
+}

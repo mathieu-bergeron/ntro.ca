@@ -1,0 +1,6 @@
+<StackPane xmlns:fx="http://javafx.com/fxml" 
+    fx:controller="pong.frontal.vues.VueRacine" 
+    styleClass="conteneur"
+    id="vue-racine">
+
+</StackPane>

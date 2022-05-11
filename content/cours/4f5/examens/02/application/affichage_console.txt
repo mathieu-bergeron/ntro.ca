@@ -1,0 +1,12 @@
+Dessin 0
+    Amina, Triangle (couleur #B1740F)
+    Bob, Rectangle (couleur #FDB833)
+
+Dessin 1
+    Amina, Triangle (couleur #B1740F)
+    Charlie, Cercle (couleur #296EB4)
+    Bob, Rectangle (couleur #FDB833)
+
+Dessin 2
+    Amina, Triangle (couleur #B1740F)
+

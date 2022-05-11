@@ -1,0 +1,11 @@
+{
+  "_C": "ModeleFileAttente",
+  "horodatageOuverture": 1645458299357,
+  "rendezVousDansOrdre": [
+      {
+          "_C":"RendezVous",
+          "idRendezVous":"1",
+          "nomPremierJoueur":"Mathieu"
+      }
+  ]
+}

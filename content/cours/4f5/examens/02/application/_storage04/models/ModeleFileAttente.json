@@ -1,0 +1,29 @@
+{
+  "_C": "ModeleFileAttente",
+  "collaborations": [
+    {
+      "_C": "Collaboration",
+      "idCollaboration": "0",
+      "collaborateurs": [
+        {
+          "_C": "Collaborateur",
+          "forme": {
+            "_C": "Rectangle",
+            "couleur": "#b3a99a",
+            "anchorX": 0.0,
+            "anchorY": 0.0,
+            "world": null,
+            "topLeftX": 0.0,
+            "topLeftY": 0.0,
+            "width": 0.0,
+            "height": 0.0,
+            "speedX": 0.0,
+            "speedY": 0.0
+          },
+          "nom": "Zinedine"
+        }
+      ]
+    }
+  ],
+  "prochainIdCollaboration": 1
+}

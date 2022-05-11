@@ -1,0 +1,86 @@
+{
+  "_C": "ModeleFileAttente",
+  "collaborations": [
+    {
+      "_C": "Collaboration",
+      "idCollaboration": "0",
+      "collaborateurs": [
+        {
+          "_C": "Collaborateur",
+          "forme": {
+            "_C": "Triangle",
+            "couleur": "#B1740F",
+            "anchorX": 0.0,
+            "anchorY": 0.0,
+            "world": null,
+            "topLeftX": 0.0,
+            "topLeftY": 0.0,
+            "width": 0.0,
+            "height": 0.0,
+            "speedX": 0.0,
+            "speedY": 0.0
+          },
+          "nom": "Amina"
+        },
+        {
+          "_C": "Collaborateur",
+          "forme": {
+            "_C": "Rectangle",
+            "couleur": "#FDB833",
+            "anchorX": 0.0,
+            "anchorY": 0.0,
+            "world": null,
+            "topLeftX": 0.0,
+            "topLeftY": 0.0,
+            "width": 0.0,
+            "height": 0.0,
+            "speedX": 0.0,
+            "speedY": 0.0
+          },
+          "nom": "Bob"
+        },
+        {
+          "_C": "Collaborateur",
+          "forme": {
+            "_C": "Cercle",
+            "couleur": "#296EB4",
+            "anchorX": 0.0,
+            "anchorY": 0.0,
+            "world": null,
+            "topLeftX": 0.0,
+            "topLeftY": 0.0,
+            "width": 0.0,
+            "height": 0.0,
+            "speedX": 0.0,
+            "speedY": 0.0
+          },
+          "nom": "Charlie"
+        }
+      ]
+    },
+    {
+      "_C": "Collaboration",
+      "idCollaboration": "1",
+      "collaborateurs": [
+        {
+          "_C": "Collaborateur",
+          "forme": {
+            "_C": "Cercle",
+            "couleur": "#296EB4",
+            "anchorX": 0.0,
+            "anchorY": 0.0,
+            "world": null,
+            "topLeftX": 0.0,
+            "topLeftY": 0.0,
+            "width": 0.0,
+            "height": 0.0,
+            "speedX": 0.0,
+            "speedY": 0.0
+          },
+          "nom": "Charlie"
+        }
+      ]
+    }
+  ],
+  "prochainIdCollaboration": 2
+}

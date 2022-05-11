@@ -1,0 +1,18 @@
+{
+  "_C": "ModeleFileAttente",
+  "idFileAttente": "filePrincipale",
+  "rendezVousDansOrdre": [
+      {
+          "_C":"RendezVous",
+          "idRendezVous":"1",
+          "nomPremierJoueur":"Mathieu"
+      },
+      {
+          "_C":"PartieEnCours",
+          "idRendezVous":"2",
+          "nomPremierJoueur":"Alice",
+          "nomDeuxiemeJoueur":"Bob",
+          "idPartie":"12"
+      }
+  ]
+}
