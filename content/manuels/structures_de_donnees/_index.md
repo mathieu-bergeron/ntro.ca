@@ -50,15 +50,30 @@ weight: 1
 
 #### tri «humain» à l'écran
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ygwiz1ETIGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<!--
 <video width="80%" src="tri_humain_a_l_ecran.mp4" type="video/mp4" loop nocontrols autoplay></video>
+-->
 
 #### tri «humain» en code JSON
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jSUtbZwfj8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<!--
 <video width="80%" src="tri_humain_en_json.mp4" type="video/mp4" loop nocontrols autoplay></video>
+-->
 
 #### tri «humain» avec des données en Java
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qZI5XzwXiuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--
 <video width="50%" src="tri_humain_donnees_java.mp4" type="video/mp4" loop nocontrols autoplay></video>
+-->
 
 
 
