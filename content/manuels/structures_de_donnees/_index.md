@@ -154,3 +154,7 @@ weight: 1
 <center>
 <img width="320px" src="studio_temporaire.jpg"/>
 </center>
+
+## Vidéos Youtube
+
+* Habituellement j'intègre les vidéos directement à la page, mais elle n'affichaient pas dans tous les navigateurs (?), alors j'ai préféré Youtube pour cette fois.
