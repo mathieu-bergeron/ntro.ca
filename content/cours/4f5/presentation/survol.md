@@ -4,11 +4,16 @@ weight: 1
 bookHidden: true
 ---
 
+
 ## Présentation du cours
 
+{{% video "objectifs.mp4" "50%" %}}
+
+<!--
 <center>
 <video width="50%" src="/cours/4f5/presentation/objectifs.mp4" type="video/mp4" controls>
 </center>
+-->
 
 
 ### Objectif du cours

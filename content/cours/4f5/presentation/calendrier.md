@@ -1,9 +1,12 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
 ## Calendrier
 
-<center>
-<video width="50%" src="/cegep/420-4F5-MO/presentation/calendrier.mp4" type="video/mp4" controls>
-</center>
-
+{{% video "calendrier.mp4" "50%" %}}
 
 <br>
 

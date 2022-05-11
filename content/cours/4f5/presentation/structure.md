@@ -1,12 +1,14 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
 ## Structure du cours
-
-
 
 ### Aperçu
 
-<center>
-<video width="50%" src="/cegep/420-4F5-MO/presentation/structure_apercu.mp4" type="video/mp4" controls>
-</center>
+{{% video "structure_apercu.mp4" "50%" %}}
 
 * Le cours est divisé en 3 étapes:
     1. Étape 1:

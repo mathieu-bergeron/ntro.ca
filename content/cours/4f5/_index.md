@@ -6,9 +6,7 @@ bookCollapseSection: true
 
 # 4F5: Environnement graphique client/serveur
 
-<center>
-<video width="90%" src="bonjour.mp4" type="video/mp4" controls>
-</center>
+{{% video "bonjour.mp4" "90%"  %}}
 
 <!--
 $[embed ./presentation/premiere_semaine]()
