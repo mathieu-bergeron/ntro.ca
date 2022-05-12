@@ -16,8 +16,11 @@
 	</th>
 </tr>
 <tr>
-	<td style="text-align:center;">Examens théoriques
-	</td>
+<td style="text-align:center;">
+
+### Examens théoriques
+
+</td>
 	<td style="text-align:center;">2
 	</td>
 	<td>50%
@@ -27,8 +30,11 @@
 	</td>
 </tr>
 <tr>
-	<td style="text-align:center;">Auto-évaluations
-	</td>
+<td style="text-align:center;">
+
+### Auto-évaluations
+
+</td>
 	<td style="text-align:center;">9
 	</td>
 	<td>18%
@@ -39,8 +45,12 @@
 	</td>
 </tr>
 <tr>
-	<td style="text-align:center;">TPs</td>
-	<td style="text-align:center;">2
+<td style="text-align:center;">
+
+### TPs
+
+</td>
+<td style="text-align:center;">2
 	</td>
 	<td>12%
 	</td>
@@ -49,7 +59,11 @@
 	</td>
 </tr>
 <tr>
-	<td style="text-align:center;">Projet</td>
+<td style="text-align:center;">
+
+### Projet
+
+</td>
 	<td style="text-align:center;">1
 	</td>
 	<td>20%

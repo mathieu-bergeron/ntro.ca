@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # 4F5: env. graphique client/serveur
 
 ## DI
