@@ -32,12 +32,12 @@ Groupe 01
 1. 12:10 Serpents-échelles
 1. 12:25 Battleship
 
-{{% include "./presentation/survol.md" %}}
+{{% embed "./presentation/survol.md" %}}
 
-{{% include "./presentation/structure.md" %}}
+{{% embed "./presentation/structure.md" %}}
 
-{{% include "./presentation/calendrier.md" %}}
+{{% embed "./presentation/calendrier.md" %}}
 
-{{% include "./presentation/evaluations.md" %}}
+{{% embed "./presentation/evaluations.md" %}}
 
 
