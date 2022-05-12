@@ -1,5 +1,5 @@
 ---
-title: "Texto"
+title: "Txto"
 weight: 3
 # bookFlatSection: false
 # bookToc: true
