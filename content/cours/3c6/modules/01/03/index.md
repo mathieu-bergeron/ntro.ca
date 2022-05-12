@@ -1,11 +1,10 @@
 ---
-title: ""
+title: "Module 1.3: méthodologie"
 weight: 1
-bookHidden: true
 ---
 
 
-# Module 1.3: méthodes *obligatoires*
+# Module 1.3: méthodologie
 
 1. $[link ./theorie/](Théorie)
 1. <a href="https://cmontmorency.moodle.decclic.qc.ca/mod/quiz/view.php?id=204770" target="_blank">Mini-test sur la théorie</a>

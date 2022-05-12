@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 3.1: structure générique (1)"
 weight: 1
-bookHidden: true
 ---
 
 

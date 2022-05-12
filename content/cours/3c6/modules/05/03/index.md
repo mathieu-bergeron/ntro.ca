@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 5.3: Map naïf et avec hachage"
 weight: 1
-bookHidden: true
 ---
 
 

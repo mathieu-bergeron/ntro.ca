@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 2.3: polymorphisme"
 weight: 1
-bookHidden: true
 ---
 
 

@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 2.2: héritage"
 weight: 1
-bookHidden: true
 ---
 
 

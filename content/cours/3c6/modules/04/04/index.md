@@ -1,9 +1,7 @@
 ---
-title: ""
+title: "Module 4.4: Structures Vs base de données"
 weight: 1
-bookHidden: true
 ---
-
 
 # Module 4.4: Structures Vs base de données
 

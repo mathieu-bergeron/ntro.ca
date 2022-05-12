@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 2.4: attributs et visibilité"
 weight: 1
-bookHidden: true
 ---
 
 

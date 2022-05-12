@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 2.1: librairie Vs application"
 weight: 1
-bookHidden: true
 ---
 
 

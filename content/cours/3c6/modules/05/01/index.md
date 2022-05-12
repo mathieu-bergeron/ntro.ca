@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 5.1: Liste avec tableau"
 weight: 1
-bookHidden: true
 ---
 
 

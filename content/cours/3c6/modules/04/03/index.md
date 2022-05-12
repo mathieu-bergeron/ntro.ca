@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 4.3: structures Java"
 weight: 1
-bookHidden: true
 ---
 
 

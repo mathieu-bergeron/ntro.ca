@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 1.2: installation et utilisation d'Eclipse"
 weight: 1
-bookHidden: true
 ---
 
 

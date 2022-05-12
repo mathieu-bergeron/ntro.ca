@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 5.4: map avec arbre"
 weight: 1
-bookHidden: true
 ---
 
 

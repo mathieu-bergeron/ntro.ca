@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 3.3: efficacité (1)"
 weight: 1
-bookHidden: true
 ---
 
 

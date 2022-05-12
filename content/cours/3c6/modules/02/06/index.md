@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 2.6: constructeurs et super"
 weight: 1
-bookHidden: true
 ---
 
 

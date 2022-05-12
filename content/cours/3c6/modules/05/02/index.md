@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 5.2: Liste chaînée"
 weight: 1
-bookHidden: true
 ---
 
 

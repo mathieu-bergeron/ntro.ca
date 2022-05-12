@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 2.5: interface, classe abstraite"
 weight: 1
-bookHidden: true
 ---
 
 

@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Module 4.1: structures JSON (1)"
 weight: 1
-bookHidden: true
 ---
 
 
