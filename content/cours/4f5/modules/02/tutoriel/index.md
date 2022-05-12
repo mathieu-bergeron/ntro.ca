@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 2: créer le projet `tutoriels`
 
 1. $[link ./tut2_1/](Créer mon dépôt Git)

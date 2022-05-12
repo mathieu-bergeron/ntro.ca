@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Objectifs 3: créer la Vue de ma page
 
 <center>

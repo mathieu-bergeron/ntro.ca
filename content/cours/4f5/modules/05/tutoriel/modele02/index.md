@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 5.4: ajouter la liste de rendez-vous
 
 ## Créer le paquet `valeurs`

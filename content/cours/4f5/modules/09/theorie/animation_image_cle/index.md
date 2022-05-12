@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # JavaFX: animation par image clé (*keyframe*)
 
 ## Animation par image clé

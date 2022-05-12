@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Optionnel 9.2: réagir aux actions du joueur
 
 <center>

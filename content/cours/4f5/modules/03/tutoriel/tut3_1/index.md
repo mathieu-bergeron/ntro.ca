@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 3.1: créer et installer la `VueRacine`
 
 ## Créer la classe `VueRacine`

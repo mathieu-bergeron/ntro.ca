@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 4.1: créer la `VuePartie`
 
 ## Créer la classe `VuePartie`

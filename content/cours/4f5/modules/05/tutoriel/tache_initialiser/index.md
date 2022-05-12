@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 5.3: Initialiser le `ModeleFileAttente`
 
 ## Créer la méthode `ModeleFileAttente.initialiser()`

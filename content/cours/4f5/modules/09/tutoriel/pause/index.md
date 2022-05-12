@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Optionnel 9.7: mettre la partie en pause
 
 <center>

@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Théorie: Application graphique client/serveur
 
 ## Frontal (*frontend*) et dorsal (*backend*)

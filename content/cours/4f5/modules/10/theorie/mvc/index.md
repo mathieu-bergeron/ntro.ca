@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Théorie: MVC `Ntro` en mode client/serveur
 
 <center>

@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 10.4: créer et démarrer une partie
 
 ## Ajouter des messages

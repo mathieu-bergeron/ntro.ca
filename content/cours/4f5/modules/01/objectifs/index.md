@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Objectifs 1: planifier l'implantation d'un jeu
 
 <center>

@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 3.4: ajouter les traductions
 
 ## Créer les fichiers `.properties`

@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 9.5: créer `DonneesVuePartie`
 
 ## Créer le `ViewData` nommé `DonneesVuePartie`

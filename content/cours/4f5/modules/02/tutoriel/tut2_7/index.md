@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 2.7: afficher la fenêtre et les tâches
 
 ## Exécuter le client

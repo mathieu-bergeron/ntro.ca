@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 9.4: créer un monde 2d
 
 ## Créer le monde et les objets

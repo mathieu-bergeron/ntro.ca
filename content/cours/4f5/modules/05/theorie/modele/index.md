@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Théorie: notion de modèle
 
 ## Le modèle contient les données d'une page

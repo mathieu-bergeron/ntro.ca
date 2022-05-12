@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Optionnel 9.5: ajouter des effets et des animations
 
 <center>

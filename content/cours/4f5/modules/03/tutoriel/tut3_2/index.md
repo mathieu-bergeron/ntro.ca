@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 3.2: installer la `VueFileAttente`
 
 ## Créer la classe `VueFileAttente`

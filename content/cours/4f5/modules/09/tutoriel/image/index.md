@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Optionnel 9.4: afficher l'image d'une balle
 
 <center>

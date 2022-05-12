@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 4.2: gestion d'événements usager
 
 ## Créer les événements `Ntro`

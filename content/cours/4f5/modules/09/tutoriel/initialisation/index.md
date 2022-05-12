@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 9.2: créer la `VuePartie` dans l`Initialisation`
 
 1. En Eclipse, J'ouvre `Navigation` et `Initialisation`

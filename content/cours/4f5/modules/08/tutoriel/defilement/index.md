@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 8.7: ajouter une barre de défilement
 
 1. J'ouvre `file_attente.xml` et je modifie le FXML comme suit:

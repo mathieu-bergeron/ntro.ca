@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 8.2: créer `FragmentRendezVous` et `FragmentPartieEnCours`
 
 ## Créer les fichiers `.xml`

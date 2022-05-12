@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Objectifs 7: implanter une fonctionnalité
 
 <!--

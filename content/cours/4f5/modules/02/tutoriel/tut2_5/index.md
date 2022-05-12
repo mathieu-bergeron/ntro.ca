@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 2.5: importer le projet `pong` en Eclipse
 
 <center>

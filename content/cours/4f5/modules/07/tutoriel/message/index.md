@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 7.2: message `MsgAjouterRendezVous`
 
 ## Définir et déclarer le message

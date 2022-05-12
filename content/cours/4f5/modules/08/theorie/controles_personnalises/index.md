@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # JavaFX: contrôle graphique personnalisé
 
 ## En Java

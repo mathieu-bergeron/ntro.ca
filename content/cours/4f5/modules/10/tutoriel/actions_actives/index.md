@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Optionnel 10.2: mieux gérer les actions joueurs
 
 <center>

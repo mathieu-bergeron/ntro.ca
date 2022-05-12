@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 8.4: afficher les rendez-vous
 
 ## Afficher les rendez-vous dans `VueFileAttente`

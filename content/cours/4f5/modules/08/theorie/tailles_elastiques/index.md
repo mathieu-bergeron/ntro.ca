@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # JavaFX: tailles élastiques
 
 ## À l'intérieur d'un *HBox*

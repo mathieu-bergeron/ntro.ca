@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 8.5: utiliser des tailles élastiques
 
 ## Ajouter les tailles élastiques

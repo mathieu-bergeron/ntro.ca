@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Objectifs 9: créer une `VuePartie` simple
 
 <center>

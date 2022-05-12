@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 7.5: observer le modèle dans le frontal
 
 1. Dans `frontal.taches` j'ajoute la classe `AfficherFileAttente`

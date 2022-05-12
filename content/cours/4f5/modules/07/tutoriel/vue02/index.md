@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 7.6: `boutonAjouterRendezVous`
 
 1. J'ouvre `file_attente.xml` et j'ajoute le `labelMessage`

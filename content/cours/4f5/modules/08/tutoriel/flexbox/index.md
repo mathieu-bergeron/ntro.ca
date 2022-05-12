@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 8.6: créer et utiliser le `FlexBoxRendezVous`
 
 ## Créer la classe `FlexBoxRendezVous`

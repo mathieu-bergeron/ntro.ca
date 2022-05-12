@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 2.6: coder `ClientPong` et `FrontalPong`
 
 ## Commencer à coder le client du projet `pong`

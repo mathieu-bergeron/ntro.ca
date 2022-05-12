@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 8.8: créer et utiliser le `CanvasPartie`
 
 ## Créer la classe `CanvasPartie`

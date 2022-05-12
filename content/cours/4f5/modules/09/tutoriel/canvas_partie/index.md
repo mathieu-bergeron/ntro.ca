@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 9.3: créer le `CanvasPartie` 
 
 1. Si j'ai déjà la classe `CanvasPartie`, je saute à l'étape «Hériter de `World2dCanvas`

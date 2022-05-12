@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 3: créer et installer des Vues
 
 1. $[link ./tut3_1/](Créer et installer la `VueRacine`)

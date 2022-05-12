@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Théorie module 7
 
 1. $[link ./fonctionnalite/](Retour sur le patron MVC: qu'est-ce qu'une fonctionnalité?)

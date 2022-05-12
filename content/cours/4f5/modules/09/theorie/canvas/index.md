@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # JavaFX: dessiner
 
 ## La toile (`Canvas`)

@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 8.1: ajouter le `conteneurRendezVous`
 
 ## Retirer les éléments graphiques de l'ancien affichage

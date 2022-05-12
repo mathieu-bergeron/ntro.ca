@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 9.6: afficher le monde 2d
 
 ## Créer une tâche pour l'affichage temps-réel

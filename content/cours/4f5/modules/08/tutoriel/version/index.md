@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 8: migrer à la version `0.8` de `Ntro`
 
 1. Dans le répertoire `tutoriels`, j'ouvre `gradle.properties`

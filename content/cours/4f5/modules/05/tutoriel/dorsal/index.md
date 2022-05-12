@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 5.1: créer le dorsal
 
 ## Créer le paquet `dorsal`
