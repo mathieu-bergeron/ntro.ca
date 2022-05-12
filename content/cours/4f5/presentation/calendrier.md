@@ -21,7 +21,10 @@ bookHidden: true
 </tr>
 
 <tr>
-<td style="text-align:center;">Semaine 1
+<td style="text-align:center;">
+
+### Semaine 1
+
 </td>
 <td>
 
@@ -33,11 +36,16 @@ bookHidden: true
     * maquette pour chaque page
     * spécification du modèle
     * plan de tests
-    </td>
-    <td>&nbsp;</td>
+</td>
+<td>&nbsp;</td>
 </tr>
+
+
 <tr>
-<td style="text-align:center;">Semaine 2
+<td style="text-align:center;">
+
+### Semaine 2
+
 </td>
 <td>
 
@@ -53,7 +61,10 @@ Auto-évaluation&nbsp;1
 </tr>
 
 <tr>
-<td style="text-align:center;">Semaine 3
+<td style="text-align:center;">
+
+### Semaine 3
+
 </td>
 <td>
 
@@ -70,51 +81,65 @@ Auto-évaluation&nbsp;2
 
 
 <tr>
-	<td style="text-align:center;">Semaine 4
-	</td>
-	<td>
-	<a href="/cegep/420-4F5-MO/modules/04/">module 4</a>
-	<ul>
-	    <li> Patron MVC (1): événements et capteurs d'événements
-	    <li> Passer d'une sous-vue à l'autre
-	</ul>
-	</td>
-	<td>
-    Auto-évaluation&nbsp;3
-	</td>
-</tr>
-<tr>
-	<td style="text-align:center;">Semaine 5
-	</td>
-	<td>
-	<a href="/cegep/420-4F5-MO/modules/05/">module 5</a>
-	<ul>
-	    <li> Patron MVC (3): notion de Modèle
-	</ul>
-	</td>
-	<td>
-    Auto-évaluation&nbsp;4
-	</td>
+<td style="text-align:center;">
+
+### Semaine 4
+
+</td>
+<td>
+
+{{% link "../modules/04/" "module 4" %}}
+
+* Patron MVC (1): événements et capteurs d'événements
+* Passer d'une sous-vue à l'autre
+</td>
+<td>
+Auto-évaluation&nbsp;3
+</td>
 </tr>
 
 
 <tr>
-	<td style="text-align:right;">Semaine 6<br>séance 1
-	</td>
-	<td>
-	module 6
-	<ul>
-	    <li>travail libre
-	    <li>pas de nouveaux objectifs
-	    <li>pas d'auto-évaluation
-	</ul>
-	<td>
-    Auto-évaluation&nbsp;5
-	</td>
+<td style="text-align:center;">
+
+### Semaine 5
+
+</td>
+<td>
+
+{{% link "../modules/05/" "module 5" %}}
+
+* Patron MVC (3): notion de Modèle
+</td>
+<td>
+Auto-évaluation&nbsp;4
+</td>
 </tr>
+
+
+<tr>
+<td style="text-align:right;">
+
+### Séance 6.1
+
+</td>
+<td>
+module 6
+
+* travail libre
+* pas de nouveaux objectifs
+* pas d'auto-évaluation
+</td>
+<td>
+Auto-évaluation&nbsp;5
+</td>
+</tr>
+
 <tr>
 <td style="text-align:right;background-color:pink">
-Semaine 6<br>séance 2
+
+### Séance 6.2
+
 </td>
 	<td colspan="2" style="text-align:right;background-color:pink">
 	REMISE TP #1 (avant l'examen)<br><br>
@@ -124,18 +149,19 @@ Semaine 6<br>séance 2
 
 
 <tr>
-	<td style="text-align:center;">Semaine 7
-	</td>
-	<td>
-	<a href="/cegep/420-4F5-MO/modules/07/">module 7</a>
-	<ul>
-	    <li> Implantation d'une fonctionnalité
-	        <ul> 
-	        <li> création d'un dorsal (<i>backend</i>)
-	        <li> notion de message
-	        <li> observation et affichage du modèle
-	        </ul>
-	</ul>
+<td style="text-align:center;">
+
+### Semaine 7
+
+</td>
+<td>
+
+{{% link "../modules/07/" "module 7" %}}
+
+* Implantation d'une fonctionnalité
+    * création d'un dorsal *(backend)*
+    * notion de message
+    * observation et affichage du modèle
 	</td>
 	<td>
     &nbsp;
@@ -143,78 +169,94 @@ Semaine 6<br>séance 2
 </tr>
 
 <tr>
-	<td style="text-align:center;">Semaine 8
-	</td>
-	<td>
-	<a href="/cegep/420-4F5-MO/modules/08/">module 8</a>
-	<ul>
-	    <li> Vue JavaFx (2): contrôles personnalisés, affichage adaptatif
-	</ul>
-	</td>
-	<td>
-    Auto-évaluation&nbsp;7
-	</td>
+<td style="text-align:center;">
+
+### Semaine 8
+
+</td>
+<td>
+
+{{% link "../modules/08/" "module 8" %}}
+
+* Vue JavaFx (2): contrôles personnalisés, affichage adaptatif
+</td>
+<td>
+Auto-évaluation&nbsp;7
+</td>
 </tr>
 
 <tr>
-	<td style="text-align:center;">Semaine 9
-	</td>
-	<td>
-	<a href="/cegep/420-4F5-MO/modules/09/">module 9</a>
-	<ul>
-	    <li> Vue JavaFx (3): animations, dessins 2D
-	    <li> implantation d'un jeu temps réel
-	</ul>
-	</td>
-	<td>
-    Auto-évaluation&nbsp;8
-	</td>
+<td style="text-align:center;">
+
+### Semaine 9
+
+</td>
+<td>
+
+{{% link "../modules/09/" "module 9" %}}
+
+* Vue JavaFx (3): animations, dessins 2D
+* implantation d'un jeu temps réel
+</td>
+<td>
+Auto-évaluation&nbsp;8
+</td>
 </tr>
 
 <tr>
-	<td style="text-align:center;">Semaine 10
-	</td>
-	<td>
-	<a href="/cegep/420-4F5-MO/modules/10/">module 10</a>
-	<ul>
-	    <li> Patron MVC (4): 
-	    <ul>
-	    <li> communication client/serveur
-	    <li> gérer les changements de contexte
-	    <li> graphe de tâche dynamique
-	    </ul>
-	</ul>
-	</td>
-	<td>
-    Auto-évaluation&nbsp;9
-	</td>
+<td style="text-align:center;">
+
+### Semaine 10
+
+</td>
+<td>
+
+{{% link "../modules/10/" "module 10" %}}
+
+* Patron MVC (4): 
+    * communication client/serveur
+    * gérer les changements de contexte
+    * graphe de tâche dynamique
+</td>
+<td>
+Auto-évaluation&nbsp;9
+</td>
 </tr>
 
 <tr>
-	<td style="text-align:right;">Semaine&nbsp;11<br>séance 1
-	</td>
-	<td>
-	travail libre
-	<td>
-    Auto-évaluation&nbsp;10
-	</td>
+<td style="text-align:right;">
+
+### Séance 11.1
+
+</td>
+<td>
+travail libre
+<td>
+Auto-évaluation&nbsp;10
+</td>
 </tr>
 <tr>
-	<td style="text-align:right;background-color:pink">Semaine&nbsp;11<br>séance 2</td>
-	<td colspan="2" style="text-align:right;background-color:pink">
-	REMISE TP #2 (avant l'examen) <br><br>
-	EXAMEN #2
-	</td>
+<td style="text-align:right;background-color:pink">
+
+### Séance 11.2
+
+</td>
+<td colspan="2" style="text-align:right;background-color:pink">
+REMISE TP #2 (avant l'examen) <br><br>
+EXAMEN #2
+</td>
 </tr>
 
 <tr>
-	<td colspan="3" style="text-align:left">
-	<br>
-	<br>
-	Semaines 12-15: Projet
-	<br>
-	<br>&nbsp;
-	</td>
+<td colspan="3" style="text-align:left">
+<br>
+<br>
+
+### Semaines 12-15: Projet
+
+<br>
+<br>&nbsp;
+</td>
 </tr>
 <tr>
 	<td colspan="3" style="text-align:right;background-color:pink">
