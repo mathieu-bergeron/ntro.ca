@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Dessins collaboratifs
 
 * Une application client/serveur pour collaborer à plusieurs sur un même dessin

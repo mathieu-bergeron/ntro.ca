@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Gestion des événements et navigation
 
 * Considérer l'application d'agenda partagé.

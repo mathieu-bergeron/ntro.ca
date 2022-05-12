@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 Considérer l'application d'agenda partagé.
 
 <center>

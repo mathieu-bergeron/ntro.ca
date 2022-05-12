@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Gestion des événements et navigation
 
 * Considérer l'application de dessins collaboratifs
