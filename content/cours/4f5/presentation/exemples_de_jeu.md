@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 ### Exemples de jeux de table
 
 1. Échecs

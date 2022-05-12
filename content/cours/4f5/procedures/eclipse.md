@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # En cas d'erreurs bizarres avec Eclipse
 
 1. En Eclipse, je supprime chaque projet

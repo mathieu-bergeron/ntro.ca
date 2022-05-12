@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Migrer vers `Ntro` version `0.6`
 
 * On va aussi retirer les dépendances à `JSweet`

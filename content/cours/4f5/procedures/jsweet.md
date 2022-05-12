@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Erreur de type `500 from server: Internal Server Error`
 
 1. Si j'ai ce genre d'erreur Gradle
