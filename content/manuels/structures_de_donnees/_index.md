@@ -13,6 +13,7 @@ weight: 1
 
 * 6 vidéos
 * temps total: 20 minutes
+* brouillon du manuel sur <a href="http://codelescartes.ca">codelescartes.ca</a>
 
 ## Intro
 
