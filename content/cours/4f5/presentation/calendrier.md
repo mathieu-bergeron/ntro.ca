@@ -20,21 +20,18 @@ bookHidden: true
 	</th>
 </tr>
 <tr>
-	<td style="text-align:center;">Semaine 1
-	</td>
-	<td>
-	<a href="/cegep/420-4F5-MO/modules/01/">module 1</a>
-	<ul>
-	    <li> Installation Eclipse, JDK 11, Git, Gradle
-	    <li> Exécution des tutoriels
-	    <li> Documents de conception
-	    <ul>
-	        <li> maquette pour chaque page
-	        <li> spécification du modèle
-	        <li> plan de tests
-	    </ul>
-	</ul>
-	<td>&nbsp;</td>
+    <td style="text-align:center;">Semaine 1
+    </td>
+    <td>
+{{% link "../modules/01/" "module 1" %}}
+* Installation Eclipse, JDK 11, Git, Gradle
+* Exécution des tutoriels
+* Documents de conception
+    * maquette pour chaque page
+    * spécification du modèle
+    * plan de tests
+    </td>
+    <td>&nbsp;</td>
 </tr>
 <tr>
 	<td style="text-align:center;">Semaine 2
