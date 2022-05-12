@@ -19,11 +19,14 @@ bookHidden: true
 	<th>Évaluation
 	</th>
 </tr>
+
 <tr>
-    <td style="text-align:center;">Semaine 1
-    </td>
-    <td>
+<td style="text-align:center;">Semaine 1
+</td>
+<td>
+
 {{% link "../modules/01/" "module 1" %}}
+
 * Installation Eclipse, JDK 11, Git, Gradle
 * Exécution des tutoriels
 * Documents de conception
@@ -34,37 +37,38 @@ bookHidden: true
     <td>&nbsp;</td>
 </tr>
 <tr>
-	<td style="text-align:center;">Semaine 2
-	</td>
-	<td>
-	<a href="/cegep/420-4F5-MO/modules/02/">module 2</a>
-	<ul>
-	    <li> Création du projet
-	    <li> Patron MVC (1): création d'un frontal
-	        <ul>
-	            <li>Notion de graphe de tâches
-	        </ul>
-	    <li> Afficher la fenêtre par défaut
-	</ul>
-	</td>
-	<td>
-    <a href="" target="_blank">Auto-évaluation&nbsp;1</a>
-	</td>
+<td style="text-align:center;">Semaine 2
+</td>
+<td>
+
+{{% link "../modules/02/" "module 2" %}}
+
+* Création du projet
+* Patron MVC (1): création d'un frontal
+    * Notion de graphe de tâches
+* Afficher la fenêtre par défaut
+<td>
+Auto-évaluation&nbsp;1
+</td>
 </tr>
+
 <tr>
-	<td style="text-align:center;">Semaine 3
-	</td>
-	<td>
-	<a href="/cegep/420-4F5-MO/modules/03/">module 3</a>
-	<ul>
-	    <li> Vue JavaFx (1): fxml de base, css, traductions
-	    <li> Avancement du frontal (graphe de tâches)
-	    <li> Affichage d'une vue principale
-	</ul>
-	</td>
-	<td>
-    <a href="" target="_blank">Auto-évaluation&nbsp;2</a>
-	</td>
+<td style="text-align:center;">Semaine 3
+</td>
+<td>
+
+{{% link "../modules/03/" "module 3" %}}
+
+* Vue JavaFx (1): fxml de base, css, traductions
+* Avancement du frontal (graphe de tâches)
+* Affichage d'une vue principale
+</td>
+<td>
+Auto-évaluation&nbsp;2
+</td>
+</tr>
+
+
 <tr>
 	<td style="text-align:center;">Semaine 4
 	</td>
@@ -76,7 +80,7 @@ bookHidden: true
 	</ul>
 	</td>
 	<td>
-    <a href="" target="_blank">Auto-évaluation&nbsp;3</a>
+    Auto-évaluation&nbsp;3
 	</td>
 </tr>
 <tr>
@@ -89,7 +93,7 @@ bookHidden: true
 	</ul>
 	</td>
 	<td>
-    <a href="" target="_blank">Auto-évaluation&nbsp;4</a>
+    Auto-évaluation&nbsp;4
 	</td>
 </tr>
 
@@ -105,7 +109,7 @@ bookHidden: true
 	    <li>pas d'auto-évaluation
 	</ul>
 	<td>
-    <br><a href="" target="_blank">Auto-évaluation&nbsp;5</a>
+    Auto-évaluation&nbsp;5
 	</td>
 </tr>
 <tr>
@@ -134,7 +138,7 @@ Semaine 6<br>séance 2
 	</ul>
 	</td>
 	<td>
-    <a href="" target="_blank">&nbsp;</a>
+    &nbsp;
 	</td>
 </tr>
 
@@ -148,7 +152,7 @@ Semaine 6<br>séance 2
 	</ul>
 	</td>
 	<td>
-    <a href="" target="_blank">Auto-évaluation&nbsp;7</a>
+    Auto-évaluation&nbsp;7
 	</td>
 </tr>
 
@@ -163,7 +167,7 @@ Semaine 6<br>séance 2
 	</ul>
 	</td>
 	<td>
-    <a href="" target="_blank">Auto-évaluation&nbsp;8</a>
+    Auto-évaluation&nbsp;8
 	</td>
 </tr>
 
@@ -182,7 +186,7 @@ Semaine 6<br>séance 2
 	</ul>
 	</td>
 	<td>
-    <a href="" target="_blank">Auto-évaluation&nbsp;9</a>
+    Auto-évaluation&nbsp;9
 	</td>
 </tr>
 
@@ -192,7 +196,7 @@ Semaine 6<br>séance 2
 	<td>
 	travail libre
 	<td>
-    <br><a href="" target="_blank">Auto-évaluation&nbsp;10</a>
+    Auto-évaluation&nbsp;10
 	</td>
 </tr>
 <tr>

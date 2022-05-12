@@ -41,5 +41,5 @@ bookHidden: true
 
 * {{% download "./plan/420-4F5-MO-H22_MB.pdf" "Plan de cours" %}}
 * <a href="https://cmontmorency.moodle.decclic.qc.ca/course/view.php?id=7374">Page Moodle du cours</a>
-* $[download ./NormesProgrammationJava.pdf](Normes de programmation)
+* {{% download "./NormesProgrammationJava.pdf" "Normes de programmation" %}}
 * Prise de rendez-vous: <a href="https://aiguilleur.ca/file_d_attente/mathieu.bergeron">aiguilleur.ca/file_d_attente/mathieu.bergeron</a>

@@ -8,7 +8,7 @@ bookHidden: true
 
 ### Aperçu
 
-{{% video "structure_apercu.mp4" "50%" %}}
+{{% video "./structure_apercu.mp4" "50%" %}}
 
 * Le cours est divisé en 3 étapes:
     1. Étape 1:
@@ -26,9 +26,8 @@ bookHidden: true
 
 ### Détails
 
-<center>
-<video width="50%" src="/cegep/420-4F5-MO/presentation/structure_details.mp4" type="video/mp4" controls>
-</center>
+{{% video "./structure_details.mp4" "50%" %}}
+
 
 * Un module contient:
     1. un exposé théorique
@@ -53,9 +52,7 @@ bookHidden: true
 
 ### Pendant les heures de cours
 
-<center>
-<video width="50%" src="/cegep/420-4F5-MO/presentation/questions.mp4" type="video/mp4" controls>
-</center>
+{{% video "questions.mp4" "50%" %}}
 
 * Le prof va répondre aux questions, dans l'ordre
 indiqué sur  <a href="https://aiguilleur.ca/file_d_attente/mathieu.bergeron">aiguilleur.ca/file_d_attente/mathieu.bergeron</a>

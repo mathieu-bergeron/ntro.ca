@@ -1,8 +1,6 @@
 ## Évaluations
 
-<center>
-<video width="50%" src="/cegep/420-4F5-MO/presentation/evaluations.mp4" type="video/mp4" controls>
-</center>
+{{% video "./evaluations.mp4" "50%" %}}
 
 * Erratum: les TPs valent 6% chacun pour 12% au total
 
