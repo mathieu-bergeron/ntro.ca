@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Module 5.3: Map naïf et avec hachage
 
 1. $[link ./theorie/](Théorie)

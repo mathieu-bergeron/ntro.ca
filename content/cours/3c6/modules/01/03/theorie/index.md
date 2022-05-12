@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Méthodes qu'on *doit* implanter
 
 <center>

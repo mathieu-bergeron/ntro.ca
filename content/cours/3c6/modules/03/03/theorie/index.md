@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Théorie 3.3: efficacité (1)
 
 <center>

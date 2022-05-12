@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Pour contrôler l'écran des utilisateurs
 
 https://docs.microsoft.com/en-us/answers/questions/8761/request-control-during-screen-share-ubuntu-180404.html

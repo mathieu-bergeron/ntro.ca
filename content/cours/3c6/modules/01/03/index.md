@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Module 1.3: méthodes *obligatoires*
 
 1. $[link ./theorie/](Théorie)

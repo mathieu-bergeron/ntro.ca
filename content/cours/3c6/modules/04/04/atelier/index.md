@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Atelier 4.4: modifier un fichier (efficace)
 
 ## Préalable

@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Module 3.2: structure générique (2)
 
 1. $[link ./theorie/](Théorie)

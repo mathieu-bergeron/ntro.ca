@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 `Tableau<C> trier(Tableau<C> entree)`:
 
 * **CRÉER** un tableau `resultat` vide

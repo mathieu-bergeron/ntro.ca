@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Atelier 3.4: efficacité (2)
 
 ## Préalable

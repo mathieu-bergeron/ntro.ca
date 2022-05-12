@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # 50pts) Implanter `MaListeArray`
 
 Une `ListeArray` générale conserve de l'espace vide à la fin **et** au début du tableau.

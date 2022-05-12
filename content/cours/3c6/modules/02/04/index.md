@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Module 2.4: attributs et visibilité
 
 1. $[link ./theorie/](Théorie)

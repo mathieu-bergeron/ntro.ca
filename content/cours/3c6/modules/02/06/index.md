@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Module 2.6: constructeurs et `super`
 
 1. $[link ./theorie/](Théorie)

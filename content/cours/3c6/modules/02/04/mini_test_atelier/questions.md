@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Assigner les visibilités
 
 Considérer la hiérarchie de classes de l'atelier:

@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Atelier 1.1: création de mon dépôt Git
 
 ## Préalable

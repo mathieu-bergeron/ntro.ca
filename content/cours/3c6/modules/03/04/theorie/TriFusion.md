@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 `Tableau trier(Tableau entree)`:
 
 * **CRÉER** un tableau `resultat` vide

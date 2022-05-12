@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Atelier 2.4: héritage
 
 <div style="padding:5px;background:orange;border-style:dotted" >

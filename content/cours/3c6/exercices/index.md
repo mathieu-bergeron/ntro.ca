@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Exercices supplémentaires
 
 ## Tableaux à une dimension

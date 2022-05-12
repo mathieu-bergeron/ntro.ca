@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 `Tableau fusionner(Tableau gauche, Tableau droite)`:
 
 * **CRÉER** un tableau `resultat` vide

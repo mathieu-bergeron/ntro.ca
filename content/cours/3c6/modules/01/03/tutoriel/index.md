@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 1.3: ajout de méthodes
 
 ## Étape 01: créer le projet `tutoriel1_3`

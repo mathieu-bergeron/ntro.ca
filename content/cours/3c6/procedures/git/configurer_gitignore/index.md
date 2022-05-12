@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Configurer `.gitignore`
 
 1. En GitBash, je navigue à la racine de mon dépôt Git. Par exemple:

@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Procédure à suivre pour utiliser Git
 
 ## Avant de commencer à travailler

@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # 3C6: Structures de données
 
 ## 4 premières semaines

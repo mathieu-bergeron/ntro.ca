@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Implanter une méthode d'affichage
 
 Considérer la hiérarchie de classes suivante:

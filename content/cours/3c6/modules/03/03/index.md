@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Module 3.3: efficacité (1)
 
 1. $[link ./theorie/](Théorie)

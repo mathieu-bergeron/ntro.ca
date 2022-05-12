@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Choisir où mettre la méthode
 
 Choisir où implanter et où redéfinir la méthode

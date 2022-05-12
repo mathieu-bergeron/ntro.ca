@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Module 1.2: installation et utilisation d'Eclipse
 
 1. $[link ./theorie/](Théorie)

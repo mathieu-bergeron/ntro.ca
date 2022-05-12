@@ -1,3 +1,9 @@
+---
+title: "Module 1.1: installation et utilisation de Git"
+weight: 1
+---
+
+
 # Module 1.1: installation et utilisation de Git
 
 <!--

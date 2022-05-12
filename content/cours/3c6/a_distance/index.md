@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Outils pour travailler à distance
 
 1. <a href="https://cmontmorency.moodle.decclic.qc.ca/course/view.php?id=5671" target="_blank">La page Moodle</a>

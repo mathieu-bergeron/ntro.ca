@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Théorie 3.2: structure générique (2)
 
 <center>

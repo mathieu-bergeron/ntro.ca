@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Théorie 5.2: liste chaînée (simple et double)
 
 <center>

@@ -4,13 +4,10 @@ weight: 2
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
-# bookCollapseSection: false
+bookCollapseSection: true
 # bookComments: false
 # bookSearchExclude: false
 ---
 
-# 3C6: structures de données
+{{% embed "./presentation/index.md" %}}
 
-Ces notes de cours sont au <a target="_blank" href="https://ciboulot.ca/cegep/420-3C6-MO/">ciboulot.ca/cegep/420-3C6-MO/</a>&nbsp;🔗
-
-(j'espère les migrer ici bientôt).

@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Tutoriel 3.1: structure générique (1)
 
 ## Objectifs

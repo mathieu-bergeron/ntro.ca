@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Théorie 5.3: Map naïf et avec hachage
 
 <center>

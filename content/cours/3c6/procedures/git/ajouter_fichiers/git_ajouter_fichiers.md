@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Ajouter les fichiers dans Git
 
 1. Je vérifie s'il manque des fichiers

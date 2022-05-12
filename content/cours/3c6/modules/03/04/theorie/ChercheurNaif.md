@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 `int trouverIndicePourValeur(tableau, valeur)`:
 
 * **POUR TOUS** les éléments `el` du `tableau`:

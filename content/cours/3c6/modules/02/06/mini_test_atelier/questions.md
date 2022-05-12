@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Re-coder les constructeurs
 
 En choississant les bonnes options, compléter les trois constructeurs suivants, tirés de l'`atelier2_6`.

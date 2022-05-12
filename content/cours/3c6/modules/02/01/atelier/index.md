@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Atelier 2.1: utiliser la librairie `atelier2_1.jar`
 
 ## Préalable

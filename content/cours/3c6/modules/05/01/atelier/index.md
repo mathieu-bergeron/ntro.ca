@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Atelier 5.1: liste (relativement) efficace
 
 ## Préalable

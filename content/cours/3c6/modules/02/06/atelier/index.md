@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Atelier 2.6: constructeurs et `super`
 
 ## Préalable

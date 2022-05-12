@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Atelier 2.5: interfaces et classes abstraites
 
 ## Préalable

@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Validité des constructeurs et des appels
 
 Indiquer la validité de chaque constructeur et de chaque `new`. Choisir `∅` si le constructeur n'est pas valide.

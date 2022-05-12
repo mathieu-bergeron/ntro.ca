@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Module 2.3: polymorphisme
 
 1. $[link ./theorie/](Théorie)

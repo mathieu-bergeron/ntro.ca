@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Module 2.5: interface, classe abstraite
 
 1. $[link ./theorie/](Théorie)

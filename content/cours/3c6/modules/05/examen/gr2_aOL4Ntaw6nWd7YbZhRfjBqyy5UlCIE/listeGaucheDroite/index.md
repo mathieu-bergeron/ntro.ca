@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # 40pts) Implanter `MaListeGaucheDroite`
 
 Une `ListeGaucheDroite` est une liste où il est efficace d'insérer et de retirer **au milieu**.

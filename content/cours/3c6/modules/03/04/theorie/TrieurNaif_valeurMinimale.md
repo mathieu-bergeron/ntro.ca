@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 `Valeur obtenirValeurMinimale(tableau)`:
 
 * **considérer** que le premier élément du `tableau` est la valeur minimale

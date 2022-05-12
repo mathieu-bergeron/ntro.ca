@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 1. Fichiers d'objets
 	* je vais faire JSON
 1. Copie d'objets

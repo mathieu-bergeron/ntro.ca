@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Atelier 4.2: structures JSON (2)
 
 <div style="padding:5px;background:orange;border-style:dotted" >

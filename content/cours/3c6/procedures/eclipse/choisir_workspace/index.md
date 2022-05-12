@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Créer un Workspace sur le `C:\`
 
 ## Créer dès l'ouverture

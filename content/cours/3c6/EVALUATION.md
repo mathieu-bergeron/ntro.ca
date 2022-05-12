@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Évaluations
 
 On vise p.ex. 25 petits modules.

@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Question 01
 
 Pour les méthodes de l'accepteur, indiquer chaque fragment de code qui est nécessaire pour implanter la méthode.

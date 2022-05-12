@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Comprhension abstrait et interface
 
 Pour chaque type de l'atelier 2.5, choisir la ou les affirmations correctes. Choisir `∅` si l'affirmation n'est pas correcte.

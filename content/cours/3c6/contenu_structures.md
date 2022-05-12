@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 1. Rappels: interface, abstract, héritage
 1. POO avancé: types génériques
 1. Types génériques

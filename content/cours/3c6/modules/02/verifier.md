@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Je vérifie mon dépôt Git
 
 * ATTENTION: $[link ./depots_manquants](Dépôts qu'il manque au prof)

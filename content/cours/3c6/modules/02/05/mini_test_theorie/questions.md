@@ -1,3 +1,10 @@
+---
+title: ""
+weight: 1
+bookHidden: true
+---
+
+
 # Validité des signatures
 
 Pour chaque déclaration, indiquer s'il s'agit:
