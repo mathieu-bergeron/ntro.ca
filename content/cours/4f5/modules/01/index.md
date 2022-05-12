@@ -11,7 +11,7 @@ weight: 10
 </center>
 
 
-1. Je lis la $[link ../../](description du cours) 
+1. Je lis la {{% link "../../" "description du cours" %}}
     * (remplace la théorie pour cette semaine)
 
 1. Je fais le $[link ./tutoriel/](tutoriel 01)
