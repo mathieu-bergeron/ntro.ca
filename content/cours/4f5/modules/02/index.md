@@ -1,7 +1,6 @@
 ---
-title: ""
-weight: 1
-bookHidden: true
+title: "Module 2: créer le projet"
+weight: 20
 ---
 
 

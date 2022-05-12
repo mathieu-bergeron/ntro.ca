@@ -1,7 +1,6 @@
 ---
-title: ""
-weight: 1
-bookHidden: true
+title: "Module 09: Jeu en 2d"
+weight: 90
 ---
 
 

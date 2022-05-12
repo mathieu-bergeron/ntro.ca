@@ -1,7 +1,6 @@
 ---
-title: ""
-weight: 1
-bookHidden: true
+title: "Module 5: dorsal et modèle"
+weight: 50
 ---
 
 

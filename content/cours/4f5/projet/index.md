@@ -1,7 +1,6 @@
 ---
-title: ""
-weight: 1
-bookHidden: true
+title: "Énoncé projet"
+weight: 109
 ---
 
 

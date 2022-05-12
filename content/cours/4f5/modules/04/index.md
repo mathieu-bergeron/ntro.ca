@@ -1,7 +1,6 @@
 ---
-title: ""
-weight: 1
-bookHidden: true
+title: "Module 4: réagir aux événements usagers"
+weight: 40
 ---
 
 

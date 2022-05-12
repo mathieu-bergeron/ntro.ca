@@ -1,7 +1,6 @@
 ---
-title: ""
-weight: 1
-bookHidden: true
+title: "Module 10: client/serveur"
+weight: 100
 ---
 
 

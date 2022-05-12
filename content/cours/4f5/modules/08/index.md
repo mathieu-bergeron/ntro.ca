@@ -1,7 +1,6 @@
 ---
-title: ""
-weight: 1
-bookHidden: true
+title: "Module 8: améliorer les vues"
+weight: 80
 ---
 
 

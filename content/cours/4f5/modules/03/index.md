@@ -1,7 +1,6 @@
 ---
-title: ""
-weight: 1
-bookHidden: true
+title: "Module 3: afficher la vue principale"
+weight: 30
 ---
 
 
