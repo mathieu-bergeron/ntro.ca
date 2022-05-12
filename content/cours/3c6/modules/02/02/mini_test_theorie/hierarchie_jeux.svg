@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="67cm" height="30cm" viewBox="130 71 1323 582" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="523" y="72" width="233.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="523" y="72" width="233.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="639.65" y="91">JeuVideo</text>
+    <rect style="fill: #ffffff" x="523" y="100" width="233.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="523" y="100" width="233.3" height="8"/>
+    <rect style="fill: #ffffff" x="523" y="108" width="233.3" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="523" y="108" width="233.3" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="526" y="122"> String typeDeJeu()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="526" y="138"> boolean estCeJeuEquipe()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="526" y="154"> int nombreGagnantsParMatch()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="767" y="228.3" width="233.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="767" y="228.3" width="233.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="883.65" y="247.3">RealTimeStrategy</text>
+    <rect style="fill: #ffffff" x="767" y="256.3" width="233.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="767" y="256.3" width="233.3" height="8"/>
+    <rect style="fill: #ffffff" x="767" y="264.3" width="233.3" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="767" y="264.3" width="233.3" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="770" y="278.3"> String typeDeJeu()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="770" y="294.3"> boolean estCeJeuEquipe()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="770" y="310.3"> int nombreGagnantsParMatch()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="396" y="227.3" width="185.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="396" y="227.3" width="185.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="488.6" y="246.3">FirstPersonShooter</text>
+    <rect style="fill: #ffffff" x="396" y="255.3" width="185.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="396" y="255.3" width="185.2" height="8"/>
+    <rect style="fill: #ffffff" x="396" y="263.3" width="185.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="396" y="263.3" width="185.2" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="399" y="277.3"> String typeDeJeu()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="131" y="365.3" width="233.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="131" y="365.3" width="233.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="247.65" y="384.3">Doom</text>
+    <rect style="fill: #ffffff" x="131" y="393.3" width="233.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="131" y="393.3" width="233.3" height="8"/>
+    <rect style="fill: #ffffff" x="131" y="401.3" width="233.3" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="131" y="401.3" width="233.3" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="134" y="415.3"> boolean estCeJeuEquipe()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="134" y="431.3"> int nombreGagnantsParMatch()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="394" y="365.3" width="233.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="394" y="365.3" width="233.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="510.65" y="384.3">Valorant</text>
+    <rect style="fill: #ffffff" x="394" y="393.3" width="233.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="394" y="393.3" width="233.3" height="8"/>
+    <rect style="fill: #ffffff" x="394" y="401.3" width="233.3" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="394" y="401.3" width="233.3" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="397" y="415.3"> boolean estCeJeuEquipe()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="397" y="431.3"> int nombreGagnantsParMatch()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="668" y="397.3" width="104.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="668" y="397.3" width="104.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="720.4" y="416.3">StarCraftII</text>
+    <rect style="fill: #ffffff" x="668" y="425.3" width="104.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="668" y="425.3" width="104.8" height="8"/>
+    <rect style="fill: #ffffff" x="668" y="433.3" width="104.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="668" y="433.3" width="104.8" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1018" y="394.3" width="202.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1018" y="394.3" width="202.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1119.25" y="413.3">MOBA</text>
+    <rect style="fill: #ffffff" x="1018" y="422.3" width="202.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1018" y="422.3" width="202.5" height="8"/>
+    <rect style="fill: #ffffff" x="1018" y="430.3" width="202.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1018" y="430.3" width="202.5" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1021" y="444.3"> String typeDeJeu()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1021" y="460.3"> boolean estCeJeuEquipe()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="815" y="433.3" width="138.05" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="815" y="433.3" width="138.05" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="884.025" y="452.3">AgeOfEmpires</text>
+    <rect style="fill: #ffffff" x="815" y="461.3" width="138.05" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="815" y="461.3" width="138.05" height="8"/>
+    <rect style="fill: #ffffff" x="815" y="469.3" width="138.05" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="815" y="469.3" width="138.05" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="639.65,179.242 639.65,202.15 883.65,202.15 883.65,227.295 "/>
+    <polygon style="fill: #ffffff" points="647.65,179.242 639.65,163.242 631.65,179.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="647.65,179.242 639.65,163.242 631.65,179.242 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="639.65,179.242 639.65,201.649 488.6,201.649 488.6,226.293 "/>
+    <polygon style="fill: #ffffff" points="647.65,179.242 639.65,163.242 631.65,179.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="647.65,179.242 639.65,163.242 631.65,179.242 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="488.6,302.543 488.6,332.299 510.65,332.299 510.65,364.291 "/>
+    <polygon style="fill: #ffffff" points="496.6,302.543 488.6,286.543 480.6,302.543 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="496.6,302.543 488.6,286.543 480.6,302.543 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="488.6,302.543 488.6,332.299 247.65,332.299 247.65,364.291 "/>
+    <polygon style="fill: #ffffff" points="496.6,302.543 488.6,286.543 480.6,302.543 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="496.6,302.543 488.6,286.543 480.6,302.543 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="911" y="595.3" width="233.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="911" y="595.3" width="233.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1027.65" y="614.3">Dota2</text>
+    <rect style="fill: #ffffff" x="911" y="623.3" width="233.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="911" y="623.3" width="233.3" height="8"/>
+    <rect style="fill: #ffffff" x="911" y="631.3" width="233.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="911" y="631.3" width="233.3" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="914" y="645.3"> int nombreGagnantsParMatch()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1218" y="595.3" width="233.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1218" y="595.3" width="233.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1334.65" y="614.3">LeagueOfLegends</text>
+    <rect style="fill: #ffffff" x="1218" y="623.3" width="233.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1218" y="623.3" width="233.3" height="8"/>
+    <rect style="fill: #ffffff" x="1218" y="631.3" width="233.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1218" y="631.3" width="233.3" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1221" y="645.3"> int nombreGagnantsParMatch()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="883.65,335.542 883.65,364.8 720.4,364.8 720.4,396.294 "/>
+    <polygon style="fill: #ffffff" points="891.65,335.542 883.65,319.542 875.65,335.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="891.65,335.542 883.65,319.542 875.65,335.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="883.65,335.542 883.65,382.8 884.025,382.8 884.025,432.294 "/>
+    <polygon style="fill: #ffffff" points="891.65,335.542 883.65,319.542 875.65,335.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="891.65,335.542 883.65,319.542 875.65,335.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="883.65,335.542 883.65,363.298 1119.25,363.298 1119.25,393.291 "/>
+    <polygon style="fill: #ffffff" points="891.65,335.542 883.65,319.542 875.65,335.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="891.65,335.542 883.65,319.542 875.65,335.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1119.25,485.545 1119.25,538.801 1027.65,538.801 1027.65,594.293 "/>
+    <polygon style="fill: #ffffff" points="1127.25,485.545 1119.25,469.545 1111.25,485.545 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1127.25,485.545 1119.25,469.545 1111.25,485.545 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1119.25,485.545 1119.25,538.801 1334.65,538.801 1334.65,594.293 "/>
+    <polygon style="fill: #ffffff" points="1127.25,485.545 1119.25,469.545 1111.25,485.545 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1127.25,485.545 1119.25,469.545 1111.25,485.545 "/>
+  </g>
+</svg>

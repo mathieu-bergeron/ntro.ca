@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="24cm" height="14cm" viewBox="293 97 473 262" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="483" y="98" width="59.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="483" y="98" width="59.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="512.75" y="116.852">Sport</text>
+    <rect style="fill: #ffffff" x="483" y="126" width="59.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="483" y="126" width="59.5" height="8"/>
+    <rect style="fill: #ffffff" x="483" y="134" width="59.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="483" y="134" width="59.5" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="594" y="205.3" width="142.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="594" y="205.3" width="142.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="665.4" y="224.152">SportExterieur</text>
+    <rect style="fill: #ffffff" x="594" y="233.3" width="142.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="594" y="233.3" width="142.8" height="8"/>
+    <rect style="fill: #ffffff" x="594" y="241.3" width="142.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="594" y="241.3" width="142.8" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="346" y="205.3" width="138.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="346" y="205.3" width="138.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="415.45" y="224.152">SportInterieur</text>
+    <rect style="fill: #ffffff" x="346" y="233.3" width="138.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="346" y="233.3" width="138.9" height="8"/>
+    <rect style="fill: #ffffff" x="346" y="241.3" width="138.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="346" y="241.3" width="138.9" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="294" y="303.3" width="75.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="294" y="303.3" width="75.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="331.7" y="322.152">Hockey</text>
+    <rect style="fill: #ffffff" x="294" y="331.3" width="75.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="294" y="331.3" width="75.4" height="8"/>
+    <rect style="fill: #ffffff" x="294" y="339.3" width="75.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="294" y="339.3" width="75.4" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="694" y="312.3" width="70.25" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="694" y="312.3" width="70.25" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="729.125" y="331.152">Soccer</text>
+    <rect style="fill: #ffffff" x="694" y="340.3" width="70.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="694" y="340.3" width="70.25" height="8"/>
+    <rect style="fill: #ffffff" x="694" y="348.3" width="70.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="694" y="348.3" width="70.25" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="579" y="313.3" width="37.65" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="579" y="313.3" width="37.65" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="597.825" y="332.152">Ski</text>
+    <rect style="fill: #ffffff" x="579" y="341.3" width="37.65" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="579" y="341.3" width="37.65" height="8"/>
+    <rect style="fill: #ffffff" x="579" y="349.3" width="37.65" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="579" y="349.3" width="37.65" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="425" y="303.3" width="95.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="425" y="303.3" width="95.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="472.85" y="322.152">PingPong</text>
+    <rect style="fill: #ffffff" x="425" y="331.3" width="95.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="425" y="331.3" width="95.7" height="8"/>
+    <rect style="fill: #ffffff" x="425" y="339.3" width="95.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="425" y="339.3" width="95.7" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="512.75,161.242 512.75,181.65 415.45,181.65 415.45,204.294 "/>
+    <polygon style="fill: #ffffff" points="520.75,161.242 512.75,145.242 504.75,161.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520.75,161.242 512.75,145.242 504.75,161.242 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="512.75,161.242 512.75,181.65 665.4,181.65 665.4,204.294 "/>
+    <polygon style="fill: #ffffff" points="520.75,161.242 512.75,145.242 504.75,161.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520.75,161.242 512.75,145.242 504.75,161.242 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="415.45,268.542 415.45,284.3 331.7,284.3 331.7,302.294 "/>
+    <polygon style="fill: #ffffff" points="423.45,268.542 415.45,252.542 407.45,268.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="423.45,268.542 415.45,252.542 407.45,268.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="415.45,268.542 415.45,284.3 472.85,284.3 472.85,302.294 "/>
+    <polygon style="fill: #ffffff" points="423.45,268.542 415.45,252.542 407.45,268.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="423.45,268.542 415.45,252.542 407.45,268.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="665.4,268.542 665.4,288.8 729.125,288.8 729.125,311.294 "/>
+    <polygon style="fill: #ffffff" points="673.4,268.542 665.4,252.542 657.4,268.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="673.4,268.542 665.4,252.542 657.4,268.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="665.4,268.542 665.4,289.3 597.825,289.3 597.825,312.294 "/>
+    <polygon style="fill: #ffffff" points="673.4,268.542 665.4,252.542 657.4,268.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="673.4,268.542 665.4,252.542 657.4,268.542 "/>
+  </g>
+</svg>

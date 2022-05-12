@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="23cm" height="9cm" viewBox="571 114 452 167" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="682.5" y="228.3" width="96.35" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="682.5" y="228.3" width="96.35" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="730.675" y="247.3">Mobilette</text>
+    <rect style="fill: #ffffff" x="682.5" y="256.3" width="96.35" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="682.5" y="256.3" width="96.35" height="8"/>
+    <rect style="fill: #ffffff" x="682.5" y="264.3" width="96.35" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="682.5" y="264.3" width="96.35" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="572.5" y="228.3" width="55.55" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="572.5" y="228.3" width="55.55" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="600.275" y="247.3">Moto</text>
+    <rect style="fill: #ffffff" x="572.5" y="256.3" width="55.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="572.5" y="256.3" width="55.55" height="8"/>
+    <rect style="fill: #ffffff" x="572.5" y="264.3" width="55.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="572.5" y="264.3" width="55.55" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="841.5" y="236.3" width="52.45" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="841.5" y="236.3" width="52.45" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="867.725" y="255.3">Auto</text>
+    <rect style="fill: #ffffff" x="841.5" y="264.3" width="52.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="841.5" y="264.3" width="52.45" height="8"/>
+    <rect style="fill: #ffffff" x="841.5" y="272.3" width="52.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="841.5" y="272.3" width="52.45" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="758.5" y="115.3" width="86.55" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="758.5" y="115.3" width="86.55" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="801.775" y="134.3">Vehicule</text>
+    <rect style="fill: #ffffff" x="758.5" y="143.3" width="86.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="758.5" y="143.3" width="86.55" height="8"/>
+    <rect style="fill: #ffffff" x="758.5" y="151.3" width="86.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="758.5" y="151.3" width="86.55" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="944.5" y="236.3" width="77.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="944.5" y="236.3" width="77.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="983.05" y="255.3">Camion</text>
+    <rect style="fill: #ffffff" x="944.5" y="264.3" width="77.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="944.5" y="264.3" width="77.1" height="8"/>
+    <rect style="fill: #ffffff" x="944.5" y="272.3" width="77.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="944.5" y="272.3" width="77.1" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="801.775,178.542 801.775,205.8 983.05,205.8 983.05,235.294 "/>
+    <polygon style="fill: #ffffff" points="809.775,178.542 801.775,162.542 793.775,178.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="809.775,178.542 801.775,162.542 793.775,178.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="801.775,178.542 801.775,205.8 867.725,205.8 867.725,235.294 "/>
+    <polygon style="fill: #ffffff" points="809.775,178.542 801.775,162.542 793.775,178.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="809.775,178.542 801.775,162.542 793.775,178.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="801.775,178.542 801.775,201.8 730.675,201.8 730.675,227.294 "/>
+    <polygon style="fill: #ffffff" points="809.775,178.542 801.775,162.542 793.775,178.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="809.775,178.542 801.775,162.542 793.775,178.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="801.775,178.542 801.775,201.8 600.275,201.8 600.275,227.294 "/>
+    <polygon style="fill: #ffffff" points="809.775,178.542 801.775,162.542 793.775,178.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="809.775,178.542 801.775,162.542 793.775,178.542 "/>
+  </g>
+</svg>

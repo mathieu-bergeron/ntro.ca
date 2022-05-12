@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="37cm" height="17cm" viewBox="194 97 726 327" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="483" y="98" width="72.25" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="483" y="98" width="72.25" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="519.125" y="117">Animal</text>
+    <rect style="fill: #ffffff" x="483" y="126" width="72.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="483" y="126" width="72.25" height="8"/>
+    <rect style="fill: #ffffff" x="483" y="134" width="72.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="483" y="134" width="72.25" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="666" y="219.3" width="60.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="666" y="219.3" width="60.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="696.45" y="238.3">Chien</text>
+    <rect style="fill: #ffffff" x="666" y="247.3" width="60.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="666" y="247.3" width="60.9" height="8"/>
+    <rect style="fill: #ffffff" x="666" y="255.3" width="60.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="666" y="255.3" width="60.9" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="334" y="220.3" width="51.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="334" y="220.3" width="51.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="359.8" y="239.3">Chat</text>
+    <rect style="fill: #ffffff" x="334" y="248.3" width="51.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="334" y="248.3" width="51.6" height="8"/>
+    <rect style="fill: #ffffff" x="334" y="256.3" width="51.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="334" y="256.3" width="51.6" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="195" y="330.3" width="137.55" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="195" y="330.3" width="137.55" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="263.775" y="349.3">ChatGouttiere</text>
+    <rect style="fill: #ffffff" x="195" y="358.3" width="137.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="195" y="358.3" width="137.55" height="8"/>
+    <rect style="fill: #ffffff" x="195" y="366.3" width="137.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="195" y="366.3" width="137.55" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="392" y="330.3" width="113.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="392" y="330.3" width="113.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="448.9" y="349.3">ChatPersan</text>
+    <rect style="fill: #ffffff" x="392" y="358.3" width="113.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="392" y="358.3" width="113.8" height="8"/>
+    <rect style="fill: #ffffff" x="392" y="366.3" width="113.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="392" y="366.3" width="113.8" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="560" y="333.3" width="117.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="560" y="333.3" width="117.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="618.55" y="352.3">Bouledogue</text>
+    <rect style="fill: #ffffff" x="560" y="361.3" width="117.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="560" y="361.3" width="117.1" height="8"/>
+    <rect style="fill: #ffffff" x="560" y="369.3" width="117.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="560" y="369.3" width="117.1" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="816" y="334.3" width="102.45" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="816" y="334.3" width="102.45" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="867.225" y="353.3">Dalmatien</text>
+    <rect style="fill: #ffffff" x="816" y="362.3" width="102.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="816" y="362.3" width="102.45" height="8"/>
+    <rect style="fill: #ffffff" x="816" y="370.3" width="102.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="816" y="370.3" width="102.45" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="710" y="378.3" width="78.15" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="710" y="378.3" width="78.15" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="749.075" y="397.3">Shihtzu</text>
+    <rect style="fill: #ffffff" x="710" y="406.3" width="78.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="710" y="406.3" width="78.15" height="8"/>
+    <rect style="fill: #ffffff" x="710" y="414.3" width="78.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="710" y="414.3" width="78.15" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="519.125,161.242 519.125,188.65 696.45,188.65 696.45,218.294 "/>
+    <polygon style="fill: #ffffff" points="527.125,161.242 519.125,145.242 511.125,161.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="527.125,161.242 519.125,145.242 511.125,161.242 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="519.125,161.242 519.125,189.15 359.8,189.15 359.8,219.294 "/>
+    <polygon style="fill: #ffffff" points="527.125,161.242 519.125,145.242 511.125,161.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="527.125,161.242 519.125,145.242 511.125,161.242 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="696.45,282.542 696.45,306.3 618.55,306.3 618.55,332.294 "/>
+    <polygon style="fill: #ffffff" points="704.45,282.542 696.45,266.542 688.45,282.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="704.45,282.542 696.45,266.542 688.45,282.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="696.45,282.542 696.45,306.8 867.225,306.8 867.225,333.294 "/>
+    <polygon style="fill: #ffffff" points="704.45,282.542 696.45,266.542 688.45,282.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="704.45,282.542 696.45,266.542 688.45,282.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="696.45,282.542 696.45,328.8 749.075,328.8 749.075,377.294 "/>
+    <polygon style="fill: #ffffff" points="704.45,282.542 696.45,266.542 688.45,282.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="704.45,282.542 696.45,266.542 688.45,282.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="359.8,283.542 359.8,305.3 448.9,305.3 448.9,329.294 "/>
+    <polygon style="fill: #ffffff" points="367.8,283.542 359.8,267.542 351.8,283.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="367.8,283.542 359.8,267.542 351.8,283.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="359.8,283.542 359.8,305.3 263.775,305.3 263.775,329.294 "/>
+    <polygon style="fill: #ffffff" points="367.8,283.542 359.8,267.542 351.8,283.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="367.8,283.542 359.8,267.542 351.8,283.542 "/>
+  </g>
+</svg>

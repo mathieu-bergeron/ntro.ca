@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="30cm" height="22cm" viewBox="306 43 591 422" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="456" y="44" width="287.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="456" y="44" width="287.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="599.6" y="63">Sport</text>
+    <rect style="fill: #ffffff" x="456" y="72" width="287.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="456" y="72" width="287.2" height="8"/>
+    <rect style="fill: #ffffff" x="456" y="80" width="287.2" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="456" y="80" width="287.2" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="459" y="94"> String formater()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="459" y="110"> String nomSport()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="459" y="126"> boolean siSportEquipe()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="459" y="142"> String ajouterCodesHTML(String nom)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="676" y="227.3" width="148.95" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="676" y="227.3" width="148.95" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="750.475" y="246.3">SportIndividuel</text>
+    <rect style="fill: #ffffff" x="676" y="255.3" width="148.95" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="676" y="255.3" width="148.95" height="8"/>
+    <rect style="fill: #ffffff" x="676" y="263.3" width="148.95" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="676" y="263.3" width="148.95" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="386" y="225.3" width="121.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="386" y="225.3" width="121.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="446.55" y="244.3">SportEquipe</text>
+    <rect style="fill: #ffffff" x="386" y="253.3" width="121.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="386" y="253.3" width="121.1" height="8"/>
+    <rect style="fill: #ffffff" x="386" y="261.3" width="121.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="386" y="261.3" width="121.1" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="307" y="344.3" width="75.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="307" y="344.3" width="75.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="344.7" y="363.3">Hockey</text>
+    <rect style="fill: #ffffff" x="307" y="372.3" width="75.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="307" y="372.3" width="75.4" height="8"/>
+    <rect style="fill: #ffffff" x="307" y="380.3" width="75.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="307" y="380.3" width="75.4" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="446" y="344.3" width="70.25" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="446" y="344.3" width="70.25" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="481.125" y="363.3">Soccer</text>
+    <rect style="fill: #ffffff" x="446" y="372.3" width="70.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="446" y="372.3" width="70.25" height="8"/>
+    <rect style="fill: #ffffff" x="446" y="380.3" width="70.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="446" y="380.3" width="70.25" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="587" y="348.3" width="80.85" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="587" y="348.3" width="80.85" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="627.425" y="367.3">Escrime</text>
+    <rect style="fill: #ffffff" x="587" y="376.3" width="80.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="587" y="376.3" width="80.85" height="8"/>
+    <rect style="fill: #ffffff" x="587" y="384.3" width="80.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="587" y="384.3" width="80.85" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="858" y="355.3" width="37.65" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="858" y="355.3" width="37.65" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="876.825" y="374.3">Ski</text>
+    <rect style="fill: #ffffff" x="858" y="383.3" width="37.65" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="858" y="383.3" width="37.65" height="8"/>
+    <rect style="fill: #ffffff" x="858" y="391.3" width="37.65" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="858" y="391.3" width="37.65" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="702" y="419.3" width="95.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="702" y="419.3" width="95.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="749.85" y="438.3">PingPong</text>
+    <rect style="fill: #ffffff" x="702" y="447.3" width="95.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="702" y="447.3" width="95.7" height="8"/>
+    <rect style="fill: #ffffff" x="702" y="455.3" width="95.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="702" y="455.3" width="95.7" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="599.6,167.243 599.6,195.65 750.475,195.65 750.475,226.294 "/>
+    <polygon style="fill: #ffffff" points="607.6,167.243 599.6,151.243 591.6,167.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="607.6,167.243 599.6,151.243 591.6,167.243 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="599.6,167.243 599.6,194.65 446.55,194.65 446.55,224.294 "/>
+    <polygon style="fill: #ffffff" points="607.6,167.243 599.6,151.243 591.6,167.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="607.6,167.243 599.6,151.243 591.6,167.243 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="750.475,290.542 750.475,317.8 627.425,317.8 627.425,347.294 "/>
+    <polygon style="fill: #ffffff" points="758.475,290.542 750.475,274.542 742.475,290.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="758.475,290.542 750.475,274.542 742.475,290.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="750.475,290.542 750.475,321.3 876.825,321.3 876.825,354.294 "/>
+    <polygon style="fill: #ffffff" points="758.475,290.542 750.475,274.542 742.475,290.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="758.475,290.542 750.475,274.542 742.475,290.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="750.475,290.542 750.475,353.3 749.85,353.3 749.85,418.294 "/>
+    <polygon style="fill: #ffffff" points="758.475,290.542 750.475,274.542 742.475,290.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="758.475,290.542 750.475,274.542 742.475,290.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="446.55,288.542 446.55,314.8 481.125,314.8 481.125,343.294 "/>
+    <polygon style="fill: #ffffff" points="454.55,288.542 446.55,272.542 438.55,288.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="454.55,288.542 446.55,272.542 438.55,288.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="446.55,288.542 446.55,314.8 344.7,314.8 344.7,343.294 "/>
+    <polygon style="fill: #ffffff" points="454.55,288.542 446.55,272.542 438.55,288.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="454.55,288.542 446.55,272.542 438.55,288.542 "/>
+  </g>
+</svg>

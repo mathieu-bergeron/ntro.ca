@@ -1,0 +1,14 @@
+digraph liste {
+    rankdir="LR";
+    node [fontname="Courrier"];
+    tete [label="tête" shape=plaintext]
+    0 [label="d"];
+    1 [label="z"];
+    2 [label="o"];
+    null01 [label="null" shape=plaintext]
+
+    tete -> 0;
+    0 -> 1;
+    1 -> 2;
+    2 -> null01;
+}

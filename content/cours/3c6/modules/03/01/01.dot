@@ -1,0 +1,16 @@
+digraph arbre {
+    graph [rankdir="LR"];
+    node [fontname="Courrier"];
+    tab [label="<i0> 0 | <i1> 1 | <i2> 2 | <i3> 3", shape="record"];
+    obj0 [label="vehicule1"]
+    obj1 [label="vehicule2"]
+    obj2 [label="vehicule3"]
+    obj3 [label="vehicule4"]
+
+    tab:i0 -> obj0;
+    tab:i1 -> obj1;
+    tab:i2 -> obj2;
+    tab:i3 -> obj3;
+
+
+}

@@ -1,0 +1,1 @@
+public class MonObjetJson extends {1:MCS:=ValeurJson~ListeJson~ObjetJson~MaListeJava~∅}{1:MCS:~=〈Dictionnaire~〈ValeurJson~〈ObjetJson~∅}{1:MCS:〉~=∅}{1:MCS:~=〈ValeurJson~〈Dictionnaire~〈ObjetJson~∅}{1:MCS:=〉〉~〉~∅} {

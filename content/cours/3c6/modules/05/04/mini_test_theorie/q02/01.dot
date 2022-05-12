@@ -1,0 +1,23 @@
+digraph arbre {
+    node [fontname="Courrier"];
+    0 [label="0"];
+    1 [label="1"];
+    2 [label="2"];
+    3 [label="3"];
+    5 [label="5"];
+    6 [label="6"];
+
+    5 -> 6;
+    5 -> 3;
+
+    3 -> 1;
+    
+    {
+        edge [style=invis];
+        node [style=invis];
+        3 -> null;
+    }
+
+    1 -> 2;
+    1 -> 0;
+}

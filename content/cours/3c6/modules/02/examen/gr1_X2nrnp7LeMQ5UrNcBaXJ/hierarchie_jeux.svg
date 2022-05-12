@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="32cm" height="15cm" viewBox="304 71 640 295" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="523" y="72" width="89.3031" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="523" y="72" width="89.3031" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="567.652" y="90.8516">JeuVideo</text>
+    <rect style="fill: #ffffff" x="523" y="100" width="89.3031" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="523" y="100" width="89.3031" height="8"/>
+    <rect style="fill: #ffffff" x="523" y="108" width="89.3031" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="523" y="108" width="89.3031" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="489" y="304.3" width="61.95" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="489" y="304.3" width="61.95" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="519.975" y="323.152">Doom</text>
+    <rect style="fill: #ffffff" x="489" y="332.3" width="61.95" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="489" y="332.3" width="61.95" height="8"/>
+    <rect style="fill: #ffffff" x="489" y="340.3" width="61.95" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="489" y="340.3" width="61.95" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="625" y="320.3" width="86.55" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="625" y="320.3" width="86.55" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="668.275" y="339.152">Valorant</text>
+    <rect style="fill: #ffffff" x="625" y="348.3" width="86.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="625" y="348.3" width="86.55" height="8"/>
+    <rect style="fill: #ffffff" x="625" y="356.3" width="86.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="625" y="356.3" width="86.55" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="305" y="303.3" width="92.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="305" y="303.3" width="92.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="351.45" y="322.152">StarCraft</text>
+    <rect style="fill: #ffffff" x="305" y="331.3" width="92.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="305" y="331.3" width="92.9" height="8"/>
+    <rect style="fill: #ffffff" x="305" y="339.3" width="92.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="305" y="339.3" width="92.9" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="567.652,135.242 567.652,161.15 692.463,161.15 692.463,189.294 "/>
+    <polygon style="fill: #ffffff" points="575.652,135.242 567.652,119.242 559.652,135.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="575.652,135.242 567.652,119.242 559.652,135.242 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="567.652,135.242 567.652,161.15 428.325,161.15 428.325,189.294 "/>
+    <polygon style="fill: #ffffff" points="575.652,135.242 567.652,119.242 559.652,135.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="575.652,135.242 567.652,119.242 559.652,135.242 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="771" y="320.3" width="171.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="771" y="320.3" width="171.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="856.9" y="339.152">LeagueOfLegends</text>
+    <rect style="fill: #ffffff" x="771" y="348.3" width="171.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="771" y="348.3" width="171.8" height="8"/>
+    <rect style="fill: #ffffff" x="771" y="356.3" width="171.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="771" y="356.3" width="171.8" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="642.5" y="190.3" width="99.9266" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="642.5" y="190.3" width="99.9266" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="692.463" y="209.152">JeuEquipe</text>
+    <rect style="fill: #ffffff" x="642.5" y="218.3" width="99.9266" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="642.5" y="218.3" width="99.9266" height="8"/>
+    <rect style="fill: #ffffff" x="642.5" y="226.3" width="99.9266" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="642.5" y="226.3" width="99.9266" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="364.5" y="190.3" width="127.65" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="364.5" y="190.3" width="127.65" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="428.325" y="209.152">JeuIndividuel</text>
+    <rect style="fill: #ffffff" x="364.5" y="218.3" width="127.65" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="364.5" y="218.3" width="127.65" height="8"/>
+    <rect style="fill: #ffffff" x="364.5" y="226.3" width="127.65" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="364.5" y="226.3" width="127.65" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="428.325,253.542 428.325,276.8 351.45,276.8 351.45,302.294 "/>
+    <polygon style="fill: #ffffff" points="436.325,253.542 428.325,237.542 420.325,253.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="436.325,253.542 428.325,237.542 420.325,253.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="428.325,253.542 428.325,277.3 519.975,277.3 519.975,303.294 "/>
+    <polygon style="fill: #ffffff" points="436.325,253.542 428.325,237.542 420.325,253.542 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="436.325,253.542 428.325,237.542 420.325,253.542 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="692.463,252.536 692.463,284.797 856.9,284.797 856.9,319.294 "/>
+    <polygon style="fill: #ffffff" points="700.463,252.536 692.463,236.536 684.463,252.536 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="700.463,252.536 692.463,236.536 684.463,252.536 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="692.463,252.536 692.463,284.797 668.275,284.797 668.275,319.294 "/>
+    <polygon style="fill: #ffffff" points="700.463,252.536 692.463,236.536 684.463,252.536 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="700.463,252.536 692.463,236.536 684.463,252.536 "/>
+  </g>
+</svg>

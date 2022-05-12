@@ -1,0 +1,16 @@
+digraph "leftRightList06" {
+graph ["rankdir"="LR","compound"="true"]
+"" ["shape"="record","label"="<_C>ListeGaucheDroite|{tailleGauche|0}|{gauche|null}|{droite|<droite_droite>}|{tailleDroite|6}","style"="filled","fillcolor"="white"]
+"droite" ["shape"="record","label"="<_C>ElementListeGaucheDroite|{next|<next_next>}|{value|\"0\"}","style"="filled","fillcolor"="white"]
+"droite¤next" ["shape"="record","label"="<_C>ElementListeGaucheDroite|{next|<next_next>}|{value|\"1\"}","style"="filled","fillcolor"="white"]
+"droite¤next¤next" ["shape"="record","label"="<_C>ElementListeGaucheDroite|{next|<next_next>}|{value|\"2\"}","style"="filled","fillcolor"="white"]
+"droite¤next¤next¤next" ["shape"="record","label"="<_C>ElementListeGaucheDroite|{next|<next_next>}|{value|\"3\"}","style"="filled","fillcolor"="white"]
+"droite¤next¤next¤next¤next" ["shape"="record","label"="<_C>ElementListeGaucheDroite|{next|<next_next>}|{value|\"4\"}","style"="filled","fillcolor"="white"]
+"droite¤next¤next¤next¤next¤next" ["shape"="record","label"="<_C>ElementListeGaucheDroite|{next|null}|{value|\"5\"}","style"="filled","fillcolor"="white"]
+"":"droite_droite":c -> "droite":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+"droite":"next_next":c -> "droite¤next":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+"droite¤next":"next_next":c -> "droite¤next¤next":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+"droite¤next¤next":"next_next":c -> "droite¤next¤next¤next":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+"droite¤next¤next¤next":"next_next":c -> "droite¤next¤next¤next¤next":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+"droite¤next¤next¤next¤next":"next_next":c -> "droite¤next¤next¤next¤next¤next":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+}

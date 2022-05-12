@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="46cm" height="24cm" viewBox="315 45 919 469" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="550" y="46" width="387.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="550" y="46" width="387.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="743.65" y="65">Vehicule</text>
+    <rect style="fill: #ffffff" x="550" y="74" width="387.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="550" y="74" width="387.3" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="553" y="88"> private double totalKilometres</text>
+    <rect style="fill: #ffffff" x="550" y="94" width="387.3" height="116"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="550" y="94" width="387.3" height="116"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="553" y="108"> public void rouler(double kilometres)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="553" y="124"> public String formater()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="553" y="140"> protected double consomationLitresParKilometre()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="553" y="156"> protected double totalDesKilometres()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="553" y="172"> protected String nomVehicule()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="553" y="188"> protected boolean siNomFeminin()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="553" y="204"> private double litresEssenceConsomes()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="317.5" y="361.3" width="387.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="317.5" y="361.3" width="387.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="511.15" y="380.3">Mobilette</text>
+    <rect style="fill: #ffffff" x="317.5" y="389.3" width="387.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="317.5" y="389.3" width="387.3" height="8"/>
+    <rect style="fill: #ffffff" x="317.5" y="397.3" width="387.3" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="317.5" y="397.3" width="387.3" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="320.5" y="411.3"> protected double consomationLitresParKilometre()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="320.5" y="427.3"> protected double totalDesKilometres()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="320.5" y="443.3"> protected String nomVehicule()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="320.5" y="459.3"> protected boolean siNomFeminin()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="316.5" y="255.3" width="387.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="316.5" y="255.3" width="387.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="510.15" y="274.3">Moto</text>
+    <rect style="fill: #ffffff" x="316.5" y="283.3" width="387.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="316.5" y="283.3" width="387.3" height="8"/>
+    <rect style="fill: #ffffff" x="316.5" y="291.3" width="387.3" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="316.5" y="291.3" width="387.3" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="319.5" y="305.3"> protected double consomationLitresParKilometre()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="319.5" y="321.3"> protected String nomVehicule()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="319.5" y="337.3"> protected boolean siNomFeminin()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="782.5" y="245.3" width="387.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="782.5" y="245.3" width="387.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="976.15" y="264.3">Auto</text>
+    <rect style="fill: #ffffff" x="782.5" y="273.3" width="387.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="782.5" y="273.3" width="387.3" height="8"/>
+    <rect style="fill: #ffffff" x="782.5" y="281.3" width="387.3" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="782.5" y="281.3" width="387.3" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="785.5" y="295.3"> protected double consomationLitresParKilometre()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="785.5" y="311.3"> protected String nomVehicule()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="785.5" y="327.3"> protected boolean siNomFeminin()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="784.5" y="364.3" width="448.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="784.5" y="364.3" width="448.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1008.95" y="383.3">Camion</text>
+    <rect style="fill: #ffffff" x="784.5" y="392.3" width="448.9" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="784.5" y="392.3" width="448.9" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="787.5" y="406.3"> private double consomationDeBase</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="787.5" y="422.3"> private double chargementEnKilos</text>
+    <rect style="fill: #ffffff" x="784.5" y="428.3" width="448.9" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="784.5" y="428.3" width="448.9" height="84"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="787.5" y="442.3"> public void accepterChargement(double chargementEnKilos)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="787.5" y="458.3"> protected double consomationLitresParKilometre()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="787.5" y="474.3"> protected String nomVehicule()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="787.5" y="490.3"> protected boolean siNomFeminin()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="787.5" y="506.3"> private double calculerConsomationSelonChargement()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="743.65,229.241 743.65,407.3 704.8,407.3 "/>
+    <polygon style="fill: #ffffff" points="751.65,229.241 743.65,213.241 735.65,229.241 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="751.65,229.241 743.65,213.241 735.65,229.241 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="743.65,229.223 743.65,382 784.5,382 784.5,418.3 "/>
+    <polygon style="fill: #ffffff" points="751.65,229.223 743.65,213.223 735.65,229.223 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="751.65,229.223 743.65,213.223 735.65,229.223 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="743.65,229.241 743.65,289.3 781.494,289.3 "/>
+    <polygon style="fill: #ffffff" points="751.65,229.241 743.65,213.241 735.65,229.241 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="751.65,229.241 743.65,213.241 735.65,229.241 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="743.65,229.2 743.65,302 703.8,302 703.8,301.3 "/>
+    <polygon style="fill: #ffffff" points="751.65,229.2 743.65,213.2 735.65,229.2 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="751.65,229.2 743.65,213.2 735.65,229.2 "/>
+  </g>
+</svg>

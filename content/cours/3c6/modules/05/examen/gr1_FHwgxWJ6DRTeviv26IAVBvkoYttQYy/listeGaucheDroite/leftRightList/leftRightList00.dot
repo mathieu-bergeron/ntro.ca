@@ -1,0 +1,4 @@
+digraph "leftRightList00" {
+graph ["rankdir"="LR","compound"="true"]
+"" ["shape"="record","label"="<_C>ListeGaucheDroite|{gauche|null}|{tailleGauche|0}|{tailleDroite|0}|{droite|null}","style"="filled","fillcolor"="white"]
+}

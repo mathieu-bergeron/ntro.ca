@@ -1,0 +1,12 @@
+digraph "leftRightList05" {
+graph ["rankdir"="LR","compound"="true"]
+"" ["shape"="record","label"="<_C>ListeGaucheDroite|{tailleGauche|2}|{gauche|<gauche_gauche>}|{droite|<droite_droite>}|{tailleDroite|2}","style"="filled","fillcolor"="white"]
+"gauche" ["shape"="record","label"="<_C>ElementListeGaucheDroite|{next|<next_next>}|{value|\"1\"}","style"="filled","fillcolor"="white"]
+"gauche¤next" ["shape"="record","label"="<_C>ElementListeGaucheDroite|{next|null}|{value|\"0\"}","style"="filled","fillcolor"="white"]
+"droite" ["shape"="record","label"="<_C>ElementListeGaucheDroite|{next|<next_next>}|{value|\"2\"}","style"="filled","fillcolor"="white"]
+"droite¤next" ["shape"="record","label"="<_C>ElementListeGaucheDroite|{next|null}|{value|\"3\"}","style"="filled","fillcolor"="white"]
+"":"droite_droite":c -> "droite":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+"":"gauche_gauche":c -> "gauche":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+"gauche":"next_next":c -> "gauche¤next":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+"droite":"next_next":c -> "droite¤next":"_C" ["tailclip"="false","arrowtail"="dot","dir"="both","label"=""]
+}
