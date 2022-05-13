@@ -324,13 +324,25 @@ bookHidden: true
 
 * (Optionnel) on peut aussi déclarer un fichier CSS
 
-    $[java ./FrontalPong02 4 4]()
+    ```java
+    {{% embed 
+        src="./FrontalPong02.java" 
+        indent="1" 
+        first-line="4" 
+        last-line="4" 
+        %}}
+    ```
 
 * (Optionnel) on peut aussi déclarer des traductions
 
-    $[java ./FrontalPong02 1 2]()
-
-
+    ```java
+    {{% embed 
+        src="./FrontalPong02.java" 
+        indent="1" 
+        first-line="1" 
+        last-line="2" 
+        %}}
+    ```
 
 
 ## Charger une Vue avec une tâche `viewLoader(...)`
@@ -341,7 +353,14 @@ bookHidden: true
 
 * S'assurer d'enregistrer la Vue dans le Frontal
 
-    $[java ./FrontalPong01 8 8]()
+    ```java
+    {{% embed 
+        src="./FrontalPong01.java" 
+        indent="1" 
+        first-line="8" 
+        last-line="8" 
+        %}}
+    ```
 
 * Une fois la vue enregistrée, `Ntro` va créer la tâche
 
@@ -360,8 +379,12 @@ bookHidden: true
 
 * On ajoute une dépendance à une tâche `viewLoader(VueRacine.class)`
 
-
-    $[java ./Initialisation01]()
+    ```java
+    {{% embed 
+        src="./Initialisation01.java" 
+        indent="1" 
+        %}}
+    ```
 
     <center>
         <img width="350px" src="create.png"/>
@@ -381,7 +404,12 @@ bookHidden: true
 
 * On ajoute une dépendance à la tâche `window()`
 
-    $[java ./Initialisation02]()
+    ```java
+    {{% embed 
+        src="./Initialisation02.java" 
+        indent="1" 
+        %}}
+    ```
 
     <center>
         <img width="100%" src="frontend01.png"/>
@@ -397,7 +425,12 @@ bookHidden: true
 
 * Dans la `VueRacine`, on a besoin d'une méthode qui installe une sous-vue
 
-    $[java ./VueRacine02]()
+    ```java
+    {{% embed 
+        src="./VueRacine02.java" 
+        indent="1" 
+        %}}
+    ```
 
     * NOTES: 
         * `rootNode()` retourne la conteneur racine (ou balise racine) de la vue
@@ -406,7 +439,12 @@ bookHidden: true
 
 * Ensuite, on a une tâche pour afficher la page
 
-    $[java ./Initialisation03]()
+    ```java
+    {{% embed 
+        src="./Initialisation03.java" 
+        indent="1" 
+        %}}
+    ```
 
 <center>
     <img width="100%" src="frontend02.png"/>
