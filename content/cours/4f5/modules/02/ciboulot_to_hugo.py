@@ -42,7 +42,23 @@ if args.i is None:
 
 INPUT_PATH = args.i
 
+def process_lines(input_lines):
+
+    return input_lines
+
+def process_file(input_file):
+    lines = []
+    for line in input_file:
+        lines.append(line)
+
+    return process_lines(lines)
+
 
 if __name__ == '__main__':
-    pass
-        
+    output_lines = []
+    with codecs.open(INPUT_PATH, encoding='utf-8') as input_file:
+        output_lines = process_file(input_file)
+
+    with codecs.open(INPUT_PATH, 'w', encoding='utf-8') as output_file:
+        for line in output_lines:
+            output_file.write(line)
