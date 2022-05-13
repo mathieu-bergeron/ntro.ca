@@ -15,7 +15,7 @@ weight: 20
 
 -->
 
-    $[link ./test](test)
+    $[embed ./test](test)
 
 1. Je lis la {{% link href="./theorie/" text="théorie" %}}
 

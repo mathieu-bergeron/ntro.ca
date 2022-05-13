@@ -53,6 +53,10 @@ CIBOULOT_EXTENSION_SPLITTER = re.compile(CIBOULOT_EXTENSION_SPLITS)
 CIBOULOT_EXTENSION_GROUPS = '\$\[([^\]]+)\]\(?([^\)]*)\)?'
 CIBOULOT_EXTENSION_GROUPER = re.compile(CIBOULOT_EXTENSION_GROUPS)
 
+CIBOULOT_INDENT_PATTERN = '^[ ]+'
+CIBOULOT_INDENT_MATCHER = re.compile(CIBOULOT_INDENT_PATTERN)
+
+
 def ciboulot_extension_to_hugo_shortcode(indent, name, attributes, text):
     shortcode = '{{%% ciboulot name="%s" attributes="%s" text="%s" %%}}' % (name, ",".join(attributes), text)
 
@@ -63,7 +67,10 @@ def ciboulot_extension_to_hugo_shortcode(indent, name, attributes, text):
         shortcode = '{{%% download href="%s" text="%s" %%}}' % (attributes[0], text)
 
     elif name == "embed":
-        shortcode = '{{%% embed src="%s" %%}}' % (attributes[0])
+        if indent > 0:
+            shortcode = '{{%% embed src="%s" indent="%s" %%}}' % (attributes[0], indent)
+        else:
+            shortcode = '{{%% embed src="%s" %%}}' % (attributes[0])
 
 
     return shortcode
@@ -77,15 +84,19 @@ def transform_markdown_line(markdown_line):
     matches = CIBOULOT_EXTENSION_GROUPER.findall(markdown_line)
     shortcodes = []
     for i, match in enumerate(matches):
-        if i == 0:
-            print(text_nodes[i])
+        indent = 0
+        if i == 0 and len(text_nodes) > 0:
+            indent_match = CIBOULOT_INDENT_MATCHER.match(text_nodes[0])
+            if indent_match is not None:
+                print(indent_match.group())
+                indent = len(indent_match.group(0)) / 4
 
         name_and_attributes = match[0]
         segments = name_and_attributes.split(' ')
         name = segments[0]
         attributes = segments[1:]
         text = match[1]
-        shortcodes.append(ciboulot_extension_to_hugo_shortcode(0, name, attributes, text))
+        shortcodes.append(ciboulot_extension_to_hugo_shortcode(indent, name, attributes, text))
 
     markdown_line = ""
 
