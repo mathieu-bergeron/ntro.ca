@@ -16,18 +16,18 @@ bookHidden: true
 
 * Il y a trois fichiers à fournir pour créer une vue:
 
-    * un fichier `.xml` au format FXML (obligatoire)
-    * un fichier `.css` (optionnel)
-    * un fichier `.properties` qui contient des traductions (optionnel)
+* un fichier `.xml` au format FXML (obligatoire)
+* un fichier `.css` (optionnel)
+* un fichier `.properties` qui contient des traductions (optionnel)
 
 * Le format FXML est spécifique à JavaFx
-    * en FXML, on peut décrire la vue avec des balises, un peu comme en HTML
-    * p.ex. pour ajouter un bouton: `<Button>  </Button>`
+* en FXML, on peut décrire la vue avec des balises, un peu comme en HTML
+* p.ex. pour ajouter un bouton: `<Button>  </Button>`
 
 * Le `.css` permet de modifier l'apparence des éléments affichés (comme en HTML)
 
 * Le fichier `.properties` contient du texte à afficher
-    * des fichiers `.properties` additionnels permettent de supporter d'autres langues
+* des fichiers `.properties` additionnels permettent de supporter d'autres langues
 
 ## Exemples de fichiers FXML
 
@@ -36,40 +36,70 @@ bookHidden: true
 </center>
 
 ```xml
-{{% embed "./racine01.xml" %}}
+{{% embed src="./racine01.xml" %}}
 ```
 
 * La première ligne est obligatoire
 
-    ```xml
-    {{% embed "./racine01.xml" "1" 1 1 %}}
-    ```
+```xml
+{{% embed 
+    src="./racine01.xml" 
+    indent="1" 
+    first-line="1" 
+    last-line="1" 
+    %}}
+```
 
 * Ensuite, il faut importer chaque balise qu'on utilise
 
-    $[xml ./racine01 3 3]()
+```xml
+{{% embed 
+    src="./racine01.xml" 
+    indent="1" 
+    first-line="3" 
+    last-line="3" 
+    %}}
+```
 
-    * (comme si on importait une classe)
+* (comme si on importait une classe)
 
 * La première balise doit avoir les attributs
 
-    1. `xmlns:fx`
+1. `xmlns:fx`
 
-        $[xml ./racine01 5 5]()
+    ```xml
+    {{% embed 
+        src="./racine01.xml" 
+        indent="2" 
+        first-line="5" 
+        last-line="5" 
+        %}}
+    ```
 
-        * (c'est comme ça qu'on indique qu'il s'agit de FXML)
+    * (c'est comme ça qu'on indique qu'il s'agit de FXML)
 
-    2. `fx:controller`
+2. `fx:controller`
 
-        $[xml ./racine01 6 6]()
+    ```xml
+    {{% embed 
+        src="./racine01.xml" 
+        indent="2" 
+        first-line="6" 
+        last-line="6" 
+        %}}
+    ```
 
-        * où on déclare la classe Java de la Vue
+    * où on déclare la classe Java de la Vue
         * (ce que JavaFx nomme `controller`, `Ntro` appelle plutôt la Vue)
 
 
 * Autre exemple:
 
-$[xml ./file_attente01]()
+```xml
+{{% embed 
+    src="./file_attente01.xml" 
+    %}}
+```
 
 * On voit que dans la balise racine `VBox`, y a une balise `Button`
 
@@ -190,15 +220,21 @@ $[xml ./file_attente01]()
 
 * Par exemple
 
-    $[xml ./file_attente02]()
+    ```xml
+    {{% embed 
+    src="./file_attente02.xml" 
+    indent="1" 
+    first-line="1"
+    last-line="15"
+    %}}
+    ```
+        
 
 * Finalement, il faut déclarer votre CSS dans le Frontal
 
 ```java
-{{% embed "./FrontalPong04.java" %}}
+{{% embed src="./FrontalPong04.java" %}}
 ```
-
-
 
 
 ## Les traductions en JavaFx
@@ -220,11 +256,21 @@ $[xml ./file_attente01]()
 
 * On peut utiliser ce texte en FXML avec `%variable`
 
-    $[xml ./file_attente03]()
+    ```xml
+    {{% embed 
+    src="./file_attente03.xml" 
+    indent="1" 
+    %}}
+    ```
 
 * Il faut déclarer des fichier `.properties` dans le Frontal:
 
-    $[java ./FrontalPong03]()
+    ```java
+    {{% embed 
+    src="./FrontalPong03.java" 
+    indent="1" 
+    %}}
+    ```
 
 
 ## Déclarer des Vues en Ntro
@@ -235,34 +281,68 @@ $[xml ./file_attente01]()
 
 * Créer d'abord une classe qui hérite de `ViewFx`
 
-    $[java ./VueRacine01]()
-
+    ```java
+    {{% embed 
+    src="./VueRacine01.java" 
+    indent="1" 
+    %}}
+    ```
     * NOTES: 
         * la méthode `initialize` est requise par JavaFx
         * on va l'utiliser dans le module 4
 
 * Déclarer la Vue dans le Frontal
 
-    $[java ./FrontalPong01]()
+    ```java
+    {{% embed 
+    src="./FrontalPong01.java" 
+    indent="1" 
+    %}}
+    ```
 
 * S'assurer que l'attribut `fx:controller` est correct:
 
-    $[xml ./racine01 6 6]()
+    ```xml
+    {{% embed 
+    src="./racine01.xml" 
+    indent="1" 
+    first-line="6"
+    last-line="6"
+    %}}
+    ```
 
     * doit être le nom complet de la classe, comme dans un `import`
 
-        $[java ./FrontalPong01 1 1]()
-
+        ```java
+        {{% embed 
+        src="./FrontalPong01.java" 
+        indent="2" 
+        first-line="1"
+        last-line="1"
+        %}}
+        ```
 
 * (Optionnel) on peut aussi déclarer un fichier CSS
 
-    $[java ./FrontalPong02 4 4]()
+    ```java
+    {{% embed 
+        src="./FrontalPong02.java" 
+        indent="1" 
+        first-line="4" 
+        last-line="4" 
+        %}}
+    ```
 
 * (Optionnel) on peut aussi déclarer des traductions
 
-    $[java ./FrontalPong02 1 2]()
-
-
+    ```java
+    {{% embed 
+        src="./FrontalPong02.java" 
+        indent="1" 
+        first-line="1" 
+        last-line="2" 
+        %}}
+    ```
 
 
 ## Charger une Vue avec une tâche `viewLoader(...)`
@@ -273,7 +353,14 @@ $[xml ./file_attente01]()
 
 * S'assurer d'enregistrer la Vue dans le Frontal
 
-    $[java ./FrontalPong01 8 8]()
+    ```java
+    {{% embed 
+        src="./FrontalPong01.java" 
+        indent="1" 
+        first-line="8" 
+        last-line="8" 
+        %}}
+    ```
 
 * Une fois la vue enregistrée, `Ntro` va créer la tâche
 
@@ -292,8 +379,12 @@ $[xml ./file_attente01]()
 
 * On ajoute une dépendance à une tâche `viewLoader(VueRacine.class)`
 
-
-    $[java ./Initialisation01]()
+    ```java
+    {{% embed 
+        src="./Initialisation01.java" 
+        indent="1" 
+        %}}
+    ```
 
     <center>
         <img width="350px" src="create.png"/>
@@ -313,7 +404,12 @@ $[xml ./file_attente01]()
 
 * On ajoute une dépendance à la tâche `window()`
 
-    $[java ./Initialisation02]()
+    ```java
+    {{% embed 
+        src="./Initialisation02.java" 
+        indent="1" 
+        %}}
+    ```
 
     <center>
         <img width="100%" src="frontend01.png"/>
@@ -329,7 +425,12 @@ $[xml ./file_attente01]()
 
 * Dans la `VueRacine`, on a besoin d'une méthode qui installe une sous-vue
 
-    $[java ./VueRacine02]()
+    ```java
+    {{% embed 
+        src="./VueRacine02.java" 
+        indent="1" 
+        %}}
+    ```
 
     * NOTES: 
         * `rootNode()` retourne la conteneur racine (ou balise racine) de la vue
@@ -338,7 +439,12 @@ $[xml ./file_attente01]()
 
 * Ensuite, on a une tâche pour afficher la page
 
-    $[java ./Initialisation03]()
+    ```java
+    {{% embed 
+        src="./Initialisation03.java" 
+        indent="1" 
+        %}}
+    ```
 
 <center>
     <img width="100%" src="frontend02.png"/>
