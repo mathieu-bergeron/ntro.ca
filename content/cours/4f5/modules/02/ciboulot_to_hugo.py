@@ -88,7 +88,6 @@ def transform_markdown_line(markdown_line):
         if i == 0 and len(text_nodes) > 0:
             indent_match = CIBOULOT_INDENT_MATCHER.match(text_nodes[0])
             if indent_match is not None:
-                print(indent_match.group())
                 indent = len(indent_match.group(0)) / 4
 
         name_and_attributes = match[0]
