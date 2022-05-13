@@ -15,13 +15,13 @@ weight: 20
 
 -->
 
-1. Je lis la $[link ./theorie/](théorie)
+1. Je lis la {{% link href="./theorie/" text="théorie" %}}
 
-1. Je fais le $[link ./tutoriel/](tutoriel)
+1. Je fais le {{% link href="./tutoriel/" text="tutoriel" %}}
 
 1. Je remets l'URL de mon dépôt <a href="https://cmontmorency.moodle.decclic.qc.ca/mod/questionnaire/view.php?id=291483">Git sur Moodle</a>.
 
-1. Je travaille sur les $[link ./objectifs/](objectifs) du module
+1. Je travaille sur les {{% link href="./objectifs/" text="objectifs" %}} du module
 
     * NOTE: voir <a href="/cegep/420-4F5-MO/procedures/eclipse">ici en cas d'erreurs bizarres avec Eclipse</a> 
 
