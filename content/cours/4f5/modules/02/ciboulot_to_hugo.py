@@ -47,13 +47,43 @@ HUGO_HEADER_MATCHER= re.compile(HUGO_HEADER_PATTERN)
 HUGO_TITLE_PATTERN = '^\s*title\s*:.*$'
 HUGO_TITLE_MATCHER = re.compile(HUGO_TITLE_PATTERN)
 
-CIBOULOT_EXTENSION_PATTERN = '\$\[.*\]\(.*\)'
-CIBOULOT_EXTENSION_FINDER = re.compile(CIBOULOT_EXTENSION_PATTERN)
+CIBOULOT_EXTENSION_SPLITS = '\$\[[^\]]+\]\(?[^\)]*\)?'
+CIBOULOT_EXTENSION_SPLITTER = re.compile(CIBOULOT_EXTENSION_SPLITS)
+
+CIBOULOT_EXTENSION_GROUPS = '\$\[([^\]]+)\]\(?([^\)]*)\)?'
+CIBOULOT_EXTENSION_GROUPER = re.compile(CIBOULOT_EXTENSION_GROUPS)
+
+def ciboulot_extension_to_hugo_shortcode(name, attributes, text):
+    shortcode = '{{%% ciboulot name="%s" attributes="%s" text="%s" %%}}' % (name, ",".join(attributes), text)
+
+    if name == "link":
+        shortcode = '{{%% link "%s" "%s" %%}}' % (attributes[0], text)
+
+
+    return shortcode
+
+
 
 
 def transform_markdown_line(markdown_line):
-    segments = CIBOULOT_EXTENSION_FINDER.split(markdown_line)
-    print(segments)
+    text_nodes = CIBOULOT_EXTENSION_SPLITTER.split(markdown_line)
+
+    matches = CIBOULOT_EXTENSION_GROUPER.findall(markdown_line)
+    shortcodes = []
+    for match in matches:
+        name_and_attributes = match[0]
+        segments = name_and_attributes.split(' ')
+        name = segments[0]
+        attributes = segments[1:]
+        text = match[1]
+        shortcodes.append(ciboulot_extension_to_hugo_shortcode(name, attributes, text))
+
+    markdown_line = ""
+
+    for i,text_node in enumerate(text_nodes):
+        markdown_line += text_node
+        if i < len(shortcodes):
+            markdown_line += unicode(shortcodes[i])
 
     return markdown_line
 

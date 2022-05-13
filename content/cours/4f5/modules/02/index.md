@@ -15,7 +15,7 @@ weight: 20
 
 -->
 
-1. Je lis la $[link ./theorie/](théorie)  asdf $[link ./tutoriel](tutoriel) asdf
+1. Je lis la $[link ./theorie/](théorie)
 
 1. Je fais le $[link ./tutoriel/](tutoriel)
 
