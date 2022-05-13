@@ -36,18 +36,30 @@ bookHidden: true
 </center>
 
 ```xml
-{{% embed "./racine01.xml" %}}
+{{% embed src="./racine01.xml" %}}
 ```
 
 * La première ligne est obligatoire
 
     ```xml
-    {{% embed "./racine01.xml" "1" 1 1 %}}
+    {{% embed 
+        src="./racine01.xml" 
+        indent="1" 
+        first-line="1" 
+        last-line="1" 
+        %}}
     ```
 
 * Ensuite, il faut importer chaque balise qu'on utilise
 
-    $[xml ./racine01 3 3]()
+    ```xml
+    {{% embed 
+        src="./racine01.xml" 
+        indent="1" 
+        first-line="3" 
+        last-line="3" 
+        %}}
+    ```
 
     * (comme si on importait une classe)
 
@@ -55,13 +67,27 @@ bookHidden: true
 
     1. `xmlns:fx`
 
-        $[xml ./racine01 5 5]()
+        ```xml
+        {{% embed 
+            src="./racine01.xml" 
+            indent="2" 
+            first-line="5" 
+            last-line="5" 
+            %}}
+        ```
 
         * (c'est comme ça qu'on indique qu'il s'agit de FXML)
 
     2. `fx:controller`
 
-        $[xml ./racine01 6 6]()
+        ```xml
+        {{% embed 
+            src="./racine01.xml" 
+            indent="2" 
+            first-line="6" 
+            last-line="6" 
+            %}}
+        ```
 
         * où on déclare la classe Java de la Vue
         * (ce que JavaFx nomme `controller`, `Ntro` appelle plutôt la Vue)
@@ -69,7 +95,11 @@ bookHidden: true
 
 * Autre exemple:
 
-$[xml ./file_attente01]()
+```xml
+{{% embed 
+    src="./file_attente01.xml" 
+    %}}
+```
 
 * On voit que dans la balise racine `VBox`, y a une balise `Button`
 
@@ -190,12 +220,20 @@ $[xml ./file_attente01]()
 
 * Par exemple
 
-    $[xml ./file_attente02]()
+    ```xml
+{{% embed 
+    src="./file_attente02.xml" 
+    indent="1" 
+    first-line="1"
+    last-line="15"
+    %}}
+    ```
+        
 
 * Finalement, il faut déclarer votre CSS dans le Frontal
 
 ```java
-{{% embed "./FrontalPong04.java" %}}
+{{% embed src="./FrontalPong04.java" %}}
 ```
 
 
