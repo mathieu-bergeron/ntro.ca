@@ -47,13 +47,15 @@ HUGO_HEADER_MATCHER= re.compile(HUGO_HEADER_PATTERN)
 HUGO_TITLE_PATTERN = '^\s*title\s*:.*$'
 HUGO_TITLE_MATCHER = re.compile(HUGO_TITLE_PATTERN)
 
-def extract_title(input_line):
-    title = None
-    groups = MARKDOWN_TITLE_MATCHER.match(input_line)
-    if groups is not None:
-        title = groups.group(1)
+CIBOULOT_EXTENSION_PATTERN = '\$\[.*\]\(.*\)'
+CIBOULOT_EXTENSION_FINDER = re.compile(CIBOULOT_EXTENSION_PATTERN)
 
-    return title
+
+def transform_markdown_line(markdown_line):
+    segments = CIBOULOT_EXTENSION_FINDER.split(markdown_line)
+    print(segments)
+
+    return markdown_line
 
 def transform_lines(title, header_lines, markdown_lines):
 
@@ -66,9 +68,18 @@ def transform_lines(title, header_lines, markdown_lines):
             output_lines.append(header_line)
 
     for markdown_line in markdown_lines:
-        output_lines.append(markdown_line)
+        output_lines.append(transform_markdown_line(markdown_line))
 
     return output_lines
+
+
+def extract_title(input_line):
+    title = None
+    groups = MARKDOWN_TITLE_MATCHER.match(input_line)
+    if groups is not None:
+        title = groups.group(1)
+
+    return title
 
 
 def read_lines(input_lines):
