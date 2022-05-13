@@ -42,9 +42,26 @@ if args.i is None:
 
 INPUT_PATH = args.i
 
-def process_lines(input_lines):
+def extract_title(line):
+    line = line.replace('#','')
+    line = line.lstrip(' ')
+    line = line.rstrip('\n')
+    return line
 
-    return input_lines
+def process_lines(input_lines):
+    title = None
+    for input_line in input_lines:
+        if input_line.startswith("#") and title is None:
+            title = extract_title(input_line)
+
+    output_lines = []
+    for input_line in input_lines:
+        if input_line.startswith('title:') and title is not None:
+            output_lines.append("title: \"%s\"\n"  % title)
+        else:
+            output_lines.append(input_line)
+
+    return output_lines
 
 def process_file(input_file):
     lines = []
