@@ -17,8 +17,8 @@ weight: 1
 
 * {{% download "../NormesProgrammationJava.pdf" "Normes de programmation" %}}
 
-{{% embed "./calendrier.md" %}}
+{{% embed src="./calendrier.md" %}}
 
-{{% embed "./structure.md" %}}
+{{% embed src="./structure.md" %}}
 
-{{% embed "./evaluations.md" %}}
+{{% embed src="./evaluations.md" %}}

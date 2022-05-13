@@ -14,11 +14,11 @@ weight: 10
 1. Je lis la {{% link "../../" "description du cours" %}}
     * (remplace la théorie pour cette semaine)
 
-1. Je fais le $[link ./tutoriel/](tutoriel 01)
+1. Je fais le {{% link "./tutoriel/" "tutoriel" %}}
 
 1. Je forme une équipe de 4
 
-1. Avec mon équipe, je travaille sur les $[link ./objectifs/](objectifs 01)
+1. Avec mon équipe, je travaille sur les {{% link "./objectifs/" "objectifs 01" %}}
 
 
 1. Je dépose un PDF de mon <a href="https://cmontmorency.moodle.decclic.qc.ca/mod/assign/view.php?id=291482">document de conception sur Moodle</a>

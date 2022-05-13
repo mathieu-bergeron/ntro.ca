@@ -14,7 +14,7 @@ weight: 30
 
 -->
 
-1. Je lis la $[link ./theorie/](théorie)
+1. Je lis la {{% link "./theorie/" "théorie" %}}
 
 1. Je fais le $[link ./tutoriel/](tutoriel)
 

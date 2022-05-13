@@ -4,4 +4,8 @@ weight: 2
 bookCollapseSection: true
 ---
 
-{{% embed "./presentation/index.md" %}}
+{{% embed 
+    src="./presentation/index.md" 
+    indent="1" 
+    first-line="2" 
+    last-line="10" %}}

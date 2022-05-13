@@ -9,5 +9,5 @@ bookCollapseSection: true
 # bookSearchExclude: false
 ---
 
-{{% embed "./presentation/index.md" %}}
+{{% embed src="./presentation/index.md" %}}
 
