@@ -59,6 +59,12 @@ def ciboulot_extension_to_hugo_shortcode(name, attributes, text):
     if name == "link":
         shortcode = '{{%% link "%s" "%s" %%}}' % (attributes[0], text)
 
+    elif name == "download":
+        shortcode = '{{%% download "%s" "%s" %%}}' % (attributes[0], text)
+
+    elif name == "embed":
+        shortcode = '{{%% embed src="%s" %%}}' % (attributes[0])
+
 
     return shortcode
 
