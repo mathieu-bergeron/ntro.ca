@@ -41,6 +41,12 @@ INPUT_PATH = args.i
 MARKDOWN_TITLE_PATTERN = '^#+\s+(\w.*\w)\s*$'
 MARKDOWN_TITLE_MATCHER = re.compile(MARKDOWN_TITLE_PATTERN)
 
+HUGO_HEADER_PATTERN= '^---\s*$'
+HUGO_HEADER_MATCHER= re.compile(HUGO_HEADER_PATTERN)
+
+HUGO_TITLE_PATTERN = '^\s*title\s*:.*$'
+HUGO_TITLE_MATCHER = re.compile(HUGO_TITLE_PATTERN)
+
 def extract_title(input_line):
     title = None
     groups = MARKDOWN_TITLE_MATCHER.match(input_line)
@@ -49,33 +55,62 @@ def extract_title(input_line):
 
     return title
 
-def process_lines(input_lines):
-    title = None
-    for input_line in input_lines:
-        if MARKDOWN_TITLE_MATCHER.match(input_line) and title is None:
-            title = extract_title(input_line)
+def transform_lines(title, header_lines, markdown_lines):
 
     output_lines = []
-    for input_line in input_lines:
-        if input_line.startswith('title:') and title is not None:
+
+    for header_line in header_lines:
+        if header_line.startswith('title:') and title is not None:
             output_lines.append("title: \"%s\"\n"  % title)
         else:
-            output_lines.append(input_line)
+            output_lines.append(header_line)
+
+    for markdown_line in markdown_lines:
+        output_lines.append(markdown_line)
 
     return output_lines
 
-def process_file(input_file):
+
+def read_lines(input_lines):
+    title = None
+
+    in_header = False
+    header_lines = []
+    markdown_lines = []
+
+    for input_line in input_lines:
+        if HUGO_HEADER_MATCHER.match(input_line):
+
+            header_lines.append(input_line)
+            in_header = not in_header
+
+        elif in_header:
+
+            header_lines.append(input_line)
+
+        else:
+
+            if MARKDOWN_TITLE_MATCHER.match(input_line) and title is None:
+                title = extract_title(input_line)
+
+            markdown_lines.append(input_line)
+
+    return (title, header_lines, markdown_lines)
+
+
+def read_file(input_file):
     lines = []
     for line in input_file:
         lines.append(line)
 
-    return process_lines(lines)
+    return read_lines(lines)
 
 
 if __name__ == '__main__':
-    output_lines = []
     with codecs.open(INPUT_PATH, encoding='utf-8') as input_file:
-        output_lines = process_file(input_file)
+        (title, header_lines, markdown_lines) = read_file(input_file)
+
+    output_lines = transform_lines(title, header_lines, markdown_lines)
 
     with codecs.open(INPUT_PATH, 'w', encoding='utf-8') as output_file:
         for line in output_lines:
