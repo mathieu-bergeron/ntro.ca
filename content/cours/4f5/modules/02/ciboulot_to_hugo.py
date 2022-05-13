@@ -25,11 +25,7 @@ from __future__ import print_function
 import argparse
 import codecs
 
-
-#TODO) en français lorsque LANG ou LC_ALL est fr
-#import locale
-#loc = locale.getlocale()
-#print(loc)
+import re
 
 parser = argparse.ArgumentParser(description='Replace ciboulot-style Markdown extensions with Hugo shortcodes')
 parser.add_argument('-i', metavar='MD_FILE', type=str, help='The input .md file')
@@ -42,16 +38,21 @@ if args.i is None:
 
 INPUT_PATH = args.i
 
-def extract_title(line):
-    line = line.replace('#','')
-    line = line.lstrip(' ')
-    line = line.rstrip('\n')
-    return line
+MARKDOWN_TITLE_PATTERN = '^#+\s+(\w.*\w)\s*$'
+MARKDOWN_TITLE_MATCHER = re.compile(MARKDOWN_TITLE_PATTERN)
+
+def extract_title(input_line):
+    title = None
+    groups = MARKDOWN_TITLE_MATCHER.match(input_line)
+    if groups is not None:
+        title = groups.group(1)
+
+    return title
 
 def process_lines(input_lines):
     title = None
     for input_line in input_lines:
-        if input_line.startswith("#") and title is None:
+        if MARKDOWN_TITLE_MATCHER.match(input_line) and title is None:
             title = extract_title(input_line)
 
     output_lines = []
