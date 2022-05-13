@@ -15,6 +15,8 @@ weight: 20
 
 -->
 
+    $[link ./test](test)
+
 1. Je lis la {{% link href="./theorie/" text="théorie" %}}
 
 1. Je fais le {{% link href="./tutoriel/" text="tutoriel" %}}

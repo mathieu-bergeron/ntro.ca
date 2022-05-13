@@ -53,7 +53,7 @@ CIBOULOT_EXTENSION_SPLITTER = re.compile(CIBOULOT_EXTENSION_SPLITS)
 CIBOULOT_EXTENSION_GROUPS = '\$\[([^\]]+)\]\(?([^\)]*)\)?'
 CIBOULOT_EXTENSION_GROUPER = re.compile(CIBOULOT_EXTENSION_GROUPS)
 
-def ciboulot_extension_to_hugo_shortcode(name, attributes, text):
+def ciboulot_extension_to_hugo_shortcode(indent, name, attributes, text):
     shortcode = '{{%% ciboulot name="%s" attributes="%s" text="%s" %%}}' % (name, ",".join(attributes), text)
 
     if name == "link":
@@ -76,13 +76,16 @@ def transform_markdown_line(markdown_line):
 
     matches = CIBOULOT_EXTENSION_GROUPER.findall(markdown_line)
     shortcodes = []
-    for match in matches:
+    for i, match in enumerate(matches):
+        if i == 0:
+            print(text_nodes[i])
+
         name_and_attributes = match[0]
         segments = name_and_attributes.split(' ')
         name = segments[0]
         attributes = segments[1:]
         text = match[1]
-        shortcodes.append(ciboulot_extension_to_hugo_shortcode(name, attributes, text))
+        shortcodes.append(ciboulot_extension_to_hugo_shortcode(0, name, attributes, text))
 
     markdown_line = ""
 
