@@ -56,6 +56,8 @@ CIBOULOT_EXTENSION_GROUPER = re.compile(CIBOULOT_EXTENSION_GROUPS)
 CIBOULOT_INDENT_PATTERN = '^[ ]+'
 CIBOULOT_INDENT_MATCHER = re.compile(CIBOULOT_INDENT_PATTERN)
 
+IDENT_SIZE = 4
+
 
 def ciboulot_extension_to_hugo_shortcode(indent, name, attributes, text):
     shortcode = '{{%% ciboulot name="%s" attributes="%s" text="%s" %%}}' % (name, ",".join(attributes), text)
@@ -88,7 +90,7 @@ def transform_markdown_line(markdown_line):
         if i == 0 and len(text_nodes) > 0:
             indent_match = CIBOULOT_INDENT_MATCHER.match(text_nodes[0])
             if indent_match is not None:
-                indent = len(indent_match.group(0)) / 4
+                indent = len(indent_match.group(0)) / IDENT_SIZE
 
         name_and_attributes = match[0]
         segments = name_and_attributes.split(' ')
