@@ -2,6 +2,10 @@ baseURL = 'http://ntro.ca/'
 title = 'Ntro'
 theme = 'hugo-book'
 
+staticDir = ["extra", "static"]
+
+testVar = "asdf"
+
 defaultContentLanguage = "fr"
 
 # Book configuration
@@ -21,13 +25,13 @@ enableGitInfo = true
 [languages.fr]
     languageName = "Français"
     languageCode = 'fr-ca'
-    contentDir = "content"
+    contentDir = "main"
     weight = 1
 
 [languages.en]
     languageName = "English"
     languageCode = 'en-ca'
-    contentDir = "en.content"
+    contentDir = "_main.en"
     weight = 2
 
 
