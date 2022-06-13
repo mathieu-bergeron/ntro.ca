@@ -2,9 +2,8 @@ baseURL = 'http://ntro.ca/'
 title = 'Ntro'
 theme = 'hugo-book'
 
-staticDir = ["extra", "static"]
-
-testVar = "asdf"
+publishDir = 'public'
+staticDir = [ 'static_ntro.ca' ]
 
 defaultContentLanguage = "fr"
 

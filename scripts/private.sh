@@ -21,45 +21,13 @@ scripts_dir=$(dirname "$this_dir")
 . "$scripts_dir/include.sh"
 ###################
 
-run_commands(){
-
-    for command in "$@";
-    do
-        echo -n "[$run_commands_dir]$ "
-        echo $command
-        eval "${command}"
-        echo ""
-    done
-
-}
-
 save_dir
 
 cd "$root_dir"
 
-publish_dir=$(cat config.toml | grep publishDir | sed "s/[^']*'//"  | sed "s/'.*$//")
+mkdir data
+git clone git@github.com:mathieu-bergeron/examens.ntro.ca   data/examens
 
-dirs=$(find . -type d | tail -n+2 | grep -v "[.]/[.]" | uniq)
-
-dirs="$dirs $root_dir"
-
-for dir in $dirs; 
-do
-    dir=$(echo $dir | sed "s%[.]/%%")
-    this_root_dir=$(echo $dir | sed "s%/.*$%%")
-
-    if [ -e "$dir/.git" -a "$this_root_dir" != "$publish_dir" ];then
-        cd $dir
-
-        echo ""
-        echo ""
-
-        export run_commands_dir=$dir
-        run_commands "$@"
-
-        cd "$root_dir"
-
-    fi
-done
+git clone git@github.com:mathieu-bergeron/private.ntro.ca   private
 
 restore_dir

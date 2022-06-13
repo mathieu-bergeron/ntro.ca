@@ -25,12 +25,18 @@ save_dir
 
 cd "$root_dir"
 
+mkdir themes
+git clone git@github.com:mathieu-bergeron/hugo-book              themes/hugo-book
 
-git clone git@github.com:mathieu-bergeron/ntro.ca                racine
-git clone git@github.com:mathieu-bergeron/manuels.ntro.ca        manuels
-git clone git@github.com:mathieu-bergeron/evaluations.ntro.ca    evaluations
-git clone git@github.com:mathieu-bergeron/cours.ntro.ca          cours
-git clone git@github.com:mathieu-bergeron/sessions.ntro.ca       sessions
+mkdir data
+
+## public data
+git clone git@github.com:mathieu-bergeron/theorie.ntro.ca        data/theorie
+git clone git@github.com:mathieu-bergeron/tutoriels.ntro.ca      data/tutoriels
+git clone git@github.com:mathieu-bergeron/ateliers.ntro.ca       data/ateliers
+git clone git@github.com:mathieu-bergeron/misc.ntro.ca           data/misc
+
+# public static files
+git clone git@github.com:mathieu-bergeron/static.ntro.ca         static_ntro.ca
 
 restore_dir
-
