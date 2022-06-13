@@ -28,6 +28,6 @@ cd "$root_dir"
 mkdir data
 git clone git@github.com:mathieu-bergeron/examens.ntro.ca   data/examens
 
-git clone git@github.com:mathieu-bergeron/private.ntro.ca   private
+git clone git@github.com:mathieu-bergeron/prive.ntro.ca   prive
 
 restore_dir
