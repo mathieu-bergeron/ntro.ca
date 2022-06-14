@@ -11,12 +11,15 @@ bookHidden: true
 
 1. 10pts) pratique
     * 5pts) remise des ateliers (1 semaine après énoncé)
-    * 5pts) question pratique avec les cartes le cours avant l'examen
+    * 5pts) question pratique avec les cartes (une séance d'évaluation à chaque 3 semaines)
         * p.ex. venir faire une tri fusion avec les cartes
         * 5 min par étudiant sur la table devant moi (avec une liste de cartes déjà préparée)
         * question annoncée d'avance
 1. 10pts) théorique
-    * 10pts) questions théoriques de l'examen
+    * 5pts) 1 mini-test théorique par module
+    * 5pts) 1 rapport d'analyse théorique à rédiger pour chaque module (directement dans Moodle?)
+        * p.ex. trouver et expliquer: quel est l'inconvénient des listes tableau?
+        * p.ex. comparaison entre liste chaînée et liste tableau
 
 # Évaluation avec les cartes
 
