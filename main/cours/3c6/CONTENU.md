@@ -7,7 +7,7 @@ bookHidden: true
 
 # 5 étapes
 
-20pts) SEMAINES 1-3
+## 20pts) SEMAINES 1-3
 
 1. Installation 01: Git/Gradle/Eclipse
 1. Installation 02: Méthodologie générale codelescartes.ca, tri libre
@@ -16,29 +16,35 @@ bookHidden: true
 1. Installation 05: Rappel POO (héritage, polymorphisme)
 1. Installation 06: Rappel POO (constructeurs, super)
 
+Évaluation avec le cartes: boucle for: trouver le plus petit
 
-20pts) SEMAINES 4-6
+## 20pts) SEMAINES 4-6
 
 1. Modélisation Json
 1. Modélisation Java
 1. Récursivité (dans les données, pile d'appel)
 
-20pts) SEMAINES 7-9
+Évalutation avec les cartes: afficher un fichier JSON
+
+## 20pts) SEMAINES 7-9
 
 1. Qu'est-ce que l'efficacité
 1. Tri naïf
 1. Tri fusion
 
-20pts) SEMAINES 10-12
+Évaluation avec les cartes: tri fusion
+
+## 20pts) SEMAINES 10-12
 
 1. Liste avec tableau
 1. Liste chaînée simple
 1. Liste chaînée double
 
-20pts) SEMAINES 13-15
+Évaluation avec les cartes: opérations dans liste chaînée double
+
+## 20pts) SEMAINES 13-15
 
 1. Hashmap
 1. Treemap
 
-
-
+Évaluation avec les crates: treemap
