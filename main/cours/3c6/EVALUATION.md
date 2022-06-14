@@ -26,7 +26,8 @@ bookHidden: true
 
 1. Entrevue de 5 min
 1. Algo à réaliser avec les cartes
-1. Annoncé d'avance: l'étudiant peut le pratique
+1. Annoncer d'avance: l'étudiant doit le pratiquer
+1. Donner une exemple d'entrevue en vidéo
 1. L'étudiant doit effectuer un algorithme sur la table (avec les cartes)
 1. L'étudiant doit expliquer les étapes en le faisant (i.e. à quoi ça correspond dans le code)
 

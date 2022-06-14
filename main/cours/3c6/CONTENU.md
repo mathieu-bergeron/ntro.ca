@@ -11,11 +11,11 @@ bookHidden: true
 
 1. Installation Git/Gradle/Eclipse, méthodologie codelescartes.ca
 1. Rappels POO
-1. Rappels tableaux (boucle for / trouver le plus petit)
+1. Rappel tableau d'objets (boucle for / trouver le plus petit)
 
 Évaluation avec le cartes: boucle for / trouver le plus petit
     * NOTE: annoncer d'avance le sujet de l'entrevue (les étudiants doivent le pratiquer)
-    * NOTE: donner un exemple de boucle for simple
+    * NOTE: donner un exemple d'entrevue avec une vidéo
 
 ## 20pts) SEMAINES 4-6
 
