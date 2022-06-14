@@ -5,6 +5,8 @@ theme = 'hugo-book'
 publishDir = 'public'
 staticDir = [ 'static_ntro.ca' ]
 
+ignoreFiles = [ '.git' ]
+
 defaultContentLanguage = "fr"
 
 # Book configuration

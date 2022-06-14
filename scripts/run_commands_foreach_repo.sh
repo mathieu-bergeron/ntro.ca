@@ -37,14 +37,17 @@ save_dir
 
 cd "$root_dir"
 
+maxdepth=3
+
 publish_dir=$(cat config.toml | grep publishDir | sed "s/[^']*'//"  | sed "s/'.*$//")
 
-dirs=$(find . -type d | tail -n+2 | grep -v "[.]/[.]" | uniq)
+dirs=$(find . -maxdepth $maxdepth -type d | tail -n+2 | grep -v "[.]/[.]" | uniq)
 
 dirs="$dirs $root_dir"
 
 for dir in $dirs; 
 do
+
     dir=$(echo $dir | sed "s%[.]/%%")
     this_root_dir=$(echo $dir | sed "s%/.*$%%")
 
