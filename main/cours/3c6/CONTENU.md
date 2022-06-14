@@ -9,30 +9,31 @@ bookHidden: true
 
 ## 20pts) SEMAINES 1-3
 
-1. Installation 01: Git/Gradle/Eclipse
-1. Installation 02: Méthodologie générale codelescartes.ca, tri libre
-1. Installation 03: Exercice sur les tableaux (boucle for)
-1. Installation 04: Rappel POO (références et graphes d'objets)
-1. Installation 05: Rappel POO (héritage, polymorphisme)
-1. Installation 06: Rappel POO (constructeurs, super)
+1. Installation Git/Gradle/Eclipse, méthodologie codelescartes.ca
+1. Rappels POO
+1. Rappels tableaux (boucle for / trouver le plus petit)
 
-Évaluation avec le cartes: boucle for: trouver le plus petit
+Évaluation avec le cartes: boucle for / trouver le plus petit
+    * NOTE: annoncer d'avance le sujet de l'entrevue (les étudiants doivent le pratiquer)
+    * NOTE: donner un exemple de boucle for simple
 
 ## 20pts) SEMAINES 4-6
 
-1. Modélisation Json
-1. Modélisation Java
-1. Récursivité (dans les données, pile d'appel)
+1. Modélisation Java (graphe d'objets)
+1. Récursivité (dans les données Vs pile d'appel)
+1. Modélisation JSON
 
-Évalutation avec les cartes: afficher un fichier JSON
+Évalutation avec les cartes: placer les cartes comme dans un fichier JSON «complexe»
+    * exemple avec données Java
 
 ## 20pts) SEMAINES 7-9
 
-1. Qu'est-ce que l'efficacité
-1. Tri naïf
+1. Structures génériques
+1. Tri naïf / qu'est-ce que l'efficacité?
 1. Tri fusion
 
 Évaluation avec les cartes: tri fusion
+    * exemple avec tri naïf
 
 ## 20pts) SEMAINES 10-12
 
@@ -40,11 +41,14 @@ bookHidden: true
 1. Liste chaînée simple
 1. Liste chaînée double
 
-Évaluation avec les cartes: opérations dans liste chaînée double
+Évaluation avec les cartes: opérations dans une liste chaînée double
+    * exemple avec liste tableau
 
 ## 20pts) SEMAINES 13-15
 
+1. Map naïf (avec liste)
 1. Hashmap
 1. Treemap
 
-Évaluation avec les crates: treemap
+Évaluation avec les cartes: opérations dans un TreeMap
+    * exemple avec map naïf
