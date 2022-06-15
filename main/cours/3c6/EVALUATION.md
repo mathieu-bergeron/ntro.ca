@@ -25,7 +25,7 @@ bookHidden: true
     * 5pts) 1 atelier par module (remise 1 semaine après l'énoncé, à la fin du cours)
     * 5pts) questions pratiques de l'examen
 1. 10pts) théorique
-    * 5pts) 1 auto-évaluation (remise la jour de l'énoncé, petite question sur la théorie + entrevue avec prof)
+    * 5pts) 1 auto-évaluation (remise le jour de l'énoncé, petite question sur la théorie + entrevue avec prof)
     * 5pts) questions théoriques de l'examen
 
 ### Autres idées
