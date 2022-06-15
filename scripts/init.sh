@@ -31,11 +31,11 @@ git clone git@github.com:mathieu-bergeron/hugo-book              themes/hugo-boo
 mkdir contenu
 
 ## public content
-git clone git@github.com:mathieu-bergeron/theorie.ntro.ca        contenu/theorie
-git clone git@github.com:mathieu-bergeron/tutoriels.ntro.ca      contenu/tutoriels
-git clone git@github.com:mathieu-bergeron/ateliers.ntro.ca       contenu/ateliers
-git clone git@github.com:mathieu-bergeron/misc.ntro.ca           contenu/misc
-git clone git@github.com:mathieu-bergeron/3c6.ntro.ca            contenu/3c6
+git clone git@github.com:mathieu-bergeron/theorie.ntro.ca        donnees/theorie
+git clone git@github.com:mathieu-bergeron/tutoriels.ntro.ca      donnees/tutoriels
+git clone git@github.com:mathieu-bergeron/ateliers.ntro.ca       donnees/ateliers
+git clone git@github.com:mathieu-bergeron/misc.ntro.ca           donnees/misc
+git clone git@github.com:mathieu-bergeron/3c6.ntro.ca            donnees/3c6
 
 # public static files
 git clone git@github.com:mathieu-bergeron/static.ntro.ca         static_ntro.ca
