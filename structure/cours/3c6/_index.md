@@ -1,5 +1,5 @@
 ---
-title: "420-3C6-MO"
+title: "3C6: Structures de données"
 weight: 2
 # bookFlatSection: false
 # bookToc: true
