@@ -85,9 +85,9 @@ bookHidden: true
 <br>
 <br>
 
-* {{% link "../modules/02/01" "module 2.1: Modélisation JSON" %}}
-* {{% link "../modules/02/02" "module 2.2: Modélisation Java (graphe d'objets)"  %}}
-* {{% link "../modules/02/03" "module 2.3: Récursivité (dans les données Vs pile d'appel)"  %}}
+* {{% link "../modules/02/01" "module 2.1: modélisation JSON" %}}
+* {{% link "../modules/02/02" "module 2.2: modélisation Java (graphe d'objets)"  %}}
+* {{% link "../modules/02/03" "module 2.3: récursivité (dans les données Vs pile d'appel)"  %}}
 
 </td>
 <td style="text-align:center"><span style="text-align:center;background-color:orange;padding:5px;font-weight:bold;">séance&nbsp;6.2</span>

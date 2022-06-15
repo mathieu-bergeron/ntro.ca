@@ -27,7 +27,7 @@ bookHidden: true
     1. L'atelier **une semaine après** la présentation du module
 
 
-### Résumé des évualtions
+### Résumé des évaluations
 
 <table>
 <tr>
