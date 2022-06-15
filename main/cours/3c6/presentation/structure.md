@@ -13,27 +13,31 @@ bookHidden: true
 </center>
 -->
 
-* Le cours est divisé en 5 étapes. 
+* Le cours est divisé en 5 étapes.
 
-* Je suis dois terminer toutes les évaluations **avant l'examen de fin d'étape**
+* Chaque module contient 3 modules et se termine par une examen contenant un volet théorique et un volet pratique
 
 ### Travail à réaliser
 
-* Une étape est divisée en modules.  
+* Le **jour même** où un module est présenté, **je dois**
 
-* Chaque module contient des activités **que je fais dans l'ordre**:
+    1. Lire/écouter l'exposé théorique 
+    1. Effectuer une entrevue *formative* de 5min avec l'enseignant
+    1. Remplir mon auto-évaluation contenant 
+        * quelques questions théoriques
+        * un retour sur l'entrevue
 
-    1. Un exposé théorique (parfois avec vidéos)
-    1. Un mini-test qui vérifie que j'ai compris la théorie
-    1. Un tutoriel qui me prépare à l'atelier
-    1. Un atelier
-    1. Un mini-test qui vérifie que j'ai compris l'atelier
+* Au plus tard **une semaine** après la présentation du module, **je dois**
+
+    1. Effectuer et remettre un atelier en Java
 
 ### Pendant les heures de cours
 
-* Au début du cours, le prof va présenter la théorie d'un ou deux modules.
+* Au début du cours, le prof va présenter la théorie d'un module.
 
-* Ensuite, le prof va répondre aux questions, dans l'ordre
+* Ensuite, le prof va 
+    1. convoquer chaque étudiant.e à une entrevue *formative*
+    1. répondre aux questions, dans l'ordre
 indiqué par la <a href="https://aiguilleur.ca/file_d_attente/mathieu.bergeron">billetterie</a>
 
 ### En dehors des heurs de cours

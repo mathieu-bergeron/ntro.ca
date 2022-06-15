@@ -17,19 +17,14 @@ bookHidden: true
 
 * Chaque étape vaut 20% de la note finale.
 
-* Chaque étape se termine par un examen pratique à faire en classe et qui vaut 9% de la note finale.
+* Chaque étape se termine par un examen à faire en classe et qui vaut 10% de la note finale.
 
 ### Évaluation des modules
 
 * Pour chaque module, les activités suivantes sont évaluées:
 
-    1. Le mini-test portant sur la théorie
-    1. L'atelier
-    1. Le mini-test portant sur l'atelier
-
-* Pour réussir un module, il faut **50%** à **toutes** les évaluations.
-
-* Il faut terminer les modules **avant** l'examen d'étape
+    1. L'auto-évaluation **je jour même** de la présentation du module
+    1. L'atelier **une semaine après** la présentation du module
 
 
 <!--
