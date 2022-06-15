@@ -9,5 +9,9 @@ bookCollapseSection: true
 # bookSearchExclude: false
 ---
 
+{{% page src="3c6.index" %}}
+
+
+
 {{% embed src="./presentation/index.md" %}}
 

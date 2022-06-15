@@ -3,6 +3,7 @@ title = 'Ntro'
 theme = 'hugo-book'
 
 publishDir = 'public'
+dataDir = 'contenu'
 staticDir = [ 'static_ntro.ca' ]
 
 ignoreFiles = [ '.git' ]
@@ -26,13 +27,13 @@ enableGitInfo = true
 [languages.fr]
     languageName = "Français"
     languageCode = 'fr-ca'
-    contentDir = "main"
+    contentDir = "structure"
     weight = 1
 
 [languages.en]
     languageName = "English"
     languageCode = 'en-ca'
-    contentDir = "_main.en"
+    contentDir = "_structure.en"
     weight = 2
 
 
