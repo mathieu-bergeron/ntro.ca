@@ -9,7 +9,7 @@ weight: 1
 ## Le cours
 
 
-* {{% download "../plan/420-3C6-MO-A21_MB.pdf" "Plan de cours" %}}
+* {{% download "../plan/420-3C6-MO-A22_MB.pdf" "Plan de cours" %}}
 
 * <a href="https://cmontmorency.moodle.decclic.qc.ca/course/view.php?id=5671" target="_blank">Page Moodle du cours</a>
 
