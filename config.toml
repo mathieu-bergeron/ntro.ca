@@ -3,7 +3,7 @@ title = 'Ntro'
 theme = 'hugo-book'
 
 publishDir = 'public'
-dataDir = 'contenu'
+dataDir = 'donnees'
 staticDir = [ 'static_ntro.ca' ]
 
 ignoreFiles = [ '.git' ]
