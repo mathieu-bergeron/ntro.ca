@@ -10,8 +10,3 @@ bookCollapseSection: true
 ---
 
 {{% page src="3c6.index" %}}
-
-
-
-{{% embed src="./presentation/index.md" %}}
-
