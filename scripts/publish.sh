@@ -29,6 +29,9 @@ cd "$root_dir"
 rm -rf public
 hugo
 
+# remove .git from public
+rm -fr public/.git
+
 # rsync to server
 rsync -r --delete public/* ciboulot.ca:~/ntro.ca/
 
